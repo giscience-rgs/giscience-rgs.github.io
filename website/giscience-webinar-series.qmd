@@ -1,0 +1,48 @@
+---
+title: "GIScience Webinar Series"
+---
+
+Our new webinar series will offer fresh, global perspectives on geographic information science and geographic data science research. Upcoming webinars will be advertised on this page, our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=GISCRG&A=1) and [twitter feed](https://twitter.com/giscience_rgs). Where agreed with the speaker, the recordings of our webinars are available on our [youtube channel](https://www.youtube.com/@rgs-ibggiscienceresearchgr5599).
+
+The original GIScience Webinar Series 2020/21 was initiated and managed by [Andrea Ballatore](https://www.kcl.ac.uk/people/andrea-ballatore), in collaboration with [Justin Van Dijk](https://www.geog.ucl.ac.uk/people/academic-staff/justin-van-dijk) and [Stef De Sabbata](https://sdesabbata.github.io/), who now manage the current series. As of January 2023, the GIScience Webinar Series is organised [in collaboration with GISRUK](https://gisruk.org/seminar-series-2/).
+
+
+## Past webinars
+
+- 13 December 2023: [Dr Clio Andris (Georgia Institute of Technology)](https://planning.gatech.edu/people/clio-andris), [New Metrics, Software, and Geovis Tools for Geo Social Network Analysis](https://www.eventbrite.co.uk/e/new-metrics-software-and-geovis-tools-for-geo-social-network-analysis-tickets-767506962987?aff=oddtdtcreator) (jointly organised with [GISRUK](https://gisruk.org/)).
+
+- 5 July 2023: [Dr Xiao Huang (Emory University)](https://www.xiaohuang116.com/), [Unveiling Geospatial Narratives Through COVID-19 and Big Data](https://www.eventbrite.co.uk/e/unveiling-geospatial-narratives-through-covid-19-and-big-data-tickets-662598719607) (jointly organised with [GISRUK](https://gisruk.org/)). **[{youtube}](https://youtu.be/U0nPniouViU?si=wi-v3nPjCTAG00pw)**.
+
+- 29 March 2023: [Dr Chris Gale (Office for National Statistics)](https://www.linkedin.com/in/drchrisgale/?originalSubdomain=uk), [Data-driven small area geographies using nested grids](https://www.eventbrite.co.uk/e/data-driven-small-area-geographies-using-nested-grids-tickets-595967844867) (jointly organised with [GISRUK](https://gisruk.org/)) [**{youtube}**](https://www.youtube.com/watch?v=Gtus6J3O7l8).
+
+- 18 January 2023: [Dr Maggi Kelly (UC Berkley)](http://kellylab.berkeley.edu/), [Mapping for Impact in a Dynamic California](https://www.eventbrite.co.uk/e/rgs-gisruk-giscience-webinar-january-2023-tickets-504471456707) (jointly organised with [GISRUK](https://gisruk.org/)) [**{youtube}**](https://www.youtube.com/watch?v=cgKiIwn92o8).
+
+- 22 March 2022: [Dr Clancy Wilmott (University of California, Berkeley), A Map for Some](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-a-map-for-some-tickets-269750780847) [**{youtube}**](https://www.youtube.com/watch?v=10aPm1HRSOo).
+
+- 9 February 2022: [Alfie Long and James Todd (University College London), Accessibility and mobility in time of covid-19](https://geoinfo.science/2022/01/25/webinar-2-february-2022-alfie-long-and-james-todd/) [**{youtube}**](https://www.youtube.com/watch?v=izDBZx0eRa8).
+
+- 2 June 2021: [Somayeh Dodge (University of California, Santa Barbara), _Analyzing and Mapping Movement Responses to Environmental Disruption_](https://geoinfo.science/2021/06/03/video-somayeh-dodge-analyzing-and-mapping-movement-responses-to-environmental-disruptions/) [**{youtube}**.](https://youtu.be/cM3qIOOKkMU)
+
+- 19 May 2021: [Taylor Shelton (Georgia State University), _Mapping the Opaque: Embracing Fuzziness, Uncovering Inequalities_](https://geoinfo.science/2021/05/24/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/) **[{youtube}](https://www.youtube.com/watch?v=Z-FeU_SiQIM&ab_channel=RGS-IBGGIScienceResearchGroupRGS-IBGGIScienceResearchGroup)**
+
+- 5 May 2021: [Sarah Battersby (Tableau), _One Map to Rule Them All: Spatial in the world of self-service analytics_](https://geoinfo.science/2021/05/24/video-sarah-battersby-one-map-to-rule-them-all-spatial-in-the-world-of-self-service-analytics/) **[{youtube}](https://www.youtube.com/watch?v=NWQRyAbR8LU&ab_channel=RGS-IBGGIScienceResearchGroupRGS-IBGGIScienceResearchGroup)**
+
+- 21 April 2021: [Ate Poorthuis (KU Leuven), _GIScience and Network Analysis: a happy reunion?_](https://geoinfo.science/2021/04/30/video-ate-poorthuis-giscience-network-analysis-a-happy-reunion/) [**{youtube}**](https://youtu.be/KHgjcrGmTnk).
+
+- 31 March 2021: [Andrew Crooks (University at Buffalo), _Analyzing and Modeling Urban Environments Utilizing Computational Social Science: Opportunities, Examples and Challenges._](https://geoinfo.science/2021/04/07/video-andrew-crooks-analyzing-and-modeling-urban-environments/)[**{youtube}**.](https://www.youtube.com/watch?v=VL8vJuDIl-U&ab_channel=RGS-IBGGIScienceResearchGroup)
+
+- 10 March 2021: [Anita Graser (Austrian Institute of Technology), _Exploratory Analysis of Massive Movement Data_.](https://geoinfo.science/2021/03/11/video-anita-graser-exploratory-analysis-of-massive-movement-data/) [**{youtube}**.](https://www.youtube.com/watch?v=dRE9Zl7jpUA&ab_channel=RGS-IBGGIScienceResearchGroup)
+
+- 3 February 2021: [Jakub Nowosad (Adam Mickiewicz University), _Pattern-based spatial analysis: an approach for discovering, describing and studying geographical patterns_](https://geoinfo.science/2021/02/04/video-jakub-nowosad-pattern-based-spatial-analysis/) **[{youtube}](https://www.youtube.com/watch?v=CDgsgcvsg_Y)**
+
+- 13 January 2020: [Ross Purves (University of Zurich) _Chances, challenges and limits for text-based exploration of landscape_](https://geoinfo.science/2021/01/13/video-ross-purves-chances-challenges-and-limits-for-text-based-exploration-of-landscape/) [**{youtube}**](https://youtu.be/MVfrbYqVyz0)
+
+- 2 December 2020: [Joana Barros (Birkbeck, University of London) _Unveiling urban inequalities with spatial analysis and modelling_](https://geoinfo.science/2020/12/02/video-joana-barros-unveiling-urban-inequalities-with-spatial-analysis-and-modelling/) [**{youtube}**](https://geoinfo.science/2020/12/02/video-joana-barros-unveiling-urban-inequalities-with-spatial-analysis-and-modelling/)
+
+- 4 November 2020: [Grant McKenzie (McGill University) _From Spatial to Platial Data Science_](https://geoinfo.science/2020/11/12/from-spatial-to-platial-data-science/) [**{youtube}**](https://geoinfo.science/2020/11/12/from-spatial-to-platial-data-science/)
+
+
+
+* * *
+
+[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)

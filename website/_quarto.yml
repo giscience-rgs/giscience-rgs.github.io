@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "RGS-IBG GIScience Research Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "About"
+      - href: people.qmd
+        text: "People"
+      - text: "Events"
+        menu:
+        - href: giscience-webinar-series.qmd
+          text: "GIScience Webinar Series"
+        - href: conferences.qmd
+          text: "Conferences"
+        - href: call-for-session-sponsorship.qmd
+          text: "Call for Session Sponsorship"
+      - text: "Prizes"
+        menu:
+        - href: dissertation-prizes.qmd
+          text: "Dissertation prizes"
+
+format:
+  html:
+    theme: 
+      - sandstone
+      - custom.scss
+    css: styles.css
+    toc: true
+    embed-resources: true
+
+
+

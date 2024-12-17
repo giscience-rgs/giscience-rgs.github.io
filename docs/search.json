@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "giscience-webinar-series.html",
+    "href": "giscience-webinar-series.html",
+    "title": "GIScience Webinar Series",
+    "section": "",
+    "text": "Our new webinar series will offer fresh, global perspectives on geographic information science and geographic data science research. Upcoming webinars will be advertised on this page, our mailing list and twitter feed. Where agreed with the speaker, the recordings of our webinars are available on our youtube channel.\nThe original GIScience Webinar Series 2020/21 was initiated and managed by Andrea Ballatore, in collaboration with Justin Van Dijk and Stef De Sabbata, who now manage the current series. As of January 2023, the GIScience Webinar Series is organised in collaboration with GISRUK."
+  },
+  {
+    "objectID": "giscience-webinar-series.html#past-webinars",
+    "href": "giscience-webinar-series.html#past-webinars",
+    "title": "GIScience Webinar Series",
+    "section": "Past webinars",
+    "text": "Past webinars\n\n13 December 2023: Dr Clio Andris (Georgia Institute of Technology), New Metrics, Software, and Geovis Tools for Geo Social Network Analysis (jointly organised with GISRUK).\n5 July 2023: Dr Xiao Huang (Emory University), Unveiling Geospatial Narratives Through COVID-19 and Big Data (jointly organised with GISRUK). {youtube}.\n29 March 2023: Dr Chris Gale (Office for National Statistics), Data-driven small area geographies using nested grids (jointly organised with GISRUK) {youtube}.\n18 January 2023: Dr Maggi Kelly (UC Berkley), Mapping for Impact in a Dynamic California (jointly organised with GISRUK) {youtube}.\n22 March 2022: Dr Clancy Wilmott (University of California, Berkeley), A Map for Some {youtube}.\n9 February 2022: Alfie Long and James Todd (University College London), Accessibility and mobility in time of covid-19 {youtube}.\n2 June 2021: Somayeh Dodge (University of California, Santa Barbara), Analyzing and Mapping Movement Responses to Environmental Disruption {youtube}.\n19 May 2021: Taylor Shelton (Georgia State University), Mapping the Opaque: Embracing Fuzziness, Uncovering Inequalities {youtube}\n5 May 2021: Sarah Battersby (Tableau), One Map to Rule Them All: Spatial in the world of self-service analytics {youtube}\n21 April 2021: Ate Poorthuis (KU Leuven), GIScience and Network Analysis: a happy reunion? {youtube}.\n31 March 2021: Andrew Crooks (University at Buffalo), Analyzing and Modeling Urban Environments Utilizing Computational Social Science: Opportunities, Examples and Challenges.{youtube}.\n10 March 2021: Anita Graser (Austrian Institute of Technology), Exploratory Analysis of Massive Movement Data. {youtube}.\n3 February 2021: Jakub Nowosad (Adam Mickiewicz University), Pattern-based spatial analysis: an approach for discovering, describing and studying geographical patterns {youtube}\n13 January 2020: Ross Purves (University of Zurich) Chances, challenges and limits for text-based exploration of landscape {youtube}\n2 December 2020: Joana Barros (Birkbeck, University of London) Unveiling urban inequalities with spatial analysis and modelling {youtube}\n4 November 2020: Grant McKenzie (McGill University) From Spatial to Platial Data Science {youtube}\n\n\nCode of conduct • GDPR privacy notice"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "As part of the Royal Geographical Society with IBG, the GIScience Research Group (GIScRG) attends the RGS-IBG Annual International Conference.\n\nRGS-IBG Annual International Conference 2023 in London (August 29th to September 1st, 2023)\n\nWe also support and sponsor the following conferences:\n\nGISRUK 2023 in Glasgow (April 19-21st, 2023)\nGIScience Conference 2023 in Leeds (September 12-15th, 2023)\n\n\nCode of conduct • GDPR privacy notice"
+  },
+  {
+    "objectID": "call-for-session-sponsorship.html",
+    "href": "call-for-session-sponsorship.html",
+    "title": "Call for Session Sponsorship",
+    "section": "",
+    "text": "The Geographic Information Science Research Group (GIScRG) of the RGS-IBG is glad to invite you to submit proposals for sponsorship of your RGS-IBG Annual International Conference 2024 sessions. The GIScRG welcomes sessions that focus on, but not limited to:\n\nGeographic information science \nGeographic information systems and tools\nCritical GIS, ethics and privacy\nReproducibility and open science\nMapping, cartography and information visualisation\nSpatial analysis and uncertainty\nGeoAI, including but not limited to\n\nMachine learning\nAgent-based modelling\nNatural language processing\nInformation retrieval\nFoundation models \n\nMovement analysis\nLocation-based services\nCrowdsourcing, citizen science and volunteered geographic information\nApplication, including but not limited to\n\nEnvironment\nHealth\nTransportation\nUrban analytics\n\n\nWe are also open to co-sponsorships with other Research Groups.\nObtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.\nPlease send the information below to giscience.rgs [at] gmail.com before February 12th.\n\nSession title\nSession abstract (250 words)\nSession organisers’ name, affiliation and email\nSession format and how many timeslots you are requiring\nWhether you aim for a co-sponsorship with other groups\n(No need to include abstracts for paper contributions)\n\nTimeline:\n\nCall of papers and sessions for the RGS-IBG Annual International Conference 2024\nDeadline for sponsorship applications from session organisers to GIScience RG: February 12th\nDecision on sponsorship applications from GIScience RG to session organisers: February 16th\nDeadline for submissions from session organisers to RGS: March 1st\n\n\nCode of conduct • GDPR privacy notice"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About us",
+    "section": "",
+    "text": "The GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG is a group of academics and practitioners interested in promoting GIScience, Geographic Data Science and GI Technology in geographical research, teaching and the workplace.\nWe also support and promote e-science and the application of novel computing and spatial analysis paradigms to geographical systems, for example, agent-based modelling.\nContact us at giscience.rgs [at] gmail.com for inquiries.\n\n\n\n\n\n\nActivities\n\nManage a mailing list for GIScience researchers and professionals with hundreds of subscribers: giscrg [at] jiscmail.ac.uk\nRunning the RGS-IBG GIScience Webinar Series.\nRunning sessions at the RGS-IBG Annual Conference.\nAwarding Dissertation Prizes for the best MSc dissertations in GIScience in UK and Ireland.\nActive participation in GISRUK, the leading academic GIS conference in the UK (see the current edition GISRUK 2021).\nProviding bursaries for early-career academics to leading GIS conferences.\nDeveloping and maintaining international links, e.g. participation and sponsorship of sessions at the American Association of Geographers Annual Conference.\nWorking with companies such as ESRI (UK) to promote the use of GIS.\nWorking with the Association of Geographic Information (AGI) to promote links with GIS practitioners and Chartered Geographers.\nPromoting and supporting the use of GIS within schools.\nProduction of journal special issues on exciting new research.\nWorking closely with other GIScience forums such as the Association of Geographic Information Laboratories for Europe (AGILE).\n\n\nCode of conduct • GDPR privacy notice"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "The following represents the current GIScRG committee structure. Please contact us if you are interested in becoming part of the committee.\n\nChair: Stef De Sabbata (University of Leicester)\nSecretary: Rui Zhu (University of Bristol)\nTreasurer: Kristina Wolf (Newcastle University)\nPrize Manager: Xiao Li (University of Oxford)\nMembership Secretary: Andrea Ballatore (King’s College London)\n\n\nOrdinary committee members\n\nIssam Al-kenani (Cabinet Office)\nSeraphim Alvanides (Northumbria University)\nNick Bearman (University College London)\nBonnie Buyuklieva (University College London)\nAdam Dennett (University College London)\nEd Manley (University of Leeds)\nRebecca Sharpe (Sheffield Hallam University)\nGodwin Yeboah (University of Warwick)\n\n\n\nPast committee members\n\nAlekos Alexiou (University of Liverpool)\nZiqi Li (University of Glasgow)\nAlan Smith (University of Plymouth)\nRebecca Sharpe (Sheffield Hallam University)\n\nLast update: December 2024\n\nCode of conduct • GDPR privacy notice"
+  },
+  {
+    "objectID": "dissertation-prizes.html",
+    "href": "dissertation-prizes.html",
+    "title": "Dissertation prizes",
+    "section": "",
+    "text": "The RGS-IBG GIScience Research Group offers a prize for the best dissertation in any area of geographic information science, which includes the application of existing techniques or the development of new ones in physical, human or environmental studies.\nEntries are limited to postgraduate students completing GIScience-related MSc in higher education institutions in the UK and Ireland, and must be nominated by a member of staff within those institutions. Each institution is limited to a single entry.\nPrizes are usually £100 plus Annual RGS-IBG Postgraduate Fellowship with £50 plus an Annual RGS-IBG Postgraduate Fellowship for the runner up.\nThe winners in previous editions are listed below. We would also like to thank our prize referees: Chris Brunsdon, Gary Higgs, Seraphim Alvanides, and Anita Graser."
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners",
+    "href": "dissertation-prizes.html#winners",
+    "title": "Dissertation prizes",
+    "section": "2023 Winners",
+    "text": "2023 Winners\n\nAdhib Hussain Syed (University of Leicester), “Modelling Urban Visual Walkability of Leicester with Street View Images Using Deep Learning and Unsupervised Learning Techniques” [see pdf | code | dashboard]\nMichael Hathorn (University College London, CASA), “Evaluating and Enhancing the Performance and Utility of Deep Learning Models for Building Footprint Identification in eThekwini Municipality, South Africa” [see pdf]"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winner",
+    "href": "dissertation-prizes.html#winner",
+    "title": "Dissertation prizes",
+    "section": "2022 Winner",
+    "text": "2022 Winner\n\nClinton Nkolokosa (Sheffield Hallam University), “Monitoring and simulating landscape changes: How do long-term changes in land use and climate affect regional biophysical conditions in Malawi?”\n\nPublished article: https://doi.org/10.1007/s10661-023-11783-9"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-1",
+    "href": "dissertation-prizes.html#winners-1",
+    "title": "Dissertation prizes",
+    "section": "2021 Winners",
+    "text": "2021 Winners\nThere are three winners for 2021:\n\n1st: Matthew Law (University of Liverpool), “Using Urban Morphology to Improve Housing Submarket Spatial Segmentation” [see pdf | bookdown]\n=2nd: Alicja Kotarba (University College London, CASA) “Reclaiming space for people: a street network analysis for the reorganisation of London’s streets and the implementation of the superblock model”\n=2nd: Isabelle Lanzrein (Durham University), “Using UAV collected hyperspectral imagery and LiDAR to identify and analyse spatial impacts of 2018/19 drought events on European beech (Fagus sylvatica) in the Rhön Biosphere, Germany, at the forest stand scale”"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-2",
+    "href": "dissertation-prizes.html#winners-2",
+    "title": "Dissertation prizes",
+    "section": "2020 Winners",
+    "text": "2020 Winners\nThere are three winners for 2020 (see announcement):\n\nHussein Mahfouz (University College London, CASA), “Prioritizing Road Segments for Investment in Segregated Cycling Infrastructure: A Methodological Framework” [github] [see pdf]\nLeo McCarthy (University of Liverpool), “Spatio-temporal analysis and machine learning for traffic speed forecasting” [see pdf]\nHarriet Renton (University of Leicester), “Using a Centrality Based Road Network and Other Explanatory Variables to Predict Annual Average Daily Traffic (AADT) for Major and Minor Roads in City of Leicester” [see pdf]"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-3",
+    "href": "dissertation-prizes.html#winners-3",
+    "title": "Dissertation prizes",
+    "section": "2019 Winners",
+    "text": "2019 Winners\nThere are two winner for 2019:\n\nKathryn Adams “A GIS decision-support analysis of exposure to air pollution during active travel in Leicester” MSc Geographical Information Science, Department of Geography, University of Leicester [see pdf]\nThomas J. Keel “Can we predict why people travel within a city? A study analysing the spatial and temporal characteristics of travel intention within Montréal, Canada”  MSc Spatial Data Science & Visualisation, CASA, UCL [see pdf]"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-4",
+    "href": "dissertation-prizes.html#winners-4",
+    "title": "Dissertation prizes",
+    "section": "2018 Winners",
+    "text": "2018 Winners\nThe winners in 2018 were as follows:\n\n1st prize Thomas Adam Statham “Forecasting Network faults with Bayesian Spatio-temporal Statistical Models” MSc in Geographic Data Science, University of Liverpool, Department of Geography and Planning. [see pdf]\n2nd prize Andrew Eirik Ainer Sharp “Evaluating the Exposure of Heliskiing Ski Guides to Avalanche Terrain Using a Fuzzy Logic Avalanche Susceptibility Model” MSc Geographic Information Systems, University of Leeds, School of Geography. [see pdf]"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-5",
+    "href": "dissertation-prizes.html#winners-5",
+    "title": "Dissertation prizes",
+    "section": "2017 Winners",
+    "text": "2017 Winners\nIn 2017 1st and 2nd prize went to:\n\n1st prize: Gabriele Filomena, MRes Spatial Data Science & Visualisation, CASA, UCL. “A Computational Approach to ‘The Image of the City’”. PDF: Gabriele Filomena 2017 CASA dissertation. This work has now been published in Cities journal here\n2nd prize: Joseph Lewis, MSc Geographical Information Science, University of Leicester. “The Suitability of Using Least Cost Path Analysis in the Prediction of Roman Roads in the Highland and Lowland Zones of Roman Britain” [see PDF]. The GIScRG would also like to congratulate Joseph for, independently, winning the  CASA prize for the best spatial analysis paper at GISRUK 2018"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-6",
+    "href": "dissertation-prizes.html#winners-6",
+    "title": "Dissertation prizes",
+    "section": "2016 Winners",
+    "text": "2016 Winners\nIn 2016 we had two joint winners. They were:\n\nCharlotte E. Sturley, University of Leeds, School of Geography (MSc in Geographical Information Systems) A proof of concept agent-based model of consumer store choice behaviour. Available here: https://www.researchgate.net/profile/Charlotte_Sturley/publications\nJamie O’Donnell, University of Sheffield, Urban Studies and Planning (MSc in Applied Geographic Information Systems) Simplifying the Papathoma Tsunami Vulnerability Assessment: Towards an Open and GIS-based Data Collection and Processing Method. Available here: https://www.researchgate.net/profile/Jamie_Odonnell/publications"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-7",
+    "href": "dissertation-prizes.html#winners-7",
+    "title": "Dissertation prizes",
+    "section": "2015 Winners",
+    "text": "2015 Winners\nIn 2015 we had two joint winners. They were:\n\nDuncan A. Kinnear , University of Edinburgh, School of GeoSciences (MSc Geographical Information Science). Automated detection and tracking of crevasses on a calving glacier from TerraSAR-X imagery. Available here.\nJennifer Rozier, Kingston University,chool of Geography, Geology and the Environment (MSc Geographical Information Systems & Science). Vegetation Response and Recovery in the 20 years following the 1980 eruption of El Chichón volcano: A Remote Sensing Approach. Available here."
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-8",
+    "href": "dissertation-prizes.html#winners-8",
+    "title": "Dissertation prizes",
+    "section": "2014 Winners",
+    "text": "2014 Winners\n\n1st prize: Alena Lindsay Moison from the University of Leeds (nominated by Paul Norman): “Species Distribution Modelling for Australian Fungi: Exploring the potential for GIS applications to assist with the accurate identification of species”\n2nd prize: Owain Rowlands from Kingston University (nominated by Nigel Walford): “Evaluating two GIS based methods for assessing viticultural potential in south-east England”"
+  },
+  {
+    "objectID": "dissertation-prizes.html#winners-9",
+    "href": "dissertation-prizes.html#winners-9",
+    "title": "Dissertation prizes",
+    "section": "2013 Winners",
+    "text": "2013 Winners\n\n=1st prize: Michael Allchin from the University of Southampton (nominated by Eloise Biggs): “Application of growing self-organising maps to the data-driven classification of hydrological catchments”\n=1st prize: John Holliday from the University of Leeds (nominated by Paul Norman and Helen Durham): “GIS Analysis of Linguistic Data”\n2nd prize: Elodie Rod from Birkbeck, University of London (nominated by Shino Shiode): “Broad Street Cholera Outbreak: Population, Space-time evolution and Cluster detection”\n\n\nCode of conduct • GDPR privacy notice"
+  }
+]

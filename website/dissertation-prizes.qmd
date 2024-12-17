@@ -1,0 +1,89 @@
+---
+title: "Dissertation prizes"
+---
+
+The **RGS-IBG GIScience Research Group** offers a prize for the **best** **dissertation** in any area of geographic information science, which includes the application of existing techniques or the development of new ones in physical, human or environmental studies.
+
+Entries are limited to postgraduate students completing GIScience-related MSc in higher education institutions in the UK and Ireland, and must be nominated by a member of staff within those institutions. Each institution is limited to a **single entry**.
+
+Prizes are usually £100 plus Annual RGS-IBG Postgraduate Fellowship with £50 plus an Annual RGS-IBG Postgraduate Fellowship for the runner up.
+
+The winners in previous editions are listed below. We would also like to thank our prize referees: [Chris Brunsdon](https://www.maynoothuniversity.ie/people/chris-brunsdon), [Gary Higgs](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwiserd.ac.uk%2Fabout-us%2Fpeople%2Fgary-higgs&data=04%7C01%7Cs.alvanides%40northumbria.ac.uk%7C33de3206c1894fce3bf308d8bb8b41fb%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637465554065910385%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=0M7H6kwKnjaAPAf6WykbVMsoy2TY3TfbxuZIL59Wh6E%3D&reserved=0), [Seraphim Alvanides](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides/), and [Anita Graser](https://anitagraser.com/about/).
+
+## 2023 Winners
+
+- **Adhib Hussain Syed** (University of Leicester), _"Modelling Urban Visual Walkability of Leicester with Street View Images Using Deep Learning and Unsupervised Learning Techniques"_ \[see [pdf](https://github.com/adhibsyed/walkability/blob/main/paper/paper.pdf) | [code](https://github.com/adhibsyed/walkability) | [dashboard](https://adhibsyed.shinyapps.io/walkabilitydashboard/)\]
+- **Michael Hathorn** (University College London, CASA), _"Evaluating and Enhancing the Performance and Utility of Deep Learning Models for Building Footprint Identification in eThekwini Municipality, South Africa"_ \[see [pdf](https://drive.google.com/file/d/1SKhTUnfoXMkBDt7LKljOfvDaIh--msbz/view)\]
+
+## 2022 Winner
+
+- **Clinton Nkolokosa** (Sheffield Hallam University), _"Monitoring and simulating landscape changes: How do long-term changes in land use and climate affect regional biophysical conditions in Malawi?"_
+    - Published article: [https://doi.org/10.1007/s10661-023-11783-9](https://doi.org/10.1007/s10661-023-11783-9)
+
+## 2021 Winners
+
+There are three winners for 2021:
+
+- **1st: Matthew Law** (University of Liverpool), _“Using Urban Morphology to Improve Housing Submarket Spatial Segmentation”_ \[see [pdf](https://matthewlaw.xyz/dissertation21/_main.pdf) | [bookdown](https://matthewlaw.xyz/dissertation21/)\]
+- **\=2nd: Alicja Kotarba** (University College London, CASA) _“Reclaiming space for people: a street network analysis for the reorganisation of London’s streets and the implementation of the superblock model”_
+- **\=2nd: Isabelle Lanzrein** (Durham University), _"Using UAV collected hyperspectral imagery and LiDAR to identify and analyse spatial impacts of 2018/19 drought events on European beech (Fagus sylvatica) in the Rhön Biosphere, Germany, at the forest stand scale"_
+
+## 2020 Winners
+
+There are three winners for 2020 (see [announcement](https://geoinfo.science/2021/01/25/dissertation-prize-winners-2020/)):
+
+- **Hussein Mahfouz** (University College London, CASA), _"Prioritizing Road Segments for Investment in Segregated Cycling Infrastructure: A Methodological Framework"_ [\[github\]](https://github.com/Hussein-Mahfouz/Bicycle-Network-Optimization) [\[see pdf\]](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FHussein-Mahfouz%2FBicycle-Network-Optimization%2Fblob%2Fmaster%2FPaper%2FDissertation%2520Final%2520Draft.pdf&data=04%7C01%7Cs.desabbata%40leicester.ac.uk%7C56987abd15b941ab467908d8bb81608b%7Caebecd6a31d44b0195ce8274afe853d9%7C0%7C0%7C637465512955525323%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Gtzsn4nTt0tu2QeZquT94A%2B5NOo2HI6VUUDZvlmTNLw%3D&reserved=0)
+- **Leo McCarthy** (University of Liverpool), _"Spatio-temporal analysis and machine learning for traffic speed forecasting"_ [\[see pdf\]](https://www.researchgate.net/publication/348578965_Spatio-temporal_analysis_and_machine_learning_for_traffic_speed_forecasting)
+- **Harriet Renton** (University of Leicester), _"Using a Centrality Based Road Network and Other Explanatory Variables to Predict Annual Average Daily Traffic (AADT) for Major and Minor Roads in City of Leicester"_ [\[see pdf\]](https://www.researchgate.net/publication/348786993_Using_a_Centrality_Based_Road_Network_and_Other_Explanatory_Variables_to_Predict_Annual_Average_Daily_Traffic_AADT_for_Major_and_Minor_Roads_in_City_of_Leicester)
+
+## 2019 Winners
+
+There are two winner for 2019:
+
+- **Kathryn Adams** "_A GIS decision-support analysis of exposure to air pollution during active travel in Leicester_" MSc Geographical Information Science, Department of Geography, University of Leicester [\[see pdf\]](https://www.researchgate.net/publication/341071871_A_GIS_decision-support_analysis_of_exposure_to_air_pollution_during_active_travel_in_Leicester)
+- **Thomas J. Keel** "_Can we predict why people travel within a city? A study analysing the spatial and temporal characteristics of travel intention within Montréal, Canada_"  MSc Spatial Data Science & Visualisation, CASA, UCL [\[see pdf\]](https://www.researchgate.net/publication/344072488_Can_we_predict_why_people_travel_within_a_city_A_study_analysing_the_spatial_and_temporal_characteristics_of_travel_intention_within_Montreal_Canada)
+
+## 2018 Winners
+
+The winners in 2018 were as follows:
+
+- 1st prize **Thomas Adam Statham** "_Forecasting Network faults with Bayesian Spatio-temporal Statistical Models_" MSc in Geographic Data Science, University of Liverpool, Department of Geography and Planning. [\[see pdf\]](http://www.imlab.ac.uk/media/livacuk/gdsl/Tom_Statham_2018_GDS_dissertation.pdf)
+- 2nd prize **Andrew Eirik Ainer Sharp** "_Evaluating the Exposure of Heliskiing Ski Guides to Avalanche Terrain Using a Fuzzy Logic Avalanche Susceptibility Model_" MSc Geographic Information Systems, University of Leeds, School of Geography. [\[see pdf\]](https://www.researchgate.net/publication/331231954_EVALUATING_THE_EXPOSURE_OF_HELISKIING_SKI_GUIDES_TO_AVALANCHE_TERRAIN_USING_A_FUZZY_LOGIC_AVALANCHE_SUSCEPTIBILITY_MODEL)
+
+## 2017 Winners
+
+In 2017 1st and 2nd prize went to:
+
+- 1st prize: **Gabriele Filomena**, MRes Spatial Data Science & Visualisation, CASA, UCL. "_A Computational Approach to 'The Image of the City'_". PDF: [Gabriele Filomena 2017 CASA dissertation.](https://www.ucl.ac.uk/bartlett/casa/sites/bartlett/files/gf_dissertation_compressed.pdf) This work has now been published in Cities journal [here](https://www.sciencedirect.com/science/article/pii/S0264275118309776)
+- 2nd prize: **Joseph Lewis**, MSc Geographical Information Science, University of Leicester. "_The Suitability of Using Least Cost Path Analysis in the Prediction of Roman Roads in the Highland and Lowland Zones of Roman Britain_" [\[see PDF\]](https://josephlewis.github.io/Dissertation.pdf). The GIScRG would also like to congratulate Joseph for, independently, winning the  [CASA prize for the best spatial analysis paper](https://www.ucl.ac.uk/bartlett/casa/news/2018/apr/2018-gisruk-prize-awarded-joseph-lewis) at GISRUK 2018
+
+## 2016 Winners
+
+In 2016 we had two joint winners. They were:
+
+- **Charlotte E. Sturley**, University of Leeds, School of Geography (MSc in Geographical Information Systems) A proof of concept agent-based model of consumer store choice behaviour. Available here: [https://www.researchgate.net/profile/Charlotte\_Sturley/publications](https://www.researchgate.net/profile/Charlotte_Sturley/publications)
+- **Jamie O’Donnell**, University of Sheffield, Urban Studies and Planning (MSc in Applied Geographic Information Systems) Simplifying the Papathoma Tsunami Vulnerability Assessment: Towards an Open and GIS-based Data Collection and Processing Method. Available here: [https://www.researchgate.net/profile/Jamie\_Odonnell/publications](https://www.researchgate.net/profile/Jamie_Odonnell/publications)
+
+## 2015 Winners
+
+In 2015 we had two joint winners. They were:
+
+- **Duncan A. Kinnear** , University of Edinburgh, School of GeoSciences (MSc Geographical Information Science). _Automated detection and tracking of crevasses on a calving glacier from TerraSAR-X imagery_. Available [here](http://www.geos.ed.ac.uk/internal/databases/dms/public/abstract_report.html?username:text=s1472101).
+- **Jennifer Rozier**, Kingston University,chool of Geography, Geology and the Environment (MSc Geographical Information Systems & Science). _Vegetation Response and Recovery in the 20 years following the 1980 eruption of El Chichón volcano: A Remote Sensing Approach_. Available [here](https://www.researchgate.net/publication/291829975_Vegetation_Response_and_Recovery_in_the_20_years_following_the_1982_eruption_of_El_Chichon_volcano_A_Remote_Sensing_Approach).
+
+## 2014 Winners
+
+- 1st prize: **Alena Lindsay Moison** from the University of Leeds (nominated by Paul Norman): "Species Distribution Modelling for Australian Fungi: Exploring the potential for GIS applications to assist with the accurate identification of species”
+- 2nd prize: **Owain Rowlands** from Kingston University (nominated by Nigel Walford): "Evaluating two GIS based methods for assessing viticultural potential in south-east England"
+
+## 2013 Winners
+
+- \=1st prize: **Michael Allchin** from the University of Southampton (nominated by Eloise Biggs): “Application of growing self-organising maps to the data-driven classification of hydrological catchments”
+- \=1st prize: **John Holliday** from the University of Leeds (nominated by Paul Norman and Helen Durham): “GIS Analysis of Linguistic Data”
+- 2nd prize: **Elodie Rod** from Birkbeck, University of London (nominated by Shino Shiode): “Broad Street Cholera Outbreak: Population, Space-time evolution and Cluster detection”
+
+
+
+* * *
+
+[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)

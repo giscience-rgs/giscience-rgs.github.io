@@ -1,0 +1,36 @@
+---
+title: "People"
+---
+
+The following represents the current GIScRG committee structure. Please contact us if you are interested in becoming part of the committee.
+
+- Chair: [Stef De Sabbata](https://sdesabbata.github.io/) (University of Leicester)
+- Secretary: [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/) (University of Bristol)
+- Treasurer: [Kristina Wolf](https://www.ncl.ac.uk/engineering/staff/profile/kristinawolf.html) (Newcastle University)
+- Prize Manager: [Xiao Li](https://www.tsu.ox.ac.uk/people/xli.html) (University of Oxford)
+- Membership Secretary: [Andrea Ballatore](https://aballatore.space/) (King's College London)
+
+### Ordinary committee members
+
+- [Issam Al-kenani](https://www.linkedin.com/in/issam-al-kenani-14691b53/) (Cabinet Office)
+- [Seraphim Alvanides](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides/) (Northumbria University)
+- [Nick Bearman](https://www.ucl.ac.uk/geospatial-analytics/people/nick-bearman) (University College London)
+- [Bonnie Buyuklieva](https://bonnie-buyuklieva.github.io/) (University College London)
+- [Adam Dennett](https://www.ucl.ac.uk/bartlett/casa/dr-adam-dennett) (University College London)
+- [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley) (University of Leeds)
+- [Rebecca Sharpe](https://www.shu.ac.uk/about-us/our-people/staff-profiles/rebecca-sharpe#content) (Sheffield Hallam University)
+- [Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/people/gyeboah/) (University of Warwick)
+
+### Past committee members
+
+- [Alekos Alexiou](http://geographicdatascience.com/people/#alekosalexiou) (University of Liverpool)
+- [Ziqi Li](https://www.gla.ac.uk/schools/ges/staff/ziqili/) (University of Glasgow)
+- [Alan Smith](https://www.plymouth.ac.uk/staff/alan-smith) (University of Plymouth)
+- [Rebecca Sharpe](https://www.shu.ac.uk/about-us/our-people/staff-profiles/rebecca-sharpe) (Sheffield Hallam University)
+
+_Last update: December 2024_
+
+
+* * *
+
+[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)
