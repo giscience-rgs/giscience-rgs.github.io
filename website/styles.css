@@ -1,1 +1,4 @@
 /* css styles */
+li > p:has(+ul) {
+    margin-bottom: 0 !important;
+}

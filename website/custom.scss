@@ -5,3 +5,6 @@ $link-color: #F44C01; // Orange color
 .sidebar .nav .nav-link.active {
     color: $link-color !important;
   }
+li > ul {
+    margin-bottom: 0 !important;
+}
