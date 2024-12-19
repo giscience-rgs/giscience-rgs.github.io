@@ -4,6 +4,7 @@ project:
 
 website:
   title: "RGS-IBG GIScience Research Group"
+  favicon: ../images/cropped-rgs_favicon.png
   page-footer: "RGS-IBG GIScience Research Group | [Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) | [GDPR privacy notice](https://www.rgs.org/privacy-notice/)"
   navbar:
     right:
