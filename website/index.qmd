@@ -8,7 +8,7 @@ We also support and promote e-science and the application of novel computing and
 
 Contact us at _giscience.rgs \[at\] gmail.com_ for inquiries.
 
-![](../images/giscience-rgs-banner.png){fig-align="center"}
+![](images/giscience-rgs-banner.png){fig-align="center"}
 
 ### Activities
 

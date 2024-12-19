@@ -6,7 +6,7 @@ website:
   title: "RGS-IBG GIScience Research Group"
   site-url: https://giscience-rgs.github.io
   description: "GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG"
-  favicon: ../images/cropped-rgs_favicon.png
+  favicon: images/cropped-rgs_favicon.png
   page-footer: "[RGS-IBG GIScience Research Group](https://giscience-rgs.github.io) | [RSS](https://giscience-rgs.github.io/news.xml) | [Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) | [GDPR privacy notice](https://www.rgs.org/privacy-notice/)"
   navbar:
     right:
