@@ -28,8 +28,14 @@ website:
           text: "Dissertation prizes"
       - href: news.qmd
         text: "News"
-      - icon: rss
+      - icon: rss-fill
         href: news.xml
+      - icon: linkedin
+        href: https://www.linkedin.com/groups/12939516/
+      - icon: github
+        href: https://github.com/giscience-rgs
+      - icon: youtube
+        href: https://www.youtube.com/@rgs-ibggiscienceresearchgr5599
 
 format:
   html:
