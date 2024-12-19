@@ -4,16 +4,16 @@ project:
 
 website:
   title: "RGS-IBG GIScience Research Group"
+  site-url: https://giscience-rgs.github.io
+  description: "GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG"
   favicon: ../images/cropped-rgs_favicon.png
-  page-footer: "RGS-IBG GIScience Research Group | [Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) | [GDPR privacy notice](https://www.rgs.org/privacy-notice/)"
+  page-footer: "[RGS-IBG GIScience Research Group](https://giscience-rgs.github.io) | [RSS](https://giscience-rgs.github.io/news.xml) | [Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) | [GDPR privacy notice](https://www.rgs.org/privacy-notice/)"
   navbar:
     right:
       - href: index.qmd
         text: "About"
       - href: people.qmd
         text: "People"
-      - href: news.qmd
-        text: "News"
       - text: "Events"
         menu:
         - href: giscience-webinar-series.qmd
@@ -26,6 +26,10 @@ website:
         menu:
         - href: dissertation-prizes.qmd
           text: "Dissertation prizes"
+      - href: news.qmd
+        text: "News"
+      - icon: rss
+        href: news.xml
 
 format:
   html:
@@ -34,7 +38,6 @@ format:
       dark: [darkly, custom.scss]
     css: styles.css
     toc: true
-    embed-resources: true
 
 
 
