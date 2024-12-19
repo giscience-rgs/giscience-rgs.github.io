@@ -1,0 +1,36 @@
+---
+title: "RGS-IBG Annual International Conference • Sponsored Sessions AIC 2022"
+date: "2022-02-17"
+categories: 
+  - "call"
+  - "events"
+tags: 
+  - "academia"
+  - "conference"
+  - "event"
+  - "gis"
+  - "giscience"
+  - "rgs"
+  - "spatial-data-science"
+---
+
+Leads: Dr Justin van Dijk, Dr Stefano De Sabbata
+
+The [Geographic Information Science Research Group](https://geoinfo.science/) (GIScRG) of the [Royal Geographical Society (with IBG)](https://www.rgs.org/) is a group of academics and practitioners interested in promoting GIScience, Geographic Data Science and GI Technology in geographical research, teaching and the workplace.
+
+The [RGS-IBG Annual International Conference](https://www.rgs.org/research/annual-international-conference/call/) regularly attracts over 2,000 geographers from around the world. This year, the conference is taking place at [Newcastle University](https://www.ncl.ac.uk/), with in-person, online, and hybrid ways to participate.
+
+This year the GIScRG is pleased to sponsor paper presentation sessions on the following topics that focus on geographic information science and tools, cartography, spatial analysis, critical GIS and related disciplines:
+
+- Session 1: [Innovative GI methods in safety and emergency services research](https://geoinfo.science/rgs-2022-session-aic-1-safety-and-emergency-services/)
+- Session 2: [Deep learning applications in geography](https://geoinfo.science/rgs-2022-session-aic-2-deep-learning/)
+- Session 3: [Dealing with uncertainty: Quality and Representation in the context of Big Data](https://geoinfo.science/rgs-2022-session-aic-3-big-data-quality/)
+- Session 4: [Ethics within GIScience, including (but not limited to) the Locus Charter](https://geoinfo.science/rgs-2022-aic-session-4-ethics/)
+- Session 5: [Building healthy learning spaces. What is next as we move from Emergency Education?](https://geoinfo.science/rgs-2022-session-5-healthy-learning/)
+- Session 6: [Geographies of misinformation](https://geoinfo.science/rgs-2022-geographies-of-misinformation/)
+
+The deadline for abstract submission to each of these sessions is **March 18th, 2022.** Further to the paper sessions we also sponsor a [World Café](https://geoinfo.science/rgs-2022-aic-session-5-world-cafe/) session:
+
+- Session 7: [Beyond the systems of geography information](https://geoinfo.science/rgs-2022-aic-session-7-world-cafe/)
+
+Click on the link to access the details of each sessions and to find out how to contribute to the session. Please note that the RGS has strict limits to the contributions of each delegate (see [Contribution limits](https://www.rgs.org/research/annual-international-conference/call/guidance-for-presenters/#Contribution%20limits)). There is no formal limit to the number of sessions chaired or the number of co-authorships. However, sessions are normally understood as open to submission of papers. A session only composed by members of your own team is unlikely to be approved by the RGS.

@@ -1,0 +1,9 @@
+---
+title: "AIC Prize for Conference Attendance 2022"
+date: "2022-03-14"
+categories: 
+  - "call"
+  - "prizes"
+---
+
+The [Geographical Information Science Research Group (GIScRG)](https://geoinfo.science/) of the Royal Geographical Society with IBG (RGS-IBG) has now established an **Annual International Conference (AIC) Prize** 🏆. [**Read more here**](https://geoinfo.science/aic-prize-for-conference-attendance/).

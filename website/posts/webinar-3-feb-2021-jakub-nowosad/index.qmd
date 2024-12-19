@@ -1,0 +1,27 @@
+---
+title: "Webinar 3 feb 2021 • Jakub Nowosad"
+date: "2021-01-20"
+categories: 
+  - "webinar"
+tags: 
+  - "geographic-data-science"
+  - "giscience"
+  - "purves"
+  - "spatial-data-science"
+  - "user-generated-content"
+  - "vgi"
+---
+
+**Title:** Pattern-based spatial analysis: an approach for discovering, describing and studying geographical patterns
+
+**When:** Wednesday 3 February 2021, 12:00 pm UK/GMT
+
+Register at [https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-series-pattern-based-spatial-analysis-tickets-129788399597?aff=erelexpmlt](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-series-text-based-exploration-of-landscape-tickets-129854106127)
+
+![](https://geoinfo.science/wp-content/uploads/2021/01/image.png?w=800)
+
+**Abstract**: Discovering and describing spatial patterns is an important element of many geographical studies with spatial patterns being related to ecological and sociological processes. While spatial patterns are often clearly visible on maps, it is not easy to unequivocally decide if two areas are much alike or delineate regions with similar patterns. In this talk, Jakub Nowosad will present a set of consistent ideas on how spatial patterns can be described and analyzed, with a focus on categorical raster data.
+
+The core idea is to divide raster data consisting of cells having simple content (a single value) into a large number of smaller areas, and then characterize each area using a statistical description of a pattern - a spatial signature. Spatial signatures are multi-values representations of spatial composition and configuration, and therefore can be compared using a large number of existing distance or dissimilarity measures. This enables spatial analysis such as search, change detection, clustering, and segmentation. During this talk, a number of real-life examples of finding similar spatial patterns, detecting changes over time, and grouping areas with homogeneous patterns for regional, continental, and global scales will be shown.
+
+[Dr. Jakub Nowosad](https://nowosad.github.io/) is an assistant professor in the Institute of Geoecology and Geoinformation at Adam Mickiewicz University in Poznan, Poland. His main research is focused on developing and applying spatial methods to broaden our understanding of processes and patterns in the environment. It includes developing, collaborating on, and improving geocomputational methods and software. Jakub is also an active member of the [#rspatial](https://twitter.com/hashtag/rspatial) community and a co-author of [the Geocomputation with R book](https://geocompr.robinlovelace.net/).

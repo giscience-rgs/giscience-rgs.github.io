@@ -1,0 +1,47 @@
+---
+title: "RGS-IBG Annual International Conference 2023 • Call for Sessions"
+date: "2022-12-22"
+categories: 
+  - "call"
+  - "events"
+tags: 
+  - "academia"
+  - "conference"
+  - "event"
+  - "geographic-data-science"
+  - "giscience"
+  - "rgs"
+  - "spatial-data-science"
+---
+
+Leads: Dr Justin van Dijk, Dr Stefano De Sabbata
+
+The [Geographic Information Science Research Group (GIScRG)](https://geoinfo.science/) of the RGS-IBG is glad to invite you to submit proposals for sponsorship of your RGS-IBG Annual International Conference 2023 sessions. The GIScRG welcomes sessions that focus on geographic information science and tools, cartography, spatial analysis, GeoAI, critical GIS and related disciplines. We are also open to co-sponsorships with other Research Groups.
+
+Obtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.
+
+Please send us the following information through the form below before February 3rd.
+
+- Session title
+
+- Session abstract (250 words)
+
+- Session organisers' name, affiliation and email
+
+- Session format and how many timeslots you are requiring
+
+- Whether you aim for a co-sponsorship with other groups
+
+- (**No** need to include abstracts for paper contributions)
+
+Timeline:
+
+- [Call of papers and sessions for the RGS-IBG Annual International Conference 2023](https://www.rgs.org/research/annual-international-conference/call/) is now live.
+
+- Deadline for sponsorship applications from session organisers to GIScience RG: **February 3rd**.
+
+- Decision on sponsorship applications from GIScience RG to session organisers: **February 10th**.
+
+- Session organisers call for paper contributions, GIScience RG advertises sessions **until March 10th**.
+
+- Deadline for submissions from session organisers to RGS: **March 17th**.

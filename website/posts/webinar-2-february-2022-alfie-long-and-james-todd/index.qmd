@@ -1,0 +1,27 @@
+---
+title: "Webinar 2 February 2022 • Alfie Long and James Todd"
+date: "2022-01-25"
+---
+
+**Title:** Accessibility and mobility in time of covid-19
+
+**When:** Wednesday 2nd February 2022, 1:00 PM UTC/GMT
+
+**Register at:** [https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-accessibility-and-mobility-in-time-of-covid-19-tickets-250301507547](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-accessibility-and-mobility-in-time-of-covid-19-tickets-250301507547)
+
+![](https://geoinfo.science/wp-content/uploads/2022/01/giscience-webinar-banner-long-todd.png?w=960)
+
+**Accessibility and essential travel: public transport and the mobility of vulnerable groups during the COVID-19 pandemic**  
+by Alfie Long
+
+**Abstract**: The COVID-19 pandemic, and numerous lockdowns and restrictions, resulted in a significant decline in public transport demand and the replacement of usual out-of-home activities with online equivalents. Whilst restrictions have since eased in the UK, a simple return to pre-pandemic travel behaviour is unlikely. In order to support public transport authorities and operators in providing an inclusive public transport system that meets the needs of users, the field requires continued research into changes in public transport patronage by different population groups throughout the COVID-19 pandemic.  
+Using smart card travel data, we analyse demand for bus services during the COVID-19 pandemic to identify the groups of the older population that continued to use public transport services during lockdown periods and that quickly returned to public transport when restrictions were eased. We compare these trends according to demographic characteristics of passengers as well as accessibility.
+
+**Biography**: Alfie Long is currently a PhD Student at UCL Department of Geography. His research is aimed at developing existing public transport big data infrastructure into simpler data formats that can be used to analyse the social equity of public transport mobilities.
+
+**Analysing the Impacts of Lockdown Restrictions on the London Bicycle Sharing System**  
+By James Todd
+
+**Abstract**: The COVID-19 pandemic has caused large scale disruptions to the daily lives of billions around the world. This is primarily a result of the implementation of Non-Pharmaceutical Interventions (NPI), in its various forms, by local and national governing bodies to help minimise the spread of the virus. In the most severe cases lockdown restrictions were imposed on populations, forcing them to quarantine within their own homes except for limited and specific purposes. Within this analysis we aim to quantify the impacts of these lockdown restrictions on the activity patterns observed within the docked London bicycle sharing system. Employing network and statistical analysis methods this work presents novel insights into the changes in cycling behaviour observed spatially, temporally and at a system-wide scale.
+
+**Biography**: James is currently an Associate Lecturer and Ph.D. student within the Department of Geography at UCL. His research aims to analyse the utility and validity of new urban mobility data sources in helping to understand movement trends for Smart City applications. Over the past few years, James has worked extensively with bicycle sharing system data from over 600 cities, exploiting dock capacity information to create comparative heuristics.

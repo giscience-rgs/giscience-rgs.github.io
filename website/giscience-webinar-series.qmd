@@ -40,9 +40,3 @@ The original GIScience Webinar Series 2020/21 was initiated and managed by [Andr
 - 2 December 2020: [Joana Barros (Birkbeck, University of London) _Unveiling urban inequalities with spatial analysis and modelling_](https://geoinfo.science/2020/12/02/video-joana-barros-unveiling-urban-inequalities-with-spatial-analysis-and-modelling/) [**{youtube}**](https://geoinfo.science/2020/12/02/video-joana-barros-unveiling-urban-inequalities-with-spatial-analysis-and-modelling/)
 
 - 4 November 2020: [Grant McKenzie (McGill University) _From Spatial to Platial Data Science_](https://geoinfo.science/2020/11/12/from-spatial-to-platial-data-science/) [**{youtube}**](https://geoinfo.science/2020/11/12/from-spatial-to-platial-data-science/)
-
-
-
-* * *
-
-[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)

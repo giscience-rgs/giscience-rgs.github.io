@@ -1,0 +1,18 @@
+---
+title: "Webinar 21 April 2021 • Ate Poorthuis"
+date: "2021-04-07"
+categories: 
+  - "webinar"
+---
+
+**Title:** GIScience and network analysis: a happy reunion? 
+
+**When:** Wednesday 21 April 2021, 12:00 pm UK / 11:00 am UTC
+
+**Register at:** [https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-giscience-network-analysis-tickets-149848203009](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-giscience-network-analysis-tickets-149848203009)
+
+![](https://geoinfo.science/wp-content/uploads/2021/04/giscience-webinar-template-eventbrite-banner-5.png?w=1024)
+
+**Abstract:** After having grown into distinctly different sub-disciplines in the latter half of the 20th century, quantitative geography is now increasingly adopting methods and techniques from network analysis. Network analysis provides a different perspective on the world, through _relations_ between people and places instead of the abstract space of GIS. This provides an exciting opportunity to break free(er) from the well-known constraints of the Cartesian grid common to most spatial techniques. Thrust forward by new types of geographical data and computational power, this combination of spatial + network analysis is especially incisive when applied to analyses of urban processes. In this talk, I will briefly discuss the diverging and converging histories of spatial and network analysis. I will then illustrate the current use and potential of network analytical methods in geography by drawing on my recent work on urban neighborhoods and systems.
+
+Ate Poorthuis is an Assistant Professor of Big Data and Human-Environment Systems in the Department of Earth and Environmental Sciences at KU Leuven. His research explores the possibilities and limitations of big data, through quantitative analysis and visualization, to better understand how our cities work. He has particular interest in the practical application of these academic insights within urban planning and policy. Further information about Andrew’s work can be found at [atepoorthuis.com](https://www.atepoorthuis.com/) and on Twitter [@atepoorthuis](https://twitter.com/atepoorthuis).

@@ -1,0 +1,21 @@
+---
+title: "Webinar 10 March 2021 · Anita Graser"
+date: "2021-02-24"
+categories: 
+  - "webinar"
+tags: 
+  - "anita-graser"
+  - "movement-analysis"
+---
+
+**Title:** Exploratory Analysis of Massive Movement Data
+
+**When:** Wednesday 10 March 2021, 12:00pm UK/GMT
+
+Register at: [https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-exploratory-analysis-of-massive-movement-data-tickets-142863810503?aff=ebdssbeac](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-exploratory-analysis-of-massive-movement-data-tickets-142863810503?aff=ebdssbeac)
+
+![](https://geoinfo.science/wp-content/uploads/2021/02/giscience-webinar-template-eventbrite-banner-2.png?w=1024)
+
+**Abstract:** The potential of Big Data for understanding human mobility patterns and other complex phenomena in transportation and movement research is significant. Many contemporary Big Data sources have clear spatiotemporal dimensions. However, Big Spatiotemporal Data is usually messy and presents numerous challenges to researchers and analysts trying to extract information and knowledge. Exploratory data analysis tools for massive movement data are necessary to gain an understanding of our data, its biases and messiness and how they might affect our analyses. This talk presents methods for the exploration of movement patterns in massive quasi-continuous GPS tracking datasets, with examples focusing on international maritime vessel movements.
+
+Anita Graser is a researcher, open source GIS developer, and author. She works at the Austrian Institute of Technology in Vienna, teaches Python for QGIS at UNIGIS Salzburg and serves on the QGIS project steering committee. She has published several books about QGIS, including “[Learning QGIS](https://anitagraser.com/2016/04/15/learning-qgis-3rd-ed-discounts/)” and “[QGIS Map Design](https://locatepress.com/qmd2)”. Her latest project is [MovingPandas](https://anitagraser.github.io/movingpandas/), a Python library for analyzing movement data. You can find out more about her work on [anitagraser.com](https://anitagraser.com/) and follow her on Twitter [@underdarkGIS](https://twitter.com/underdarkGIS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).

@@ -24,7 +24,3 @@ Contact us at _giscience.rgs \[at\] gmail.com_ for inquiries.
 - Promoting and supporting the use of GIS within schools.
 - Production of journal special issues on exciting new research.
 - Working closely with other GIScience forums such as the [Association of Geographic Information Laboratories for Europe (AGILE)](http://www.agile-online.org/).
-
-* * *
-
-[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)

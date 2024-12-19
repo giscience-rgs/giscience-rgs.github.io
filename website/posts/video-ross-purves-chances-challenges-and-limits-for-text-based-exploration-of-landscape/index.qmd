@@ -1,0 +1,23 @@
+---
+title: "Video • Ross Purves: \"Chances, challenges and limits for text-based exploration of landscape\""
+date: "2021-01-13"
+categories: 
+  - "video"
+  - "webinar"
+tags: 
+  - "landscape"
+  - "nlp"
+  - "spatial-data-science"
+---
+
+Ross Purves' [GIScience webinar](https://geoinfo.science/webinars/) is now online!
+
+https://youtu.be/MVfrbYqVyz0
+
+**Abstract:** In this talk I will report on our work to use text to explore different dimensions of landscape, with the ultimate aim of developing methods which enable us to understand how landscape is perceived from multiple standpoints. I'll talk about the chances that these approaches bring with them, some of the key challenges for such research, and some of the limits we currently encounter in our work.
+
+**Speaker:** Prof Ross Purves, Dept of Geography, University of Zurich
+
+[https://www.geo.uzh.ch/~rsp/](https://www.geo.uzh.ch/~rsp/)
+
+**Bio:** I'm a researcher and teacher at the University of Zurich. I've worked here since 2002 in a variety of academic positions. Much of my research has concerned modelling the environment using diverse approaches, and over the last 15 years I've been fortunate enough to be involved in a wide range of research exploring geography through unstructured text.

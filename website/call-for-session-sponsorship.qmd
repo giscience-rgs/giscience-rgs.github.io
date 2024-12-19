@@ -46,8 +46,3 @@ Timeline:
 - Deadline for sponsorship applications from session organisers to GIScience RG: **February 12th**
 - Decision on sponsorship applications from GIScience RG to session organisers: **February 16th**
 - Deadline for submissions from session organisers to RGS: **March 1st**
-
-
-* * *
-
-[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)

@@ -1,0 +1,31 @@
+---
+title: "Webinar 13 jan 2021 • Ross Purves"
+date: "2021-01-12"
+categories: 
+  - "webinar"
+tags: 
+  - "geographic-data-science"
+  - "giscience"
+  - "purves"
+  - "spatial-data-science"
+  - "user-generated-content"
+  - "vgi"
+---
+
+**Title:** Chances, challenges and limits for text-based exploration of landscape
+
+**When:** Wednesday 13 January 2021, 12:00 pm UK/GMT
+
+Register at [https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-series-text-based-exploration-of-landscape-tickets-129854106127](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-series-text-based-exploration-of-landscape-tickets-129854106127)
+
+![](https://geoinfo.science/wp-content/uploads/2021/01/banner_purves.jpg?w=800)
+
+**Abstract**: In this talk I will report on our work to use text to explore different dimensions of landscape, with the ultimate aim of developing methods which enable us to understand how landscape is perceived from multiple standpoints. I'll talk about the chances that these approaches bring with them, some of the key challenges for such research, and some of the limits we currently encounter in our work.
+
+**Speaker**:
+
+Prof Ross Purves, Dept of Geography, University of Zurich
+
+[https://www.geo.uzh.ch/~rsp/](https://www.geo.uzh.ch/~rsp/)
+
+**Bio**: I'm a researcher and teacher at the University of Zurich. I've worked here since 2002 in a variety of academic positions. Much of my research has concerned modelling the environment using diverse approaches, and over the last 15 years I've been fortunate enough to be involved in a wide range of research exploring geography through unstructured text.

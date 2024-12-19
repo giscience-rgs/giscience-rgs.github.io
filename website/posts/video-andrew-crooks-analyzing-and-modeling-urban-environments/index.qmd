@@ -1,0 +1,15 @@
+---
+title: "Video • Andrew Crooks • “Analyzing and Modeling Urban Environments”"
+date: "2021-04-07"
+categories: 
+  - "video"
+  - "webinar"
+---
+
+Andrew's [GIScience webinar](https://www.youtube.com/watch?v=VL8vJuDIl-U&ab_channel=RGS-IBGGIScienceResearchGroup) is now online!
+
+https://www.youtube.com/watch?v=VL8vJuDIl-U&ab\_channel=RGS-IBGGIScienceResearchGroup
+
+**Abstract:** The beginning of this century marked a milestone in human history. For the first time, more than half of the world’s population lived in urban areas. This trend is expected to continue into the foreseeable future with 6.7 billion people projected to live in cities by 2050. This rapid urbanization will place unprecedented pressures on urban systems and their ability to provide basic of services. To plan for this future, we need to better understand the inherent complexity of urban systems from social, economic and environmental perspectives. In this talk, I will explore how such understanding can be gained through the lens of computational social science (CSS): the interdisciplinary science of complex social systems and their investigation through computational modeling (e.g. agent-based models) and related techniques. Through a series of example applications, I will demonstrate how new forms of geographical data (e.g. crowdsourced, social media etc.) not only provide us with a novel way of analyzing urban environments but how such data can be integrated into geographically explicit agent-based models. In addition, I will highlight that by focusing on individual, or groups of individuals, leads to more aggregate patterns emerging and show how model outcomes can be validated by such datasets. After these demonstrations, I will outline the challenges associated with this program of research, as using such data is not without its difficulties. Together, this work provides a brief overview of the current state of analyzing and modeling urban environments through the lens of CSS.
+
+**Speaker:** Andrew Crooks is a Professor at the University at Buffalo within the Department of Geography and a faculty member in the RENEW Institute. His research interests relate to exploring, understanding and the communication of the natural and socio-economic environments using geographical information systems (GIS), social network analysis (SNA), and Agent-based modeling methodologies. He is also a lead author of “[Agent-based Modelling and Geographical Information Systems: A Practical Primer](https://www.gisagents.org/p/publications.html)” which explains how to design and build ABM and how to link the models to Geographical Information Systems. Further information about Andrew’s work can be found at [www.gisagents.org](https://www.gisagents.org/) and on Twitter [@AndyCrooks](https://twitter.com/AndyCrooks).

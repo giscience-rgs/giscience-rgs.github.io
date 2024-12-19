@@ -81,9 +81,3 @@ In 2015 we had two joint winners. They were:
 - \=1st prize: **Michael Allchin** from the University of Southampton (nominated by Eloise Biggs): “Application of growing self-organising maps to the data-driven classification of hydrological catchments”
 - \=1st prize: **John Holliday** from the University of Leeds (nominated by Paul Norman and Helen Durham): “GIS Analysis of Linguistic Data”
 - 2nd prize: **Elodie Rod** from Birkbeck, University of London (nominated by Shino Shiode): “Broad Street Cholera Outbreak: Population, Space-time evolution and Cluster detection”
-
-
-
-* * *
-
-[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)

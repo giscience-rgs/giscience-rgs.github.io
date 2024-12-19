@@ -1,0 +1,17 @@
+---
+title: "Video • Somayeh Dodge: “ Analyzing and Mapping Movement Responses to Environmental Disruptions”"
+date: "2021-06-03"
+categories: 
+  - "video"
+  - "webinar"
+---
+
+Somayeh Dodge’s [GIScience webinar](https://geoinfo.science/webinars/) is now online!
+
+https://youtu.be/cM3qIOOKkMU
+
+**Abstract:** Movement patterns are the results of complex behaviors and processes which drive individuals’ movement in social and ecological systems. These patterns shape urban and natural ecosystem dynamics, structure human and wildlife social networks, and are instrumental to understanding human and wildlife’s behavioral responses to a changing environment. Ubiquitous tracking and the increasing access to movement data in both trajectory forms and aggregate indices have generated a tremendous interest in using data-driven approaches to model and understand behavioral responses to disruptive events such as the COVID-19 pandemic and to develop mitigation strategies. In this presentation, I argue for a human-centered approach to movement data science to analyze and map human responses to environmental disruptions.
+
+**Speaker:** Somayeh Dodge, University of California, Santa Barbara, [somayehdodge.info](http://www.somayehdodge.info) , [@smayadodge](https://twitter.com/smayadodge).
+
+**Bio:** Somayeh Dodge serves as Assistant Professor of Spatial Data Science and leads the MOVE Laboratory in the Department of Geography at the University of California, Santa Barbara. She received her PhD in Geography with a specialization in Geographic Information Science (GIScience) from the University of Zurich, Switzerland in 2011. She holds a MS degree in GIS Engineering and a BS degree in Geomatics Engineering from the KNT University of Technology, Iran. Somayeh’s research focuses on developing data analytics, knowledge discovery, modeling, and visualization techniques to study movement in human and ecological systems. She has published in a number of high-ranked international journals such as Methods in Ecology and Evolution, International Journal of Geographic Information Science, Philosophical Transactions of the Royal Society B, Journal of Spatial Information Science (JOSIS), Movement Ecology, Computers, Environment and Urban Systems (CEUS), Geographical Analysis, and Information Visualization. Her work is supported by the US National Science Foundation (NSF). Somayeh currently serves as the Co-Editor in Chief of the JOSIS as well as on the editorial board of multiple journals including Geographical Analysis, Cartography and Geographic Information Science, CEUS, Journal of Location Based Services, and The Professional Geographer. Dr Dodge’s work can be found at [somayehdodge.info](http://www.somayehdodge.info) and [@smayadodge](https://twitter.com/smayadodge) on Twitter.

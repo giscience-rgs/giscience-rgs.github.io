@@ -4,12 +4,15 @@ project:
 
 website:
   title: "RGS-IBG GIScience Research Group"
+  page-footer: "RGS-IBG GIScience Research Group | [Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) | [GDPR privacy notice](https://www.rgs.org/privacy-notice/)"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: "About"
       - href: people.qmd
         text: "People"
+      - href: news.qmd
+        text: "News"
       - text: "Events"
         menu:
         - href: giscience-webinar-series.qmd
@@ -25,9 +28,9 @@ website:
 
 format:
   html:
-    theme: 
-      - sandstone
-      - custom.scss
+    theme:
+      light: [flatly, custom.scss]
+      dark: [darkly, custom.scss]
     css: styles.css
     toc: true
     embed-resources: true

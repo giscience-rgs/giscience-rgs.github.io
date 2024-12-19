@@ -1,0 +1,15 @@
+---
+title: "Video • Grant McKenzie: \"From Spatial to Platial Data Science\""
+date: "2020-11-12"
+categories: 
+  - "video"
+  - "webinar"
+tags: 
+  - "spatial-data-science"
+---
+
+Grant McKenzie's [GIScience webinar](https://geoinfo.science/2020/10/12/webinar-grant-mckenzie/) is now online!
+
+https://youtu.be/cwy3GNd9hHE
+
+**Abstract:** The availability of massive amounts of user-generated data has changed the way that spatial science research is conducted today as data synthesis and advanced computational equipment are now often a fundamental part of the scientific process. With the increased availability of these data, it is becoming apparent that the value of “big data” lies not necessarily in its size, but in its heterogeneity.  As recent progress in data analytics and ambient intelligence is met with sensor-enabled mobile technology, geographic information science has pushed beyond “spatial” to incorporate non-explicitly geospatial contextual data.  This heterogeneous “digital exhaust” has led us to develop computational, data-driven models of human behaviour and take a multi-dimensional approach to investigating “place” and the activities people carry out at places.  In this talk, Prof. Grant McKenzie will champion this move towards Platial data science through his research on reverse geocoding, language-based tourist attraction similarity, and shared micro-mobility services.

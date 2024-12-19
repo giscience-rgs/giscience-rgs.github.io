@@ -1,0 +1,17 @@
+---
+title: "Video • Ate Poorthuis: “GIScience &amp; Network Analysis: A Happy Reunion?”"
+date: "2021-04-30"
+categories: 
+  - "video"
+  - "webinar"
+---
+
+Ate Poorthuis' [GIScience webinar](https://geoinfo.science/webinars/) is now online!
+
+https://youtu.be/KHgjcrGmTnk
+
+**Abstract:**After having grown into distinctly different sub-disciplines in the latter half of the 20th century, quantitative geography is now increasingly adopting methods and techniques from network analysis. Network analysis provides a different perspective on the world, through relations between people and places instead of the abstract space of GIS. This provides an exciting opportunity to break free(er) from the well-known constraints of the Cartesian grid common to most spatial techniques. Thrust forward by new types of geographical data and computational power, this combination of spatial + network analysis is especially incisive when applied to analyses of urban processes. In this talk, I will briefly discuss the diverging and converging histories of spatial and network analysis. I will then illustrate the current use and potential of network analytical methods in geography by drawing on my recent work on urban neighborhoods and systems.
+
+**Speaker:** Ate Poorthuis, KU Leuven, [atepoorthuis.com](http://atepoorthuis.com) , [@atepoorthuis](https://twitter.com/atepoorthuis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+
+**Bio:** Ate Poorthuis is an Assistant Professor of Big Data and Human-Environment Systems in the Department of Earth and Environmental Sciences at KU Leuven. His research explores the possibilities and limitations of big data, through quantitative analysis and visualization, to better understand how our cities work. He has particular interest in the practical application of these academic insights within urban planning and policy. Further information about Andrew’s work can be found at [atepoorthuis.com](http://atepoorthuis.com) and on Twitter [@atepoorthuis](https://twitter.com/atepoorthuis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).

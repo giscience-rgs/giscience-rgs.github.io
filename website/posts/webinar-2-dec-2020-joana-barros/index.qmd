@@ -1,0 +1,24 @@
+---
+title: "Webinar 2 dec 2020 • Joana Barros"
+date: "2020-11-25"
+categories: 
+  - "webinar"
+tags: 
+  - "giscience"
+  - "joana-barros"
+  - "spatial-data-science"
+---
+
+![](https://geoinfo.science/wp-content/uploads/2020/11/image.png?w=800)
+
+**Title: Unveiling urban inequalities with spatial analysis and modelling**
+
+**When:** Wednesday 2 December 2020, 11:00 am UTC / 12:00 pm UK
+
+[\>> Register on Eventbrite <<](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-series-unveiling-urban-inequalities-tickets-130550515105)
+
+**Abstract**: Urban inequalities are one of the greatest challenges in cities around the world. Identifying, quantifying and mapping inequalities are paramount for the understanding of their dynamics and the development of policies to both prevent and combat them. The talks will give an overview of a series of research projects that use geotechnologies to study urban inequalities, with examples of studies on segregation and accessibility in São Paulo and Rio (Brazil) and London (UK).
+
+**Speaker**: Dr Joana Barros, Senior Lecturer in Geographic Information Science, Department of Geography, Birkbeck, University of London • http://www.bbk.ac.uk/geography/our-staff/full-time-academic-staff/barros[](http://www.bbk.ac.uk/geography/our-staff/full-time-academic-staff/barros)
+
+**Bio**: Joana Barros is Senior Lecturer in Geographic Information Science at Birkbeck, University of London. She is a planner and geographic information scientist with expertise in the study of urban inequalities using spatial data and geo-technologies. Her research focuses on housing, urban growth, segregation, transport, and informal settlements. She has experience in comparative studies across the Global South and North, with recent projects on cities in the UK, Brazil and China.

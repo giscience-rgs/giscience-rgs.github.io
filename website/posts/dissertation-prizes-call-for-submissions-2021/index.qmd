@@ -1,0 +1,26 @@
+---
+title: "Dissertation prizes • Call for submissions 2021"
+date: "2021-01-18"
+categories: 
+  - "call"
+tags: 
+  - "awards"
+  - "dissertations"
+  - "giscience"
+---
+
+The RGS-IBG GIScience Research Group awards **two annual prizes** for the two **best postgraduate dissertations** on any issue relating to GIS/Sc, spatial analysis, spatial modelling or geocomputation (see the list of [previous winners](https://geoinfo.science/dissertation-prizes/)).
+
+The prize for the best dissertation is £100 plus an annual RGS-IBG Postgraduate Fellowship and the runner up will receive £50 plus an annual RGS-IBG Postgraduate Fellowship.
+
+**Submission deadline: Tuesday 30th November 2021**
+
+**Eligibility:** We accept nominations for Masters level dissertations matching the following criteria:
+
+- The dissertation should be of **Distinction** **standard**.
+- It should be approximately 10,000 words in length, covering significant research in one or more of the above areas. 
+- The final mark should be awarded from the 1st November 2020 to the 30th November 2021.
+- It should not have been nominated already for this prize.
+- We will only accept one entry per department of higher education institutions in the **UK** and the **Republic of Ireland** (submissions from other countries will NOT be eligible).
+
+**Submission instructions:** The dissertation should be submitted by the student's institution (Director of Postgraduate Programme or similar) and with the student’s knowledge (the student should be CC'd in the email nomination). Please submit the work in electronic form, along with a copy of the dissertation regulations to Dr Seraphim Alvanides, Northumbria University at Newcastle ([s.alvanides@northumbria.ac.uk](mailto:s.alvanides@northumbria.ac.uk)).

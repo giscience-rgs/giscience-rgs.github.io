@@ -1,0 +1,17 @@
+---
+title: "Video • Taylor Shelton: “Mapping the Opaque: Embracing Fuzziness, Uncovering Inequalities”"
+date: "2021-05-24"
+categories: 
+  - "video"
+  - "webinar"
+---
+
+Taylor Shelton’s [GIScience webinar](https://geoinfo.science/webinars/) is now online!
+
+https://youtu.be/Z-FeU\_SiQIM
+
+**Abstract:** Despite the continued growth of data collected about any number of social and spatial phenomena, as well as new analytical techniques to make sense of such data, many processes of particular interest to geographers remain resistant to datafication, quantification and spatial visualization. But the inherent fuzziness associated with trying to quantify and map emerging phenomena for whom precise data does not exist does not mean that using what data we do have is useless or should be avoided. Instead, as this presentation will argue, if we’re interested in uncovering the multifaceted inequalities that characterize our present moment, we must begin to embrace the inherent fuzziness of these new, partial data sources and attempt to make sense out of their partial perspective. In order to demonstrate the value of this disposition towards embracing the fuzziness of data, this presentation will discuss findings from two recent research projects focused on mapping otherwise opaque socio-spatial processes: (1) quantifying the presence of emerging forms of regionally-specific housing speculation in college towns of the American South that have previously gone unstudied, and (2) using geotagged social media data to develop more relational understandings of gentrification that focus on changes in the relationships between different people and neighborhoods in the city over time, rather than on the inherent or internal characteristics of neighborhoods themselves. Ultimately, this presentation points towards the need for continued experimentations with emerging data sources, analytical techniques and geographic theories to better understand the ever-evolving landscape of socio-spatial inequality in the world today.
+
+**Speaker**: Taylor Shelton, Georgia State University, [taylorshelton.info](https://taylorshelton.info/), [@kyjts](https://twitter.com/kyjts?lang=en).
+
+**Bio:** Dr. Taylor Shelton is an Assistant Professor in the Department of Geosciences at Georgia State University. Working at the intersection of critical human geography and geographic information science, Dr. Shelton is interested in how urban spaces and social inequalities are represented, reproduced and contested through maps and data. In particular, his work focuses on using mapping and data visualization to develop alternative understandings of urban inequalities, especially in relation to issues of housing speculation, property ownership and neighborhood segregation. Prior to joining Georgia State in 2020, Dr. Shelton held appointments at Mississippi State University, the University of Kentucky and the Georgia Institute of Technology. Before that, Dr. Shelton earned BA and MA degrees in geography from the University of Kentucky and his PhD from the Graduate School of Geography at Clark University. Dr Shelton’s work can be found at [taylorshelton.info](https://taylorshelton.info/) and [@kyjts](https://twitter.com/kyjts?lang=en).

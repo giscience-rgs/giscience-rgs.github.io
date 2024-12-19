@@ -1,0 +1,18 @@
+---
+title: "Webinar 5 May 2021 • Sarah Battersby"
+date: "2021-04-17"
+categories: 
+  - "webinar"
+---
+
+**Title:** One Map to Rule Them All: Spatial in the World of Self-service Analytics.  
+
+**When:** Wednesday 5th May 2021, 17:00 pm UK / 16:00 pm UTC
+
+**Register at:** [https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-spatial-in-the-world-of-self-service-analytics-tickets-151306115665](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-spatial-in-the-world-of-self-service-analytics-tickets-151306115665)
+
+![](https://geoinfo.science/wp-content/uploads/2021/04/giscience-webinar-template-eventbrite-banner-6.png?w=1024)
+
+**Abstract**: There are many online and desktop tools designed to make mapping easy for _anyone_ who wants to explore, analyze, and communicate the spatial patterns in their data. However, as geographers seem to enjoy reminding everyone, “spatial is special,” and the decision making that goes into finding, understanding, and communicating spatial patterns can be complex.  In this presentation, I will address some of the technical, design, and analytics challenges that we face in designing self-service spatial analytics tools, as well as consideration of the broader challenges of how _people_ think about maps that make the whole process more challenging (and more interesting).
+
+Sarah Battersby is a Principal Research Scientist on the Tableau Research team at Salesforce.  Sarah’s primary area of focus is cartography, with an emphasis on cognition. Her work emphasizes how to help everyone visualize and use spatial information more effectively – no advanced degree in geospatial required.  Sarah holds a PhD in GIScience from the University of California at Santa Barbara. She is a member of the International Cartographic Association Commission on Map Projections, and is a Past President of the Cartography and Geographic Information Society (CaGIS). Sarah's work can be found on Twitter at [@mapsOverlord](https://twitter.com/mapsOverlord).

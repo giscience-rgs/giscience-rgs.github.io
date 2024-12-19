@@ -1,0 +1,26 @@
+---
+title: "Webinar 4 nov 2020 • Grant McKenzie"
+date: "2020-10-12"
+categories: 
+  - "webinar"
+tags: 
+  - "giscience"
+  - "grant-mckenzie"
+  - "spatial-data-science"
+---
+
+![](https://geoinfo.science/wp-content/uploads/2020/11/https___cdn.evbuc_.com_images_114573859_155571014109_1_original.jpeg?w=800)
+
+**When:** Wednesday 4 November 2020, 11:00 am UTC / 12:00 pm UK
+
+**Speaker:** Grant McKenzie, Assistant Professor, Department of Geography, McGill University • [https://grantmckenzie.com](https://grantmckenzie.com) • @grantdmckenzie
+
+**Host:** Andrea Ballatore • [https://aballatore.space](https://aballatore.space)
+
+**Register on Eventbrite at:** [https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-series-from-spatial-to-platial-data-science-tickets-125240111545](https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-series-from-spatial-to-platial-data-science-tickets-125240111545)
+
+**Title: From Spatial to Platial Data Science**
+
+**Abstract:** The availability of massive amounts of user-generated data has changed the way that spatial science research is conducted today as data synthesis and advanced computational equipment are now often a fundamental part of the scientific process. With the increased availability of these data, it is becoming apparent that the value of "big data" lies not necessarily in its size, but in its heterogeneity.  As recent progress in data analytics and ambient intelligence is met with sensor-enabled mobile technology, geographic information science has pushed beyond “spatial” to incorporate non-explicitly geospatial contextual data.  This heterogeneous “digital exhaust” has led us to develop computational, data-driven models of human behaviour and take a multi-dimensional approach to investigating "place" and the activities people carry out at places.  In this talk, Prof. Grant McKenzie will champion this move towards Platial data science through his research on reverse geocoding, language-based tourist attraction similarity, and shared micro-mobility services.
+
+**Bio:** Grant McKenzie is an assistant professor in the Department of Geography at McGill University in Montreal, Canada where he leads the Platial Analysis Lab, an interdisciplinary research group that works at the intersection of data science and behavioural geography. Much of Dr. McKenzie’s work examines how human activities vary within and between local neighborhoods and global communities. This has driven his applied interests in financial accessibility, geo-privacy, and micro-mobility services as well as the broader role that geospatial data science plays at the intersection of information technologies and society. Grant is a founding member of the Seattle-based start-up consultancy Spatial Development International and has worked as a data scientist and software developer for a range of NGOs and leading technology companies.

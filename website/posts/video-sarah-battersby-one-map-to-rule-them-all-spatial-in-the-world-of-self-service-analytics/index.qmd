@@ -1,0 +1,17 @@
+---
+title: "Video • Sarah Battersby : “One Map to Rule Them All: Spatial in the World of Self-service Analytics\""
+date: "2021-05-24"
+categories: 
+  - "video"
+  - "webinar"
+---
+
+Sarah Battersby's [GIScience webinar](https://geoinfo.science/webinars/) is now online!
+
+https://youtu.be/NWQRyAbR8LU
+
+**Abstract**: There are many online and desktop tools designed to make mapping easy for anyone who wants to explore, analyze, and communicate the spatial patterns in their data. However, as geographers seem to enjoy reminding everyone, “spatial is special,” and the decision making that goes into finding, understanding, and communicating spatial patterns can be complex. In this presentation, I will address some of the technical, design, and analytics challenges that we face in designing self-service spatial analytics tools, as well as consideration of the broader challenges of how people think about maps that make the whole process more challenging (and more interesting).
+
+**Speaker**: Sarah Battersby, Tableau, [@mapsOverlord](https://twitter.com/mapsoverlord?lang=en).
+
+**Bio**: Sarah Battersby is a Principal Research Scientist on the Tableau Research team at Salesforce. Sarah’s primary area of focus is cartography, with an emphasis on cognition. Her work emphasizes how to help everyone visualize and use spatial information more effectively – no advanced degree in geospatial required. Sarah holds a PhD in GIScience from the University of California at Santa Barbara. She is a member of the International Cartographic Association Commission on Map Projections, and is a Past President of the Cartography and Geographic Information Society (CaGIS). Sarah’s work can be found on Twitter at [@mapsOverlord](https://twitter.com/mapsoverlord?lang=en).

@@ -1,0 +1,15 @@
+---
+title: "Video • Anita Graser • \"Exploratory Analysis of Massive Movement Data\""
+date: "2021-03-11"
+categories: 
+  - "video"
+  - "webinar"
+---
+
+Anita's [GIScience webinar](https://www.youtube.com/watch?v=dRE9Zl7jpUA&ab_channel=RGS-IBGGIScienceResearchGroup) is now online!
+
+https://www.youtube.com/watch?v=dRE9Zl7jpUA&ab\_channel=RGS-IBGGIScienceResearchGroup
+
+**Abstract:** The potential of Big Data for understanding human mobility patterns and other complex phenomena in transportation and movement research is significant. Many contemporary Big Data sources have clear spatiotemporal dimensions. However, Big Spatiotemporal Data is usually messy and presents numerous challenges to researchers and analysts trying to extract information and knowledge. Exploratory data analysis tools for massive movement data are necessary to gain an understanding of our data, its biases and messiness and how they might affect our analyses. This talk presents methods for the exploration of movement patterns in massive quasi-continuous GPS tracking datasets, with examples focusing on international maritime vessel movements.
+
+**Speaker:** Anita Graser is a researcher, open source GIS developer, and author. She works at the Austrian Institute of Technology in Vienna, teaches Python for QGIS at UNIGIS Salzburg and serves on the QGIS project steering committee. She has published several books about QGIS, including “[Learning QGIS](https://anitagraser.com/2016/04/15/learning-qgis-3rd-ed-discounts/)” and “[QGIS Map Design](https://locatepress.com/qmd2)”. Her latest project is [MovingPandas](https://anitagraser.github.io/movingpandas/), a Python library for analyzing movement data. You can find out more about her work on [anitagraser.com](https://anitagraser.com/) and follow her on Twitter [@underdarkGIS](https://twitter.com/underdarkGIS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).

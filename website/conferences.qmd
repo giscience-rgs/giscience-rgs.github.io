@@ -10,8 +10,3 @@ We also support and sponsor the following conferences:
 
 - [GISRUK 2023 in Glasgow](https://giscience2023.github.io/) (April 19-21st, 2023)
 - [GIScience Conference 2023 in Leeds](https://giscience2023.github.io/) (September 12-15th, 2023)
-
-
-* * *
-
-[Code of conduct](https://www.rgs.org/about/the-society/governance/code-of-conduct/) • [GDPR privacy notice](https://www.rgs.org/privacy-notice/)

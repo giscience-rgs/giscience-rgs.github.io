@@ -1,0 +1,24 @@
+---
+title: "Dissertation prize winners 2020"
+date: "2021-01-25"
+categories: 
+  - "prizes"
+---
+
+We are delighted to announce the 2020 **winners** of our annual [RGS-IBG GIScience Dissertation Prizes](https://geoinfo.science/dissertation-prizes/). The prize is awarded to the **best postgraduate dissertation** in geographic information science in the UK and Ireland.
+
+To reward the exceptionally high quality of nominations given the constraints imposed by the pandemic, we have decided to award three prizes of equal value (in alphabetical order):
+
+![](https://geoinfo.science/wp-content/uploads/2021/01/mahfouz.jpg?w=200)
+
+**Hussein Mahfouz** (University College London, CASA), _Prioritizing Road Segments for Investment in Segregated Cycling Infrastructure: A Methodological Framework_ [\[github\]](https://github.com/Hussein-Mahfouz/Bicycle-Network-Optimization) [\[see pdf\]](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FHussein-Mahfouz%2FBicycle-Network-Optimization%2Fblob%2Fmaster%2FPaper%2FDissertation%2520Final%2520Draft.pdf&data=04%7C01%7Cs.desabbata%40leicester.ac.uk%7C56987abd15b941ab467908d8bb81608b%7Caebecd6a31d44b0195ce8274afe853d9%7C0%7C0%7C637465512955525323%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Gtzsn4nTt0tu2QeZquT94A%2B5NOo2HI6VUUDZvlmTNLw%3D&reserved=0)
+
+![](https://geoinfo.science/wp-content/uploads/2021/01/leo_mccarthy.jpg?w=429)
+
+**Leo McCarthy** (University of Liverpool), _Spatio-temporal analysis and machine learning for traffic speed forecasting_ [\[see pdf\]](https://www.researchgate.net/publication/348578965_Spatio-temporal_analysis_and_machine_learning_for_traffic_speed_forecasting)
+
+![](https://geoinfo.science/wp-content/uploads/2021/01/harriet-renton.jpg?w=399)
+
+**Harriet Renton** (University of Leicester), _Using a Centrality Based Road Network and Other Explanatory Variables to Predict Annual Average Daily Traffic (AADT) for Major and Minor Roads in City of Leicester_ [\[see pdf\]](https://www.researchgate.net/publication/348786993_Using_a_Centrality_Based_Road_Network_and_Other_Explanatory_Variables_to_Predict_Annual_Average_Daily_Traffic_AADT_for_Major_and_Minor_Roads_in_City_of_Leicester)
+
+The RGS-IBG GIScience Research Group congratulates these students for their excellent research work!
