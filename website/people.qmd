@@ -13,8 +13,8 @@ The following represents the current GIScRG committee structure. Please contact 
 ### Ordinary committee members
 
 - [Issam Al-kenani](https://www.linkedin.com/in/issam-al-kenani-14691b53/) (Cabinet Office)
-- [Seraphim Alvanides](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides/) (Northumbria University)
-- [Nick Bearman](https://www.ucl.ac.uk/geospatial-analytics/people/nick-bearman) (University College London)
+- [Seraphim Alvanides](https://www.researchgate.net/profile/Seraphim-Alvanides) (Independent Researcher)
+- [Nick Bearman](https://nickbearman.github.io/) (Independent Consultant)
 - [Bonnie Buyuklieva](https://bonnie-buyuklieva.github.io/) (University College London)
 - [Adam Dennett](https://www.ucl.ac.uk/bartlett/casa/dr-adam-dennett) (University College London)
 - [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley) (University of Leeds)

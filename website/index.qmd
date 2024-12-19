@@ -2,25 +2,25 @@
 title: "About us"
 ---
 
-The **GIScience Research Group (GIScRG)** at the [Royal Geographical Society with IBG](https://www.rgs.org) is a [group of academics and practitioners](https://geoinfo.science/committee/) interested in promoting GIScience, Geographic Data Science and GI Technology in geographical research, teaching and the workplace.
+The **GIScience Research Group (GIScRG)** at the [Royal Geographical Society with IBG](https://www.rgs.org) is a [group of academics and practitioners](https://giscience-rgs.github.io/people.html) interested in promoting GIScience, Geographic Data Science and GI Technology in geographical research, teaching and the workplace.
 
-We also support and promote e-science and the application of novel computing and spatial analysis paradigms to geographical systems, for example, agent-based modelling.
+Our group aims to advance the understanding and application of GIScience as a vital and interdisciplinary framework for addressing complex spatial and geographical challenges. Grounded in the principles of geography and enriched by innovations in technology and data science, we strive to develop robust methods and theoretical approaches for spatial analysis, modeling, and representation. By integrating GIScience into diverse fields such as urban planning, engineering, social sciences, and the humanities, we aim to demonstrate its transformative potential in tackling real-world problems, from sustainable city development and infrastructure design to understanding social dynamics and cultural landscapes. Through our work, we foster academic excellence and provide practical insights, empowering researchers, educators, and practitioners to contribute meaningful solutions to pressing societal and environmental issues.
 
 Contact us at _giscience.rgs \[at\] gmail.com_ for inquiries.
 
 ![](images/giscience-rgs-banner.png){fig-align="center"}
 
-### Activities
+### Our Activities
 
-- Manage a [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=GISCRG&A=1) for GIScience researchers and professionals with hundreds of subscribers: _giscrg \[at\] jiscmail.ac.uk_
-- Running the [RGS-IBG GIScience Webinar Series](https://geoinfo.science/webinars/).
-- Running sessions at the [RGS-IBG Annual Conference](https://www.rgs.org/research/annual-international-conference/).
-- Awarding [Dissertation Prizes](https://geoinfo.science/dissertation-prizes/) for the best MSc dissertations in GIScience in UK and Ireland.
-- Active participation in [GISRUK](http://gisruk.org/), the leading academic GIS conference in the UK (see the current edition [GISRUK 2021](http://london.gisruk.org)).
-- Providing bursaries for early-career academics to leading GIS conferences.
+- Running the [RGS-IBG GIScience Webinar Series](https://giscience-rgs.github.io/giscience-webinar-series.html).
+- Running sessions at the [RGS-IBG Annual Conference](https://giscience-rgs.github.io/call-for-session-sponsorship.html).
+- Awarding [Dissertation Prizes]https://giscience-rgs.github.io/dissertation-prizes.html) for the best MSc dissertations in GIScience in UK and Ireland.
+- Active participation in [GISRUK](http://gisruk.org/), the leading academic GIS conference in the UK.
+- Providing bursaries for early-career academics to leading [GIS conferences](https://giscience-rgs.github.io/conferences.html).
 - Developing and maintaining international links, e.g. participation and sponsorship of sessions at the [American Association of Geographers](http://www.aag.org/) Annual Conference.
+- Manage a [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=GISCRG&A=1) for GIScience researchers and professionals with hundreds of subscribers: _giscrg \[at\] jiscmail.ac.uk_
 - Working with companies such as [ESRI (UK)](http://www.esriuk.com/) to promote the use of GIS.
 - Working with the [Association of Geographic Information](http://www.agi.org.uk/) (AGI) to promote links with GIS practitioners and Chartered Geographers.
+- Working closely with other GIScience forums such as the [Association of Geographic Information Laboratories for Europe (AGILE)](http://www.agile-online.org/).
 - Promoting and supporting the use of GIS within schools.
 - Production of journal special issues on exciting new research.
-- Working closely with other GIScience forums such as the [Association of Geographic Information Laboratories for Europe (AGILE)](http://www.agile-online.org/).
