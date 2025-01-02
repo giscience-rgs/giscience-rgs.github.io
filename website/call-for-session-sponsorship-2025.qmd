@@ -1,0 +1,62 @@
+---
+title: "Call for Session Sponsorship"
+---
+
+## Annual International Conference 2025
+
+The [Geographic Information Science Research Group (GIScRG)](https://giscience-rgs.github.io/) of the RGS-IBG is glad to invite you to submit proposals for sponsorship of your [RGS-IBG Annual International Conference 2025 sessions](https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters/guidance-for-session-organisers). 
+
+### Themes
+
+The GIScRG welcomes sessions that focus on, but not limited to:
+
+- Geographic information science 
+- Geographic information systems and tools
+- Critical GIS, ethics and privacy
+- Reproducibility and open science
+- Mapping, cartography and information visualisation
+- Spatial analysis and uncertainty
+- GeoAI, including but not limited to
+    - Machine learning
+    - Agent-based modelling
+    - Natural language processing
+    - Information retrieval
+    - Foundation models 
+- Movement analysis
+- Location-based services
+- Crowdsourcing, citizen science and volunteered geographic information
+- Application, including but not limited to
+    - Environment
+    - Health
+    - Transportation
+    - Urban analytics
+
+### Chair's theme
+
+- **Geographies of Creativity/Creative Geographies**
+    - Mapping creative content and creative industries
+    - Spatial analysis of creative content and creative industries
+    - Creative uses of GIS
+    - Qualitative GIS
+
+### Sponsorship
+
+Obtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.
+
+Please send the information below to _giscience.rgs \[at\] gmail.com_ before **February 3rd**.
+
+- Session title
+- Session abstract (250 words)
+- Session organisers’ name, affiliation and email
+- Session format and how many timeslots you are requiring
+- Whether you aim for a co-sponsorship with other groups
+- (**No** need to include abstracts for paper contributions)
+
+We are also open to co-sponsorships with other Research Groups.
+
+## Timeline
+
+- [Call of papers and sessions for the RGS-IBG Annual International Conference 2024](https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters): **now open**.
+- Deadline for sponsorship applications from session organisers to GIScience RG: **February 3rd**
+- Decision on sponsorship applications from GIScience RG to session organisers: **February 10th**
+- Deadline for submissions from session organisers to RGS: **March 7th**
