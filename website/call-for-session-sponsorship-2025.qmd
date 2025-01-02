@@ -39,7 +39,7 @@ The GIScRG welcomes sessions that focus on, but not limited to:
     - Creative uses of GIS
     - Qualitative GIS
 
-### Sponsorship
+## Sponsorship
 
 Obtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.
 
@@ -54,7 +54,7 @@ Please send the information below to _giscience.rgs \[at\] gmail.com_ before **
 
 We are also open to co-sponsorships with other Research Groups.
 
-## Timeline
+### Timeline
 
 - [Call of papers and sessions for the RGS-IBG Annual International Conference 2024](https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters): **now open**.
 - Deadline for sponsorship applications from session organisers to GIScience RG: **February 3rd**
