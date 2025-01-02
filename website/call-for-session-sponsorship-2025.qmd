@@ -16,16 +16,18 @@ The GIScRG welcomes sessions that focus on, but not limited to:
 - Reproducibility and open science
 - Mapping, cartography and information visualisation
 - Spatial analysis and uncertainty
-- GeoAI, including but not limited to
+- **GeoAI**, including but not limited to
     - Machine learning
-    - Agent-based modelling
-    - Natural language processing
-    - Information retrieval
+    - Large language models
+    - Vision models
+    - Multimodel models
     - Foundation models 
+    - Agent-based modelling
+    - Information retrieval
 - Movement analysis
 - Location-based services
 - Crowdsourcing, citizen science and volunteered geographic information
-- Application, including but not limited to
+- **Applications**, including but not limited to
     - Environment
     - Health
     - Transportation
