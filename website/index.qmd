@@ -14,7 +14,7 @@ Contact us at _giscience.rgs \[at\] gmail.com_ for inquiries.
 
 - Running the [RGS-IBG GIScience Webinar Series](https://giscience-rgs.github.io/giscience-webinar-series.html).
 - Running sessions at the [RGS-IBG Annual Conference](https://giscience-rgs.github.io/call-for-session-sponsorship.html).
-- Awarding [Dissertation Prizes]https://giscience-rgs.github.io/dissertation-prizes.html) for the best MSc dissertations in GIScience in UK and Ireland.
+- Awarding [Dissertation Prizes](https://giscience-rgs.github.io/dissertation-prizes.html) for the best MSc dissertations in GIScience in UK and Ireland.
 - Active participation in [GISRUK](http://gisruk.org/), the leading academic GIS conference in the UK.
 - Providing bursaries for early-career academics to leading [GIS conferences](https://giscience-rgs.github.io/conferences.html).
 - Developing and maintaining international links, e.g. participation and sponsorship of sessions at the [American Association of Geographers](http://www.aag.org/) Annual Conference.
