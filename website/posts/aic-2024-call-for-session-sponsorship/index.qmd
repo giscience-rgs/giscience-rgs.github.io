@@ -1,5 +1,17 @@
 ---
 title: "Call for Session Sponsorship"
+date: "2024-01-16"
+categories: 
+  - "call"
+  - "events"
+tags: 
+  - "academia"
+  - "conference"
+  - "event"
+  - "gis"
+  - "giscience"
+  - "rgs"
+  - "spatial-data-science"
 ---
 
 ## Annual International Conference 2024
