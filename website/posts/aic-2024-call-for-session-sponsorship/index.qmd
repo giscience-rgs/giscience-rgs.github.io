@@ -1,5 +1,5 @@
 ---
-title: "Call for Session Sponsorship"
+title: "RGS-IBG AIC 2024 • Call for Session Sponsorship"
 date: "2024-01-16"
 categories: 
   - "call"
