@@ -22,8 +22,8 @@ website:
           text: "GIScience Webinar Series"
         - href: conferences.qmd
           text: "Conferences"
-        - href: call-for-session-sponsorship-2024.qmd
-          text: "Call for Session Sponsorship"
+        - href: call-for-session-sponsorship-2025.qmd
+          text: "AIC 2025 Sponsorships"
       - text: "Prizes"
         menu:
         - href: dissertation-prizes.qmd
