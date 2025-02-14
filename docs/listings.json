@@ -1,7 +1,18 @@
 [
   {
+    "listing": "/sessions-rgs-aic-2025.html",
+    "items": [
+      "/posts/aic-2025-call-for-abstracts-aiedu/index.html",
+      "/posts/aic-2025-call-for-abstracts-geoai/index.html",
+      "/posts/aic-2025-call-for-abstracts-humanurban/index.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
+      "/posts/aic-2025-call-for-abstracts-aiedu/index.html",
+      "/posts/aic-2025-call-for-abstracts-humanurban/index.html",
+      "/posts/aic-2025-call-for-abstracts-geoai/index.html",
       "/posts/aic-2025-call-for-session-sponsorship/index.html",
       "/posts/aic-2024-call-for-session-sponsorship/index.html",
       "/posts/rgs-ibg-annual-international-conference-2023-call-for-sessions/index.html",

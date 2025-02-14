@@ -1,0 +1,71 @@
+---
+title: "RGS-IBG AIC 2025 • Artificial Intelligence in GIScience education and pedagogy"
+date: "2025-02-14"
+categories: 
+  - "call"
+  - "events"
+  - "cfp-rgs-aic-2025"
+tags: 
+  - "academia"
+  - "conference"
+  - "event"
+  - "gis"
+  - "giscience"
+  - "geoai"
+  - "rgs"
+  - "spatial-data-science"
+  - "education"
+  - "pedagogy"
+---
+
+## Call for abstracts
+
+Geospatial Artificial Intelligence (GeoAI) draws from across
+disciplinary domains in that it situates itself in data science,
+environmental science and geography. It incorporates multi-modal
+geospatial data to inform use cases in policy such as environmental
+degradation and disaster management.
+
+This session aims to explore these and other cross-disciplinary
+interstices among big data, large language models, Geographic
+Information Systems (GIS) and cartography. GIS education, which combines
+spatial analysis and cartographic design, represents a unique context in
+which Generative Artificial Intelligence tools can make a significant
+impact.
+
+GIS education encompasses a variety of pedagogical approaches aimed at
+building both technical proficiency and spatial thinking (Duarte et al.
+2022). Traditional methods are often complemented by laboratory-based
+learning, where students engage in hands-on exercises with GIS software
+like ArcGIS or QGIS, developing skills in spatial data manipulation,
+analysis, and visualization (Rickles and Ellul, 2015).
+
+Contemporary approaches have integrated emerging technologies and
+pedagogies. For example, experiential learning incorporates fieldwork,
+enabling students to gather spatial data using GPS devices or drones.
+Additionally, the rise of WebGIS platforms and open data has
+democratized GIS education, making geospatial tools and datasets
+accessible to broader audiences (Ruibo, 2019).
+
+This session is inspired by Muehlenhaus's cartographically-focussed
+Generative Pre-training Transformer (GPT). It is envisaged that papers
+will represent a diversity of methodological stances: qualitative
+studies and preliminary explorations are particularly encouraged.
+
+Possible topics include (but are not limited to):
+
+-   Descriptions and case studies of GeoAI and / or large language
+    models to GIS and cartography / cartographic education;
+
+-   Examples of how geographical epistemologies have shaped and / or
+    been shaped by the application of (what might loosely be termed as)
+    AI agents / AI tools;
+
+-   Methodological approaches to such investigations; and
+
+-   Defining and designing for the nurturing of literacies of GeoAI and
+    the ethical implications of the use of IoT and Data Science in such
+    investigations.
+
+Enquiries to Kenneth Y T Lim (voyager@mac.com / kenneth.lim@nie.edu.sg)
+are welcome.

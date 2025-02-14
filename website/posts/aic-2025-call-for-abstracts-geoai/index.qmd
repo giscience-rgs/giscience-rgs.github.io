@@ -1,0 +1,136 @@
+---
+title: "RGS-IBG AIC 2025 • Artificial intelligence in GIScience and quantitative geography"
+date: "2025-02-14"
+categories: 
+  - "call"
+  - "events"
+  - "cfp-rgs-aic-2025"
+tags: 
+  - "academia"
+  - "conference"
+  - "event"
+  - "gis"
+  - "giscience"
+  - "geoai"
+  - "rgs"
+  - "spatial-data-science"
+---
+
+## Call for abstracts
+
+Over the past decade, significant advancements in deep learning have
+launched a new "AI spring," reigniting research interest in artificial
+intelligence within GIScience and quantitative geography. While large
+language models have been making headlines in newspapers worldwide, a
+broader range of foundation models and architectures (e.g., CNN, GNN
+GAN, LSTM, Transformer) have sparked new work in GeoAI (Janowicz et al.,
+2020; De Sabbata et al., 2023, Hu et al. 2024, Mai et al., 2025). For
+example, vision models have been applied to street-view imagery to
+explore urban perceptions and infer socio-economic outcomes (Biljecki
+and Ito 2021; Law et al 2019). The transformer architecture has been
+used for natural language processing (Berragan et al., 2023), image
+analysis and machine vision (Li et al, 2022). Graph neural networks have
+been employed for geodemographic classifications and question-answering
+with geographic knowledge graphs (De Sabbata and Liu, 2023; Mai et al,
+2020).* *More recently, Geo foundation models have emerged, leveraging
+large-scale geographic data to support multi-modal geographic analysis.
+
+This session aims to be a forum to discuss advances, opportunities, and
+challenges of the use of GeoAI in quantitative geography and geographic
+information science, showcasing the latest advancements in GeoAI
+theories, methods and applications within the realm of quantitative
+geographic studies. We invite submissions that engage with the research
+agenda recently proposed by Nelson et al. (2024) and focus on but not
+limited to the topics below:
+
+-   *GeoAI methods, including but not limited to*
+    -   *Spatial Explicit Machine learning*
+    -   *Causal inference*
+    -   *Uncertainity*
+    -   *Agent-based modelling*
+    -   *Machine Vision*
+    -   *Natural language processing*
+    -   *Information retrieval*
+    -   *Foundation models*
+    -   *Explainable and interpretable AI*
+    -   *Reinforcement learning*
+    -   *Generative AI*
+-   *GeoAI applications, including but not limited to*
+    -   *Crowdsourcing, citizen science and volunteered geographic
+        information*
+    -   *Data integration*
+    -   *Environment (Disaster Management and Resilience)*
+    -   *Health*
+    -   *Location-based services*
+    -   *Mapping, cartography and information visualisation*
+    -   *Spatial analysis and uncertainty*
+    -   *Transportation & Mobility*
+    -   *Urban analytics*
+    -   *Urban Planning *
+-   *Critical GIS, ethics and privacy in GeoAI*
+    -   *Bias and fairness*
+    -   *Responsible AI*
+    -   *Policy implications*
+    -   *Transparency and accountability*
+-   *Reproducibility and open science in GeoAI*
+    -   *Open Data for reproducibility and transparency*
+    -   *Standardising benchmarks and evaluation metrics*
+
+### Submssion
+
+Please submit your 400-word abstract to [Stef De Sabbata](mailto:s.desabbata@leicester.ac.uk) by **March 3rd**.
+
+### Organisers
+
+-   Stef De Sabbata, University of Leicester
+-   Stephen Law, University College London
+-   Xiao Li, University of Oxford
+-   Francisco Rowe, University of Liverpool
+-   Trivik Verma, University of Bristol
+-   Godwin Yeboah, University of Warwick
+-   Qunshan Zhao, University of Glasgow
+-   Rui Zhu, University of Bristol
+
+### References
+
+-   Berragan, C., Singleton, A., Calafiore, A., & Morley, J. (2023).
+    Transformer based named entity recognition for place name extraction
+    from unstructured text. *International Journal of Geographical
+    Information Science*, *37*(4), 747-766.
+-   De Sabbata, S., Ballatore, A., Miller, H.J., Sieber, R., Tyukin, I.
+    and Yeboah, G., 2023. GeoAI in urban analytics.* International
+    Journal of Geographical Information Science*, 37(12), pp.2455-2463.
+-   De Sabbata, S., & Liu, P. (2023). A graph neural network framework
+    for spatial geodemographic classification. *International Journal of
+    Geographical Information Science*, 37(12), 2464-2486.
+-   Hu, Yingjie, Michael Goodchild, A.-Xing Zhu, May Yuan, Orhun Aydin,
+    Budhendra Bhaduri, Song Gao, Wenwen Li, Dalton Lunga, and Shawn
+    Newsam. 2024. 'A Five-Year Milestone: Reflections on Advances and
+    Limitations in GeoAI Research'. *Annals of GIS,* 0(0):1--14. doi:
+    10.1080/19475683.2024.2309866.
+-   Janowicz, K., Gao, S., McKenzie, G., Hu, Y. and Bhaduri, B., 2020.
+    GeoAI: spatially explicit artificial intelligence techniques for
+    geographic knowledge discovery and beyond. *International Journal of
+    Geographical Information Science*, 34(4), pp.625-636.
+-   Law, S., Paige, B., & Russell, C. (2019). Take a look around: using
+    street view and satellite images to estimate house prices. *ACM
+    Transactions on Intelligent Systems and Technology (TIST)*, 10(5),
+    1-19.
+-   Li, W., & Hsu, C. Y. (2022). GeoAI for large-scale image analysis
+    and machine vision: Recent progress of artificial intelligence in
+    geography. *ISPRS International Journal of Geo-Information*, 11(7),
+    385.
+-   Mai, G., Janowicz, K., Cai, L., Zhu, R., Regalia, B., Yan, B.,
+    Shi, M. and Lao, N., 2020. SE‐KGE: A location‐aware knowledge graph
+    embedding model for geographic question answering and spatial
+    semantic lifting. *Transactions in GIS*, 24(3), pp.623-655.
+-   Mai, G., Xie, Y., Jia, X., Lao, N., Rao, J., Zhu, Q., \... &
+    Jiao, J. (2025). Towards the next generation of Geospatial
+    Artificial Intelligence. *International Journal of Applied Earth
+    Observation and Geoinformation*, *136*, 104368.
+-   Nelson, T., Frazier, A. E., Kedron, P., Dodge, S., Zhao, B.,
+    Goodchild, M., \... & Wilson, J. (2024). A research agenda for
+    GIScience in a time of disruptions. *International Journal of
+    Geographical Information Science*, 1-24.
+-   Biljecki, F., & Ito, K. (2021). Street view imagery in urban
+    analytics and GIS: A review. *Landscape and Urban Planning*, *215*, 104217.

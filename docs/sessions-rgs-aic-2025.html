@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2022-02-17">
 
-<title>RGS-IBG Annual International Conference • Sponsored Sessions AIC 2022 – RGS-IBG GIScience Research Group</title>
+<title>RGS AIC 2025 – RGS-IBG GIScience Research Group</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,25 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../images/cropped-rgs_favicon.png" rel="icon" type="image/png">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/cropped-rgs_favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,19 +71,77 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../../styles.css">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">RGS-IBG GIScience Research Group</span>
     </a>
   </div>
@@ -93,15 +152,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../people.html"> 
+    <a class="nav-link" href="./people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../news.html"> 
+    <a class="nav-link" href="./news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -110,15 +169,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-events">    
         <li>
-    <a class="dropdown-item" href="../../giscience-webinar-series.html">
+    <a class="dropdown-item" href="./giscience-webinar-series.html">
  <span class="dropdown-text">GIScience Webinar Series</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../conferences.html">
+    <a class="dropdown-item" href="./conferences.html">
  <span class="dropdown-text">Conferences</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../sessions-rgs-aic-2025.html">
+    <a class="dropdown-item" href="./sessions-rgs-aic-2025.html">
  <span class="dropdown-text">RGS-IBG AIC 2025</span></a>
   </li>  
     </ul>
@@ -129,13 +188,13 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-prizes">    
         <li>
-    <a class="dropdown-item" href="../../dissertation-prizes.html">
+    <a class="dropdown-item" href="./dissertation-prizes.html">
  <span class="dropdown-text">Dissertation prizes</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="../../news.xml"> <i class="bi bi-rss-fill" role="img">
+    <a class="nav-link" href="./news.xml"> <i class="bi bi-rss-fill" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -163,66 +222,120 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">RGS-IBG Annual International Conference • Sponsored Sessions AIC 2022</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">call</div>
-                <div class="quarto-category">events</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">February 17, 2022</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">RGS AIC 2025</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 
 
 
-<p>Leads: Dr Justin van Dijk, Dr Stefano De Sabbata</p>
-<p>The&nbsp;<a href="https://geoinfo.science/">Geographic Information Science Research Group</a>&nbsp;(GIScRG) of the&nbsp;<a href="https://www.rgs.org/">Royal Geographical Society (with IBG)</a>&nbsp;is a group of academics and practitioners interested in promoting GIScience, Geographic Data Science and GI Technology in geographical research, teaching and the workplace.</p>
-<p>The&nbsp;<a href="https://www.rgs.org/research/annual-international-conference/call/">RGS-IBG Annual International Conference</a>&nbsp;regularly attracts over 2,000 geographers from around the world. This year, the conference is taking place at&nbsp;<a href="https://www.ncl.ac.uk/">Newcastle University</a>, with in-person, online, and hybrid ways to participate.</p>
-<p>This year the GIScRG is pleased to sponsor paper presentation sessions on the following topics that focus on geographic information science and tools, cartography, spatial analysis, critical GIS and related disciplines:</p>
-<ul>
-<li>Session 1:&nbsp;<a href="https://geoinfo.science/rgs-2022-session-aic-1-safety-and-emergency-services/">Innovative GI methods in safety and emergency services research</a></li>
-<li>Session 2:&nbsp;<a href="https://geoinfo.science/rgs-2022-session-aic-2-deep-learning/">Deep learning applications in geography</a></li>
-<li>Session 3:&nbsp;<a href="https://geoinfo.science/rgs-2022-session-aic-3-big-data-quality/">Dealing with uncertainty: Quality and Representation in the context of Big Data</a></li>
-<li>Session 4:&nbsp;<a href="https://geoinfo.science/rgs-2022-aic-session-4-ethics/">Ethics within GIScience, including (but not limited to) the Locus Charter</a></li>
-<li>Session 5: <a href="https://geoinfo.science/rgs-2022-session-5-healthy-learning/">Building healthy learning spaces. What is next as we move from Emergency Education?</a></li>
-<li>Session 6: <a href="https://geoinfo.science/rgs-2022-geographies-of-misinformation/">Geographies of misinformation</a></li>
-</ul>
-<p>The deadline for abstract submission to each of these sessions is&nbsp;<strong>March 18th, 2022.</strong>&nbsp;Further to the paper sessions we also sponsor a&nbsp;<a href="https://geoinfo.science/rgs-2022-aic-session-5-world-cafe/">World Café</a>&nbsp;session:</p>
-<ul>
-<li>Session 7:&nbsp;<a href="https://geoinfo.science/rgs-2022-aic-session-7-world-cafe/">Beyond the systems of geography information</a></li>
-</ul>
-<p>Click on the link to access the details of each sessions and to find out how to contribute to the session. Please note that the RGS has strict limits to the contributions of each delegate (see&nbsp;<a href="https://www.rgs.org/research/annual-international-conference/call/guidance-for-presenters/#Contribution%20limits">Contribution limits</a>). There is no formal limit to the number of sessions chaired or the number of co-authorships. However, sessions are normally understood as open to submission of papers. A session only composed by members of your own team is unlikely to be approved by the RGS.</p>
 
-
-
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="call,events,cfp-rgs-aic-2025" data-listing-date-sort="1739491200000" data-listing-file-modified-sort="1739527219236" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
+<div class="thumbnail">
+<p><a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external"></a></p><a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">RGS-IBG AIC 2025 • Artificial Intelligence in GIScience education and pedagogy</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">Geospatial Artificial Intelligence (GeoAI) draws from across disciplinary domains in that it situates itself in data science, environmental science and geography. It…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">
+<div class="listing-date">
+Feb 14, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="call,events,cfp-rgs-aic-2025" data-listing-date-sort="1739491200000" data-listing-file-modified-sort="1739527109715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="996">
+<div class="thumbnail">
+<p><a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external"></a></p><a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">RGS-IBG AIC 2025 • Artificial intelligence in GIScience and quantitative geography</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">Over the past decade, significant advancements in deep learning have launched a new “AI spring,” reigniting research interest in artificial intelligence within GIScience and…<em></em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">
+<div class="listing-date">
+Feb 14, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="call,events,cfp-rgs-aic-2025" data-listing-date-sort="1739491200000" data-listing-file-modified-sort="1739526429686" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="280">
+<div class="thumbnail">
+<p><a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external"></a></p><a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">RGS-IBG AIC 2025 • Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">Human interaction with urban environments has been a central topic in urban studies (Pattison, 1964). Geographers have explored the interactions between humans and their…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">
+<div class="listing-date">
+Feb 14, 2025
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

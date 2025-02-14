@@ -1,0 +1,61 @@
+---
+title: "RGS-IBG AIC 2025 • Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques"
+date: "2025-02-14"
+categories: 
+  - "call"
+  - "events"
+  - "cfp-rgs-aic-2025"
+tags: 
+  - "academia"
+  - "conference"
+  - "event"
+  - "gis"
+  - "giscience"
+  - "geoai"
+  - "rgs"
+  - "spatial-data-science"
+  - "education"
+  - "pedagogy"
+---
+
+## Call for abstracts
+
+Human interaction with urban environments has been a central topic in urban studies
+(Pattison, 1964). Geographers have explored the interactions between humans and their
+surroundings, investigating how individuals adapt to, modify, and influence their
+environment, while also considering how environmental factors shape human activities and
+cultural practices (Tuan, 1975). Recent advancements in GIS technologies, coupled with the
+increasing availability of diverse datasets—such as remote sensing imagery, geotagged search
+engine data, social media content, mobility data, and street-level imagery—have enabled
+novel approaches to studying place identity, residents' mobility, and social perceptions (e.g.,
+sense of belonging, community emotions).Moreover, the use of computational techniques,
+including machine learning and deep learning, has significantly improved our ability to
+interpret and model complex interactions.
+
+This session aims to be a forum for discussing the integration of multi-source geospatial big
+data and GIS techniques to advance our understanding of human-urban interaction. We
+welcome submissions that explore innovative methodologies, theoretical perspectives, and
+practical applications in this field. Topics of interest include, but are not limited to:
+
+- Multi-Source Geospatial Big Data for Extracting Human Behaviour/ Perception
+    - Remote sensing
+    - Street-level imagery
+    - Social media data
+    - Mobility data
+- GIS, Machine Learning, and Deep Learning for Human-Environment Interaction
+    - Human mobility
+    - Human perception and social sensing
+    - Social interaction
+    - Transit-Oriented Development (TOD)
+
+
+### Session organisers
+
+- Fangzhou Zhou, University College London, fangzhou.zhou.21@ucl.ac.uk
+- Hubin Wei, University of Bristol, su24744@bristol.ac.uk
+- Qingya Cheng, University of Bristol, qingya.cheng@bristol.ac.uk
+
+### Reference
+
+- Pattison, W. D. (1964). The four traditions of geography. Journal of Geography, 63(5), 211-216.
+- Tuan, Y. F. (1975). Topophilia: A study of environmental perception, attitudes, and values. Journal of Aesthetics and Art Criticism, 34(1).
