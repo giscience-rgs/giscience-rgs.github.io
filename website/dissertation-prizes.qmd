@@ -10,6 +10,11 @@ Prizes are usually £100 plus Annual RGS-IBG Postgraduate Fellowship with £50 p
 
 The winners in previous editions are listed below. We would also like to thank our prize referees: [Chris Brunsdon](https://www.maynoothuniversity.ie/people/chris-brunsdon), [Gary Higgs](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwiserd.ac.uk%2Fabout-us%2Fpeople%2Fgary-higgs&data=04%7C01%7Cs.alvanides%40northumbria.ac.uk%7C33de3206c1894fce3bf308d8bb8b41fb%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637465554065910385%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=0M7H6kwKnjaAPAf6WykbVMsoy2TY3TfbxuZIL59Wh6E%3D&reserved=0), [Seraphim Alvanides](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides/), and [Anita Graser](https://anitagraser.com/about/).
 
+## 2024 Winners
+
+- **Christian Milner** (University of Bristol), _"YOLOv8-SAM: Building Instance Segmentation from Aerial Urban Imagery by coupling YOLOv8’s Object Detector to Meta’s zero-shot Segment Anything Model"_
+- **Xinyu Wu** (University College London), _"Quantify the Impact of the Ultra Low Emission Zone on Footfall Patterns in High Streets and Social Equality across London"_
+
 ## 2023 Winners
 
 - **Adhib Hussain Syed** (University of Leicester), _"Modelling Urban Visual Walkability of Leicester with Street View Images Using Deep Learning and Unsupervised Learning Techniques"_ \[see [pdf](https://github.com/adhibsyed/walkability/blob/main/paper/paper.pdf) | [code](https://github.com/adhibsyed/walkability) | [dashboard](https://adhibsyed.shinyapps.io/walkabilitydashboard/)\]
