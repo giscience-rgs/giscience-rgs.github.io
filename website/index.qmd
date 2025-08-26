@@ -4,6 +4,8 @@ title: "About us"
 
 The **GIScience Research Group (GIScRG)** at the [Royal Geographical Society with IBG](https://www.rgs.org) is a [group of academics and practitioners](https://giscience-rgs.github.io/people.html) interested in promoting GIScience, Geographic Data Science and GI Technology in geographical research, teaching and the workplace.
 
+[**Check out our RGS-IBG Annual International Conference 2025 schedule**](https://giscience-rgs.github.io/sessions-rgs-aic-2025.html)
+
 Our group aims to advance the understanding and application of GIScience as a vital and interdisciplinary framework for addressing complex spatial and geographical challenges. Grounded in the principles of geography and enriched by innovations in technology and data science, we strive to develop robust methods and theoretical approaches for spatial analysis, modeling, and representation. By integrating GIScience into diverse fields such as urban planning, engineering, social sciences, and the humanities, we aim to demonstrate its transformative potential in tackling real-world problems, from sustainable city development and infrastructure design to understanding social dynamics and cultural landscapes. Through our work, we foster academic excellence and provide practical insights, empowering researchers, educators, and practitioners to contribute meaningful solutions to pressing societal and environmental issues.
 
 Contact us at _giscience.rgs \[at\] gmail.com_ for inquiries.
