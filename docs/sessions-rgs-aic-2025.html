@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/cropped-rgs_favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -71,65 +69,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -225,8 +165,15 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#august-27th-wednesday" id="toc-august-27th-wednesday" class="nav-link active" data-scroll-target="#august-27th-wednesday">August 27th (Wednesday)</a></li>
+  <li><a href="#august-28th-thursday" id="toc-august-28th-thursday" class="nav-link" data-scroll-target="#august-28th-thursday">August 28th (Thursday)</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -250,92 +197,110 @@ window.Quarto = {
 </header>
 
 
+<p>Our group’s schedule of (co)organized sessions and social events at the <a href="https://www.rgs.org/research/annual-international-conference">RGS-IBG Annual International Conference 2025</a>.</p>
+<section id="august-27th-wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="august-27th-wednesday">August 27th (Wednesday)</h2>
+<ul>
+<li>18:45–20:00: Social Event at Goose Sally Oaks (co-organized with QMRG)</li>
+</ul>
+</section>
+<section id="august-28th-thursday" class="level2">
+<h2 class="anchored" data-anchor-id="august-28th-thursday">August 28th (Thursday)</h2>
+<p>All sessions will be held in the Arts Building, LR5 (In-person only).</p>
+<ul>
+<li>09:00 - 10:40: <strong>Artificial Intelligence in GIScience and Quantitative Geography (1)</strong>
+<ul>
+<li>Exploring the geometries of census data embedding spaces
+<ul>
+<li>Stef De Sabbata (University of Leicester), Owen Goodwin (Department of Geography and Planning, University of Liverpool), Pengyuan Liu (Future Cities Lab Global, Singapore-ETH Centre), Alex Singleton (Department of Geography and Planning, University of Liverpool), Seth Spielman (Microsoft)</li>
+</ul></li>
+<li>AI Meets Geography: Embedding Spatial Intelligence into Vision-Language Models
+<ul>
+<li>Meiliu Wu (University of Glasgow), Qunying Huang (University of Wisconsin-Madison), Song Gao (University of Wisconsin-Madison)</li>
+</ul></li>
+<li>Paint the Streets Green: Leveraging Generative AI to Produce and Quantify Urban Greenery Counterfactuals on Real Estate Values
+<ul>
+<li>Tongmeng Xie (London School of Economics), Yikang Wang (University College London)</li>
+</ul></li>
+<li>GeoJEPA: Towards Eliminating Augmentation- and Sampling Bias in Multimodal Geospatial Learning
+<ul>
+<li>Theodor Lundqvist (Lund University), Ludvig Delvret (Lund University)</li>
+</ul></li>
+</ul></li>
+<li>11:10 - 12:50: <strong>Artificial Intelligence in GIScience and Quantitative Geography (2)</strong>
+<ul>
+<li>Superiority of High-Dimensional Latent Variable Representation in Urban Spatial Structure: Evidence from an Urban Climate Study
+<ul>
+<li>Mengqing Yu (Wageningen University)</li>
+</ul></li>
+<li>What Makes Paris Look Like Paris from the Sky? A Graph Neural Network Approach for characterising cities
+<ul>
+<li>Stephen Law (University College London), Xuhui Lin (University College London), Tao Yang (Tsinghua University)</li>
+</ul></li>
+<li>Does 15-Minute Green Space Accessibility Affect Mental Health in UK Cities?
+<ul>
+<li>Bardia Mashhoodi (School of Computing and Mathematical Sciences, Faculty of Engineering and Science, University of Greenwich), Jia Wang (School of Computing and Mathematical Sciences, Faculty of Engineering and Science, University of Greenwich)</li>
+</ul></li>
+<li>Identifying Spatial Isomorphism in Green Bond Risk Profiles: A Graph Neural Network Approach for Enhancing Urban Disaster Resilience in C40 Cities
+<ul>
+<li>Baihua Dong (University College London), Xuhui Lin (UCL)</li>
+</ul></li>
+</ul></li>
+<li>13:10 - 14:25: <strong>Best of GISRUK</strong>
+<ul>
+<li>Beyond Quantity: Creating a National Dataset of Park Types to Analyse Cardiovascular Mortality Using 20-Minute Neighbourhood Access
+<ul>
+<li>Jess Hepburn (University of Glasgow)</li>
+</ul></li>
+<li>Integrating Low Traffic Neighbourhoods into UK Cycle Network Planning
+<ul>
+<li>Chris Larkin (Newcastle University), Anastassia Vybornova (University of Copenhagen), Clément Sebastiao (University of Copenhagen), Craig Robson (Newcastle University), Alistair Ford (Newcastle University), Michael Szell (University of Copenhagen/Complexity Science Hub)</li>
+</ul></li>
+<li>GIS vs The City Council - Data Analytics, Collective Intelligence and Policy Dust-ups
+<ul>
+<li>Adam Dennett (University College London)</li>
+</ul></li>
+</ul></li>
+<li>14:40 - 16:20: <strong>Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques (1)</strong>
+<ul>
+<li>Identification of urban informal settlements based on subjective -objective multi-source data interaction: a case study in Beijing, China
+<ul>
+<li>Hubin wei (University of Bristol)</li>
+</ul></li>
+<li>The Production of Space: Codification, Actualisation, and Socialisation in Geospatial Knowledge
+<ul>
+<li>Mihyun Kim (Loughborough University)</li>
+</ul></li>
+<li>AI Meets Human-Urban Interaction: Can GPT-4 Perceive Urban Safety in a Human-Like Way?
+<ul>
+<li>Shunyu Yao (University of Glasgow), Meiliu Wu (University of Glasgow)</li>
+</ul></li>
+<li>The Impact of WFH Policies on Regional Migration Patterns: A Time-Series Clustering Analysis of UK Local Authority Districts (2017–2022)
+<ul>
+<li>Fangzhou Zhou (University College London), Tao Cheng (University College London), Mark Tewdwr-Jones (University College London)</li>
+</ul></li>
+</ul></li>
+<li>16:50 - 18:30: <strong>Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques (2)</strong>
+<ul>
+<li>The Inequality of Volunteer Street View Images in England and Wales — who is ‘invisible’ and where?
+<ul>
+<li>Yifan Liang (University of Bristol), Richard Harris (University of Bristol), Ce Zhang (University of Bristol)</li>
+</ul></li>
+<li>Unveiling the Moderating Role of Trip Distance in Transit-Oriented Development: A Deep Gravity Modelling Analysis of the Nonlinear Effects of 3D Elements on Metro Ridership
+<ul>
+<li>Shiqi Li (University of Bristol), Yunxia Liu (Lanzhou University)</li>
+</ul></li>
+<li>Evaluation of Green Space Influence on Housing Prices Using Machine Learning and Urban Visual Intelligence
+<ul>
+<li>Yuchen Li (University of Leeds)</li>
+</ul></li>
+</ul></li>
+</ul>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y2FsbCUyQ2V2ZW50cyUyQ2NmcC1yZ3MtYWljLTIwMjU=" data-listing-date-sort="1739491200000" data-listing-file-modified-sort="1739527219236" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
-<div class="thumbnail">
-<p><a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external"></a></p><a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">RGS-IBG AIC 2025 • Artificial Intelligence in GIScience education and pedagogy</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">Geospatial Artificial Intelligence (GeoAI) draws from across disciplinary domains in that it situates itself in data science, environmental science and geography. It…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/aic-2025-call-for-abstracts-aiedu/index.html" class="no-external">
-<div class="listing-date">
-Feb 14, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y2FsbCUyQ2V2ZW50cyUyQ2NmcC1yZ3MtYWljLTIwMjU=" data-listing-date-sort="1739491200000" data-listing-file-modified-sort="1739527109715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="996">
-<div class="thumbnail">
-<p><a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external"></a></p><a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">RGS-IBG AIC 2025 • Artificial intelligence in GIScience and quantitative geography</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">Over the past decade, significant advancements in deep learning have launched a new “AI spring,” reigniting research interest in artificial intelligence within GIScience and…<em></em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/aic-2025-call-for-abstracts-geoai/index.html" class="no-external">
-<div class="listing-date">
-Feb 14, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Y2FsbCUyQ2V2ZW50cyUyQ2NmcC1yZ3MtYWljLTIwMjU=" data-listing-date-sort="1739491200000" data-listing-file-modified-sort="1739815502386" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
-<div class="thumbnail">
-<p><a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external"></a></p><a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">RGS-IBG AIC 2025 • Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">Human interaction with urban environments has been a central topic in urban studies (Pattison, 1964). Geographers have explored the interactions between humans and their…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/aic-2025-call-for-abstracts-humanurban/index.html" class="no-external">
-<div class="listing-date">
-Feb 14, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,7 +1,55 @@
 ---
 title: "RGS AIC 2025"
-listing:
-  contents: posts/
-  include:
-    categories: "cfp-rgs-aic-2025"
 ---
+
+Our group's schedule of (co)organized sessions and social events at the [RGS-IBG Annual International Conference 2025](https://www.rgs.org/research/annual-international-conference).
+
+## August 27th (Wednesday)
+
+- 18:45–20:00: Social Event at Goose Sally Oaks (co-organized with QMRG)
+
+## August 28th (Thursday)
+
+All sessions will be held in the Arts Building, LR5 (In-person only).
+
+- 09:00 - 10:40: **Artificial Intelligence in GIScience and Quantitative Geography (1)**
+  - Exploring the geometries of census data embedding spaces
+    - Stef De Sabbata (University of Leicester), Owen Goodwin (Department of Geography and Planning, University of Liverpool), Pengyuan Liu (Future Cities Lab Global, Singapore-ETH Centre), Alex Singleton (Department of Geography and Planning, University of Liverpool), Seth Spielman (Microsoft)
+  - AI Meets Geography: Embedding Spatial Intelligence into Vision-Language Models
+    - Meiliu Wu (University of Glasgow), Qunying Huang (University of Wisconsin-Madison), Song Gao (University of Wisconsin-Madison)
+  - Paint the Streets Green: Leveraging Generative AI to Produce and Quantify Urban Greenery Counterfactuals on Real Estate Values
+    - Tongmeng Xie (London School of Economics), Yikang Wang (University College London)
+  - GeoJEPA: Towards Eliminating Augmentation- and Sampling Bias in Multimodal Geospatial Learning
+    - Theodor Lundqvist (Lund University), Ludvig Delvret (Lund University)
+- 11:10 - 12:50: **Artificial Intelligence in GIScience and Quantitative Geography (2)**
+  - Superiority of High-Dimensional Latent Variable Representation in Urban Spatial Structure: Evidence from an Urban Climate Study
+    - Mengqing Yu (Wageningen University)
+  - What Makes Paris Look Like Paris from the Sky? A Graph Neural Network Approach for characterising cities
+    - Stephen Law (University College London), Xuhui Lin (University College London), Tao Yang (Tsinghua University)
+  - Does 15-Minute Green Space Accessibility Affect Mental Health in UK Cities?
+    - Bardia Mashhoodi (School of Computing and Mathematical Sciences, Faculty of Engineering and Science, University of Greenwich), Jia Wang (School of Computing and Mathematical Sciences, Faculty of Engineering and Science, University of Greenwich)
+  - Identifying Spatial Isomorphism in Green Bond Risk Profiles: A Graph Neural Network Approach for Enhancing Urban Disaster Resilience in C40 Cities
+    - Baihua Dong (University College London), Xuhui Lin (UCL)
+- 13:10 - 14:25: **Best of GISRUK**
+  - Beyond Quantity: Creating a National Dataset of Park Types to Analyse Cardiovascular Mortality Using 20-Minute Neighbourhood Access
+    - Jess Hepburn (University of Glasgow)
+  - Integrating Low Traffic Neighbourhoods into UK Cycle Network Planning
+    - Chris Larkin (Newcastle University), Anastassia Vybornova (University of Copenhagen), Clément Sebastiao (University of Copenhagen), Craig Robson (Newcastle University), Alistair Ford (Newcastle University), Michael Szell (University of Copenhagen/Complexity Science Hub)
+  - GIS vs The City Council - Data Analytics, Collective Intelligence and Policy Dust-ups
+    - Adam Dennett (University College London)
+- 14:40 - 16:20: **Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques (1)**
+  - Identification of urban informal settlements based on subjective -objective multi-source data interaction: a case study in Beijing, China
+    - Hubin wei (University of Bristol)
+  - The Production of Space: Codification, Actualisation, and Socialisation in Geospatial Knowledge
+    - Mihyun Kim (Loughborough University)
+  - AI Meets Human-Urban Interaction: Can GPT-4 Perceive Urban Safety in a Human-Like Way?
+    - Shunyu Yao (University of Glasgow), Meiliu Wu (University of Glasgow)
+  - The Impact of WFH Policies on Regional Migration Patterns: A Time-Series Clustering Analysis of UK Local Authority Districts (2017–2022)
+    - Fangzhou Zhou (University College London), Tao Cheng (University College London), Mark Tewdwr-Jones (University College London)
+- 16:50 - 18:30: **Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques (2)**
+  - The Inequality of Volunteer Street View Images in England and Wales — who is 'invisible' and where?
+    - Yifan Liang (University of Bristol), Richard Harris (University of Bristol), Ce Zhang (University of Bristol)
+  - Unveiling the Moderating Role of Trip Distance in Transit-Oriented Development: A Deep Gravity Modelling Analysis of the Nonlinear Effects of 3D Elements on Metro Ridership
+    - Shiqi Li (University of Bristol), Yunxia Liu (Lanzhou University)
+  - Evaluation of Green Space Influence on Housing Prices Using Machine Learning and Urban Visual Intelligence
+    - Yuchen Li (University of Leeds)
