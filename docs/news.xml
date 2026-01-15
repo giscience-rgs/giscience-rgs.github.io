@@ -9,12 +9,102 @@
 <link>https://giscience-rgs.github.io/news.html</link>
 <atom:link href="https://giscience-rgs.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG</description>
-<generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>RGS-IBG AIC 2026 • Call for Session Sponsorship</title>
+  <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="annual-international-conference-2025" class="level2">
+<h2 class="anchored" data-anchor-id="annual-international-conference-2025">Annual International Conference 2025</h2>
+<p>The <a href="https://giscience-rgs.github.io/">Geographic Information Science Research Group (GIScRG)</a> of the RGS-IBG is glad to invite you to submit proposals for sponsorship of your <a href="https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters/guidance-for-session-organisers">RGS-IBG Annual International Conference 2026 sessions</a>.</p>
+<section id="themes" class="level3">
+<h3 class="anchored" data-anchor-id="themes">Themes</h3>
+<p>The GIScRG welcomes sessions that focus on, but not limited to:</p>
+<ul>
+<li>Geographic information science</li>
+<li><strong>GeoAI</strong>, including but not limited to
+<ul>
+<li>Machine learning</li>
+<li>Large language models</li>
+<li>Vision models</li>
+<li>Multimodel models</li>
+<li>Foundation models</li>
+<li>Agent-based modelling</li>
+<li>Information retrieval</li>
+</ul></li>
+<li>Reproducibility and open science</li>
+<li>Mapping, cartography and information visualisation</li>
+<li>Spatial analysis and uncertainty</li>
+<li>Movement analysis</li>
+<li>Location-based services</li>
+<li>Crowdsourcing, citizen science and volunteered geographic information</li>
+<li>Critical GIS, ethics and privacy</li>
+<li><strong>Applications</strong>, including but not limited to
+<ul>
+<li>Environment</li>
+<li>Health</li>
+<li>Transportation</li>
+<li>Urban analytics</li>
+</ul></li>
+</ul>
+</section>
+<section id="chairs-theme" class="level3">
+<h3 class="anchored" data-anchor-id="chairs-theme">Chair’s theme</h3>
+<p>Every year the AIC has a <a href="https://www.rgs.org/research/annual-international-conference/chairs-theme">Chair’s theme</a> which this year is <strong>Geographies of inequalities: towards just places</strong>. The themes are often very broad and it is <strong>not a requirement</strong> for your proposal to be linked to the theme. Often the links between the theme and presentations at the conference are very general. Some potential ideas from the GIScRG that relate to this theme include the topics listed below, but other ideas, topics and suggestions are very welcome.</p>
+<ul>
+<li><strong>Geographies of inequalities: towards just places</strong>
+<ul>
+<li>Mapping inequalities and counter-mapping</li>
+<li>Spatial analysis of inequalities</li>
+<li>Geograpaphic data science for social good</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="sponsorship" class="level2">
+<h2 class="anchored" data-anchor-id="sponsorship">Sponsorship</h2>
+<p>Obtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.</p>
+<p>Please send the information below to <em>giscience.rgs [at] gmail.com</em> before <strong>February 6th</strong>.</p>
+<ul>
+<li>Session title</li>
+<li>Session abstract (250 words)</li>
+<li>Session organisers’ name, affiliation and email</li>
+<li>Session format and how many timeslots you are requiring</li>
+<li>Whether you aim for a co-sponsorship with other groups</li>
+<li>(<strong>No</strong> need to include abstracts for paper contributions)</li>
+</ul>
+<p>We are also open to co-sponsorships with other Research Groups.</p>
+<section id="timeline" class="level3">
+<h3 class="anchored" data-anchor-id="timeline">Timeline</h3>
+<ul>
+<li><a href="https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters">Call of papers and sessions for the RGS-IBG Annual International Conference 2026</a>: <strong>now open</strong>.</li>
+<li>Deadline for sponsorship applications from session organisers to GIScience RG: <strong>February 6th</strong></li>
+<li>Decision on sponsorship applications from GIScience RG to session organisers: <strong>February 13th</strong></li>
+<li>Deadline for submissions from session organisers to RGS: <strong>March 6th</strong></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>call</category>
+  <category>events</category>
+  <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</guid>
+  <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>RGS-IBG AIC 2025 • Artificial Intelligence in GIScience education and pedagogy</title>
   <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-aiedu/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -50,6 +140,7 @@
   <title>RGS-IBG AIC 2025 • Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques</title>
   <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-humanurban/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -114,10 +205,11 @@
 
 
 
+
 <section id="call-for-abstracts" class="level2">
 <h2 class="anchored" data-anchor-id="call-for-abstracts">Call for abstracts</h2>
-<p>Over the past decade, significant advancements in deep learning have launched a new “AI spring,” reigniting research interest in artificial intelligence within GIScience and quantitative geography. While large language models have been making headlines in newspapers worldwide, a broader range of foundation models and architectures (e.g., CNN, GNN GAN, LSTM, Transformer) have sparked new work in GeoAI (Janowicz et al., 2020; De Sabbata et al., 2023, Hu et al.&nbsp;2024, Mai et al., 2025). For example, vision models have been applied to street-view imagery to explore urban perceptions and infer socio-economic outcomes (Biljecki and Ito 2021;&nbsp;Law et al 2019). The transformer architecture has been used for natural language processing (Berragan et al., 2023), image analysis and machine vision (Li et al, 2022). Graph neural networks have been employed for geodemographic classifications and question-answering with geographic knowledge graphs (De Sabbata and Liu, 2023; Mai et al, 2020).<em>&nbsp;</em>More recently, Geo foundation models have emerged, leveraging large-scale geographic data to support multi-modal geographic analysis.</p>
-<p>This session aims to be a forum to discuss advances, opportunities, and challenges of the use of GeoAI in quantitative geography and geographic information science, showcasing the latest advancements in GeoAI theories, methods and applications within the realm of quantitative geographic studies.&nbsp;We invite submissions that engage with the research agenda recently proposed by Nelson et al.&nbsp;(2024)&nbsp;and focus on but not limited to the topics below:</p>
+<p>Over the past decade, significant advancements in deep learning have launched a new “AI spring,” reigniting research interest in artificial intelligence within GIScience and quantitative geography. While large language models have been making headlines in newspapers worldwide, a broader range of foundation models and architectures (e.g., CNN, GNN GAN, LSTM, Transformer) have sparked new work in GeoAI (Janowicz et al., 2020; De Sabbata et al., 2023, Hu et al.&nbsp;2024, Mai et al., 2025). For example, vision models have been applied to street-view imagery to explore urban perceptions and infer socio-economic outcomes (Biljecki and Ito 2021; Law et al 2019). The transformer architecture has been used for natural language processing (Berragan et al., 2023), image analysis and machine vision (Li et al, 2022). Graph neural networks have been employed for geodemographic classifications and question-answering with geographic knowledge graphs (De Sabbata and Liu, 2023; Mai et al, 2020).More recently, Geo foundation models have emerged, leveraging large-scale geographic data to support multi-modal geographic analysis.</p>
+<p>This session aims to be a forum to discuss advances, opportunities, and challenges of the use of GeoAI in quantitative geography and geographic information science, showcasing the latest advancements in GeoAI theories, methods and applications within the realm of quantitative geographic studies. We invite submissions that engage with the research agenda recently proposed by Nelson et al.&nbsp;(2024) and focus on but not limited to the topics below:</p>
 <ul>
 <li><em>GeoAI methods, including but not limited to</em>
 <ul>
@@ -129,7 +221,7 @@
 <li><em>Natural language processing</em></li>
 <li><em>Information retrieval</em></li>
 <li><em>Foundation models</em></li>
-<li><em>Explainable&nbsp;and interpretable&nbsp;AI</em></li>
+<li><em>Explainable and interpretable AI</em></li>
 <li><em>Reinforcement learning</em></li>
 <li><em>Generative AI</em></li>
 </ul></li>
@@ -144,7 +236,7 @@
 <li><em>Spatial analysis and uncertainty</em></li>
 <li><em>Transportation &amp; Mobility</em></li>
 <li><em>Urban analytics</em></li>
-<li><em>Urban Planning&nbsp;</em></li>
+<li><em>Urban Planning </em></li>
 </ul></li>
 <li><em>Critical GIS, ethics and privacy in GeoAI</em>
 <ul>
@@ -167,7 +259,7 @@
 <h3 class="anchored" data-anchor-id="organisers">Organisers</h3>
 <ul>
 <li>Stef De Sabbata, University of Leicester</li>
-<li>Stephen&nbsp;Law, University College London</li>
+<li>Stephen Law, University College London</li>
 <li>Xiao Li, University of Oxford</li>
 <li>Francisco Rowe, University of Liverpool</li>
 <li>Trivik Verma, University of Bristol</li>
@@ -179,20 +271,20 @@
 <section id="references" class="level3">
 <h3 class="anchored" data-anchor-id="references">References</h3>
 <ul>
-<li>Berragan, C., Singleton, A., Calafiore, A., &amp; Morley, J. (2023). Transformer based named entity recognition for place name extraction from unstructured text.&nbsp;<em>International Journal of Geographical Information Science</em>,&nbsp;<em>37</em>(4), 747-766.</li>
-<li>De Sabbata, S., Ballatore, A., Miller, H.J., Sieber, R., Tyukin, I. and Yeboah, G., 2023. GeoAI in urban analytics.<em>&nbsp;International Journal of Geographical Information Science</em>, 37(12), pp.2455-2463.</li>
-<li>De Sabbata, S., &amp; Liu, P. (2023).&nbsp;A graph neural network framework for spatial geodemographic classification.&nbsp;<em>International Journal of Geographical Information Science</em>, 37(12), 2464-2486.</li>
-<li>Hu, Yingjie, Michael Goodchild, A.-Xing Zhu, May Yuan, Orhun Aydin, Budhendra Bhaduri, Song Gao, Wenwen Li, Dalton Lunga, and Shawn Newsam. 2024. ‘A Five-Year Milestone: Reflections on Advances and Limitations in GeoAI Research’.&nbsp;<em>Annals of GIS,</em>&nbsp;0(0):1–14. doi: 10.1080/19475683.2024.2309866.</li>
-<li>Janowicz, K., Gao, S., McKenzie, G., Hu, Y. and Bhaduri, B., 2020. GeoAI: spatially explicit artificial intelligence techniques for geographic knowledge discovery and beyond.&nbsp;<em>International Journal of Geographical Information Science</em>, 34(4), pp.625-636.</li>
-<li>Law, S., Paige, B., &amp; Russell, C. (2019). Take a look around: using street view and satellite images to estimate house prices.&nbsp;<em>ACM Transactions on Intelligent Systems and Technology (TIST)</em>, 10(5), 1-19.</li>
-<li>Li, W., &amp; Hsu, C. Y. (2022). GeoAI for large-scale image analysis and machine vision: Recent progress of artificial intelligence in geography.&nbsp;<em>ISPRS International Journal of Geo-Information</em>, 11(7),
+<li>Berragan, C., Singleton, A., Calafiore, A., &amp; Morley, J. (2023). Transformer based named entity recognition for place name extraction from unstructured text. <em>International Journal of Geographical Information Science</em>, <em>37</em>(4), 747-766.</li>
+<li>De Sabbata, S., Ballatore, A., Miller, H.J., Sieber, R., Tyukin, I. and Yeboah, G., 2023. GeoAI in urban analytics.* International Journal of Geographical Information Science*, 37(12), pp.2455-2463.</li>
+<li>De Sabbata, S., &amp; Liu, P. (2023). A graph neural network framework for spatial geodemographic classification. <em>International Journal of Geographical Information Science</em>, 37(12), 2464-2486.</li>
+<li>Hu, Yingjie, Michael Goodchild, A.-Xing Zhu, May Yuan, Orhun Aydin, Budhendra Bhaduri, Song Gao, Wenwen Li, Dalton Lunga, and Shawn Newsam. 2024. ‘A Five-Year Milestone: Reflections on Advances and Limitations in GeoAI Research’. <em>Annals of GIS,</em> 0(0):1–14. doi: 10.1080/19475683.2024.2309866.</li>
+<li>Janowicz, K., Gao, S., McKenzie, G., Hu, Y. and Bhaduri, B., 2020. GeoAI: spatially explicit artificial intelligence techniques for geographic knowledge discovery and beyond. <em>International Journal of Geographical Information Science</em>, 34(4), pp.625-636.</li>
+<li>Law, S., Paige, B., &amp; Russell, C. (2019). Take a look around: using street view and satellite images to estimate house prices. <em>ACM Transactions on Intelligent Systems and Technology (TIST)</em>, 10(5), 1-19.</li>
+<li>Li, W., &amp; Hsu, C. Y. (2022). GeoAI for large-scale image analysis and machine vision: Recent progress of artificial intelligence in geography. <em>ISPRS International Journal of Geo-Information</em>, 11(7),
 <ol start="385" type="1">
 <li></li>
 </ol></li>
-<li>Mai, G., Janowicz, K., Cai, L., Zhu, R., Regalia, B., Yan, B., Shi, M. and Lao, N., 2020. SE‐KGE: A location‐aware knowledge graph embedding model for geographic question answering and spatial semantic lifting.&nbsp;<em>Transactions in GIS</em>, 24(3), pp.623-655.</li>
-<li>Mai, G., Xie, Y., Jia, X., Lao, N., Rao, J., Zhu, Q., ... &amp; Jiao, J. (2025). Towards the next generation of Geospatial Artificial Intelligence.&nbsp;<em>International Journal of Applied Earth Observation and Geoinformation</em>,&nbsp;<em>136</em>, 104368.</li>
-<li>Nelson, T., Frazier, A. E., Kedron, P., Dodge, S., Zhao, B., Goodchild, M., ... &amp; Wilson, J. (2024). A research agenda for GIScience in a time of disruptions.&nbsp;<em>International Journal of Geographical Information Science</em>, 1-24.</li>
-<li>Biljecki, F., &amp; Ito, K. (2021). Street view imagery in urban analytics and GIS: A review.&nbsp;<em>Landscape and Urban Planning</em>,&nbsp;<em>215</em>, 104217.</li>
+<li>Mai, G., Janowicz, K., Cai, L., Zhu, R., Regalia, B., Yan, B., Shi, M. and Lao, N., 2020. SE‐KGE: A location‐aware knowledge graph embedding model for geographic question answering and spatial semantic lifting. <em>Transactions in GIS</em>, 24(3), pp.623-655.</li>
+<li>Mai, G., Xie, Y., Jia, X., Lao, N., Rao, J., Zhu, Q., ... &amp; Jiao, J. (2025). Towards the next generation of Geospatial Artificial Intelligence. <em>International Journal of Applied Earth Observation and Geoinformation</em>, <em>136</em>, 104368.</li>
+<li>Nelson, T., Frazier, A. E., Kedron, P., Dodge, S., Zhao, B., Goodchild, M., ... &amp; Wilson, J. (2024). A research agenda for GIScience in a time of disruptions. <em>International Journal of Geographical Information Science</em>, 1-24.</li>
+<li>Biljecki, F., &amp; Ito, K. (2021). Street view imagery in urban analytics and GIS: A review. <em>Landscape and Urban Planning</em>, <em>215</em>, 104217.</li>
 </ul>
 
 
@@ -210,6 +302,7 @@
   <title>RGS-IBG AIC 2025 • Call for Session Sponsorship</title>
   <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-session-sponsorship/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -305,6 +398,7 @@
 
 
 
+
 <section id="annual-international-conference-2024" class="level2">
 <h2 class="anchored" data-anchor-id="annual-international-conference-2024">Annual International Conference 2024</h2>
 <p>The&nbsp;<a href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgeoinfo.science%2F&amp;data=05%7C02%7Cs.desabbata%40leicester.ac.uk%7Cd842399ccbec425872c008dc1682b0ad%7Caebecd6a31d44b0195ce8274afe853d9%7C0%7C1%7C638409997773841727%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=lgFXMBE5pvOu7ZFADxuNko7ZPeqQVDIVWukwjFqsABk%3D&amp;reserved=0">Geographic Information Science Research Group (GIScRG)</a>&nbsp;of the RGS-IBG is glad to invite you to submit proposals for&nbsp;sponsorship&nbsp;of your RGS-IBG Annual International Conference 2024 sessions. The GIScRG welcomes sessions that focus on, but not limited to:</p>
@@ -371,6 +465,7 @@
 
 
 
+
 <p>Leads: Dr Justin van Dijk, Dr Stefano De Sabbata</p>
 <p>The&nbsp;<a href="https://geoinfo.science/">Geographic Information Science Research Group (GIScRG)</a>&nbsp;of the RGS-IBG is glad to invite you to submit proposals for sponsorship of your RGS-IBG Annual International Conference 2023 sessions. The GIScRG welcomes sessions that focus on geographic information science and tools, cartography, spatial analysis, GeoAI, critical GIS and related disciplines. We are also open to co-sponsorships with other Research Groups.</p>
 <p>Obtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.</p>
@@ -409,6 +504,7 @@
 
 
 
+
 <p>The <a href="https://geoinfo.science/">Geographical Information Science Research Group (GIScRG)</a> of the Royal Geographical Society with IBG (RGS-IBG) has now established an <strong>Annual International Conference (AIC) Prize</strong> 🏆. <a href="https://geoinfo.science/aic-prize-for-conference-attendance/"><strong>Read more here</strong></a>.</p>
 
 
@@ -423,6 +519,7 @@
   <title>RGS-IBG Annual International Conference • Sponsored Sessions AIC 2022</title>
   <link>https://giscience-rgs.github.io/posts/rgs-annual-international-conference-sponsored-sessions-aic-2022/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -463,6 +560,7 @@
 
 
 
+
 <p><strong>Title:</strong> Accessibility and mobility in time of covid-19</p>
 <p><strong>When:</strong> Wednesday 2nd February 2022, 1:00 PM UTC/GMT</p>
 <p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-accessibility-and-mobility-in-time-of-covid-19-tickets-250301507547">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-accessibility-and-mobility-in-time-of-covid-19-tickets-250301507547</a></p>
@@ -492,6 +590,7 @@ By James Todd</p>
 
 
 
+
 <p>Somayeh Dodge’s&nbsp;<a href="https://geoinfo.science/webinars/">GIScience webinar</a>&nbsp;is now online!</p>
 <p>https://youtu.be/cM3qIOOKkMU</p>
 <p><strong>Abstract:</strong> Movement patterns are the results of complex behaviors and processes which drive individuals’ movement in social and ecological systems. These patterns shape urban and natural ecosystem dynamics, structure human and wildlife social networks, and are instrumental to understanding human and wildlife’s behavioral responses to a changing environment. Ubiquitous tracking and the increasing access to movement data in both trajectory forms and aggregate indices have generated a tremendous interest in using data-driven approaches to model and understand behavioral responses to disruptive events such as the COVID-19 pandemic and to develop mitigation strategies. In this presentation, I argue for a human-centered approach to movement data science to analyze and map human responses to environmental disruptions.</p>
@@ -510,6 +609,7 @@ By James Todd</p>
   <title>Video • Sarah Battersby : “One Map to Rule Them All: Spatial in the World of Self-service Analytics”</title>
   <link>https://giscience-rgs.github.io/posts/video-sarah-battersby-one-map-to-rule-them-all-spatial-in-the-world-of-self-service-analytics/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -538,6 +638,7 @@ By James Todd</p>
 
 
 
+
 <p><strong>Title:</strong> Analyzing and Mapping Movement Responses to Environmental Disruptions</p>
 <p><strong>When:</strong> Wednesday 2nd June 2021, 17:00PM UK / 16:00pm UTC</p>
 <p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-mapping-movement-responses-to-env-disruptions-tickets-156566668119">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-mapping-movement-responses-to-env-disruptions-tickets-156566668119</a></p>
@@ -556,6 +657,7 @@ By James Todd</p>
   <title>Video • Taylor Shelton: “Mapping the Opaque: Embracing Fuzziness, Uncovering Inequalities”</title>
   <link>https://giscience-rgs.github.io/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -584,6 +686,7 @@ By James Todd</p>
 
 
 
+
 <p>Ate Poorthuis’ <a href="https://geoinfo.science/webinars/">GIScience webinar</a> is now online!</p>
 <p>https://youtu.be/KHgjcrGmTnk</p>
 <p><strong>Abstract:</strong>After having grown into distinctly different sub-disciplines in the latter half of the 20th century, quantitative geography is now increasingly adopting methods and techniques from network analysis. Network analysis provides a different perspective on the world, through relations between people and places instead of the abstract space of GIS. This provides an exciting opportunity to break free(er) from the well-known constraints of the Cartesian grid common to most spatial techniques. Thrust forward by new types of geographical data and computational power, this combination of spatial + network analysis is especially incisive when applied to analyses of urban processes. In this talk, I will briefly discuss the diverging and converging histories of spatial and network analysis. I will then illustrate the current use and potential of network analytical methods in geography by drawing on my recent work on urban neighborhoods and systems.</p>
@@ -602,6 +705,7 @@ By James Todd</p>
   <title>Webinar 19 May 2021 • Taylor Shelton</title>
   <link>https://giscience-rgs.github.io/posts/webinar-19-may-2021-taylor-shelton/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -631,6 +735,7 @@ By James Todd</p>
 
 
 
+
 <p><strong>Title:</strong> One Map to Rule Them All: Spatial in the World of Self-service Analytics. &nbsp;</p>
 <p><strong>When:</strong>&nbsp;Wednesday 5th May 2021, 17:00 pm UK / 16:00 pm UTC</p>
 <p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-spatial-in-the-world-of-self-service-analytics-tickets-151306115665">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-spatial-in-the-world-of-self-service-analytics-tickets-151306115665</a></p>
@@ -654,6 +759,7 @@ By James Todd</p>
 
 
 
+
 <p>Andrew’s <a href="https://www.youtube.com/watch?v=VL8vJuDIl-U&amp;ab_channel=RGS-IBGGIScienceResearchGroup">GIScience webinar</a> is now online!</p>
 <p>https://www.youtube.com/watch?v=VL8vJuDIl-U&amp;ab_channel=RGS-IBGGIScienceResearchGroup</p>
 <p><strong>Abstract:</strong>&nbsp;The beginning of this century marked a milestone in human history. For the first time, more than half of the world’s population lived in urban areas. This trend is expected to continue into the foreseeable future with 6.7 billion people projected to live in cities by 2050. This rapid urbanization will place unprecedented pressures on urban systems and their ability to provide basic of services. To plan for this future, we need to better understand the inherent complexity of urban systems from social, economic and environmental perspectives. In this talk, I will explore how such understanding can be gained through the lens of computational social science (CSS): the interdisciplinary science of complex social systems and their investigation through computational modeling (e.g.&nbsp;agent-based models) and related techniques. Through a series of example applications, I will demonstrate how new forms of geographical data (e.g.&nbsp;crowdsourced, social media etc.) not only provide us with a novel way of analyzing urban environments but how such data can be integrated into geographically explicit agent-based models. In addition, I will highlight that by focusing on individual, or groups of individuals, leads to more aggregate patterns emerging and show how model outcomes can be validated by such datasets. After these demonstrations, I will outline the challenges associated with this program of research, as using such data is not without its difficulties. Together, this work provides a brief overview of the current state of analyzing and modeling urban environments through the lens of CSS.</p>
@@ -671,6 +777,7 @@ By James Todd</p>
   <title>Webinar 21 April 2021 • Ate Poorthuis</title>
   <link>https://giscience-rgs.github.io/posts/webinar-21-april-2021-ate-poorthuis/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -699,6 +806,7 @@ By James Todd</p>
 
 
 
+
 <p>Anita’s <a href="https://www.youtube.com/watch?v=dRE9Zl7jpUA&amp;ab_channel=RGS-IBGGIScienceResearchGroup">GIScience webinar</a> is now online!</p>
 <p>https://www.youtube.com/watch?v=dRE9Zl7jpUA&amp;ab_channel=RGS-IBGGIScienceResearchGroup</p>
 <p><strong>Abstract:</strong> The potential of Big Data for understanding human mobility patterns and other complex phenomena in transportation and movement research is significant. Many contemporary Big Data sources have clear spatiotemporal dimensions. However, Big Spatiotemporal Data is usually messy and presents numerous challenges to researchers and analysts trying to extract information and knowledge. Exploratory data analysis tools for massive movement data are necessary to gain an understanding of our data, its biases and messiness and how they might affect our analyses. This talk presents methods for the exploration of movement patterns in massive quasi-continuous GPS tracking datasets, with examples focusing on international maritime vessel movements.</p>
@@ -711,29 +819,6 @@ By James Todd</p>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/video-anita-graser-exploratory-analysis-of-massive-movement-data/</guid>
   <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Webinar 31 March 2021 • Andrew Crooks</title>
-  <link>https://giscience-rgs.github.io/posts/webinar-31-march-2021-andrew-crooks/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><strong>Title:</strong> Analyzing and Modeling Urban Environments Utilizing Computational Social Science: Opportunities, Examples, and Challenges</p>
-<p><strong>When:</strong> Wednesday 31 March 2021, 3:00 pm UK / 2:00 pm UTC</p>
-<p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-analysing-modelling-urban-environments-tickets-145275104749">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-analysing-modelling-urban-environments-tickets-145275104749</a></p>
-<p><img src="https://geoinfo.science/wp-content/uploads/2021/03/giscience-webinar-template-eventbrite-banner-4.png?w=1024" class="img-fluid"></p>
-<p><strong>Abstract:</strong> The beginning of this century marked a milestone in human history. For the first time, more than half of the world’s population lived in urban areas. This trend is expected to continue into the foreseeable future with 6.7 billion people projected to live in cities by 2050. This rapid urbanization will place unprecedented pressures on urban systems and their ability to provide basic of services. To plan for this future, we need to better understand the inherent complexity of urban systems from social, economic and environmental perspectives. In this talk, I will explore how such understanding can be gained through the lens of computational social science (CSS): the interdisciplinary science of complex social systems and their investigation through computational modeling (e.g.&nbsp;agent-based models) and related techniques. Through a series of example applications, I will demonstrate how new forms of geographical data (e.g.&nbsp;crowdsourced, social media etc.) not only provide us with a novel way of analyzing urban environments but how such data can be integrated into geographically explicit agent-based models. In addition, I will highlight that by focusing on individual, or groups of individuals, leads to more aggregate patterns emerging and show how model outcomes can be validated by such datasets. After these demonstrations, I will outline the challenges associated with this program of research, as using such data is not without its difficulties. Together, this work provides a brief overview of the current state of analyzing and modeling urban environments through the lens of CSS.</p>
-<p>Andrew Crooks is a Professor at the University at Buffalo within the Department of Geography and a faculty member in the RENEW Institute. His research interests relate to exploring, understanding and the communication of the natural and socio-economic environments using geographical information systems (GIS), social network analysis (SNA), and Agent-based modeling methodologies. He is also a lead author of “<a href="https://www.gisagents.org/p/publications.html">Agent-based Modelling and Geographical Information Systems: A Practical Primer</a>” which explains how to design and build ABM and how to link the models to Geographical Information Systems. Further information about Andrew’s work can be found at <a href="https://www.gisagents.org/">www.gisagents.org</a> and on Twitter <a href="https://twitter.com/AndyCrooks"><span class="citation" data-cites="AndyCrooks">@AndyCrooks</span></a>.</p>
-
-
-
- ]]></description>
-  <category>webinar</category>
-  <guid>https://giscience-rgs.github.io/posts/webinar-31-march-2021-andrew-crooks/</guid>
-  <pubDate>Tue, 09 Mar 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

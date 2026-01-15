@@ -8,24 +8,26 @@ The following represents the current GIScRG committee structure. Please contact 
 - Secretary: [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/) (University of Bristol)
 - Treasurer: [Kristina Wolf](https://www.ncl.ac.uk/engineering/staff/profile/kristinawolf.html) (Newcastle University)
 - Prize Manager: [Xiao Li](https://www.tsu.ox.ac.uk/people/xli.html) (University of Oxford)
-- Membership Secretary: [Andrea Ballatore](https://aballatore.space/) (King's College London)
+- Membership Secretary: [Evgeny Noi](https://www.bristol.ac.uk/people/person/Evgeny-Noi-6c13da55-577e-49d6-8655-b608417bd402/) (University of Bristol)
+- Website and Social Media Managers: 
+  - [Pengyuan Liu](https://www.gla.ac.uk/schools/socialpolitical/staff/pengyuanliu/) (University of Glasgow)
+  - [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/) (University of Glasgow)
 
 ### Ordinary committee members
 
-- [Issam Al-kenani](https://www.linkedin.com/in/issam-al-kenani-14691b53/) (Cabinet Office)
 - [Seraphim Alvanides](https://www.researchgate.net/profile/Seraphim-Alvanides) (Independent Researcher)
 - [Nick Bearman](https://nickbearman.github.io/) (Independent Consultant)
-- [Bonnie Buyuklieva](https://bonnie-buyuklieva.github.io/) (University College London)
-- [Adam Dennett](https://www.ucl.ac.uk/bartlett/casa/dr-adam-dennett) (University College London)
-- [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley) (University of Leeds)
-- [Rebecca Sharpe](https://www.shu.ac.uk/about-us/our-people/staff-profiles/rebecca-sharpe#content) (Sheffield Hallam University)
-- [Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/people/gyeboah/) (University of Warwick)
 
 ### Past committee members
 
+- [Issam Al-kenani](https://www.linkedin.com/in/issam-al-kenani-14691b53/) (Cabinet Office)
 - [Alekos Alexiou](http://geographicdatascience.com/people/#alekosalexiou) (University of Liverpool)
+- [Bonnie Buyuklieva](https://bonnie-buyuklieva.github.io/) (University College London)
+- [Adam Dennett](https://www.ucl.ac.uk/bartlett/casa/dr-adam-dennett) (University College London)
 - [Ziqi Li](https://www.gla.ac.uk/schools/ges/staff/ziqili/) (University of Glasgow)
+- [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley) (University of Leeds)
+- [Rebecca Sharpe](https://www.shu.ac.uk/about-us/our-people/staff-profiles/rebecca-sharpe#content) (Sheffield Hallam University)
 - [Alan Smith](https://www.plymouth.ac.uk/staff/alan-smith) (University of Plymouth)
-- [Rebecca Sharpe](https://www.shu.ac.uk/about-us/our-people/staff-profiles/rebecca-sharpe) (Sheffield Hallam University)
+- [Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/people/gyeboah/) (University of Warwick)
 
-_Last update: December 2024_
+_Last update: January 2026_
