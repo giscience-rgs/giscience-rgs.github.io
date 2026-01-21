@@ -12,6 +12,113 @@
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>RGS-IBG AIC 2026 • Geospatial Artificial intelligence methods and applications</title>
+  <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-geoai/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="call-for-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="call-for-abstracts">Call for abstracts</h2>
+<p>Over the past decade, significant advancements in deep learning have launched a new “AI spring,” reigniting research interest in artificial intelligence within GIScience and quantitative geography. While large language models have been making headlines in newspapers worldwide, a broader range of foundation models and architectures (e.g., CNN, GNN GAN, LSTM, Transformer) have sparked new work in geospatial artificial intelligence (Janowicz et al., 2020; De Sabbata et al., 2023, Hu et al.&nbsp; 2024, Mai et al., 2025) and representation learning (Chen et al., 2025; Liu et al., 2025; Klemmer et al, 2025; Wang et al, 2025). For example, vision models have been applied to street-view imagery to explore urban perceptions and infer socio-economic outcomes (Biljecki and Ito 2021; Law et al 2019). The transformer architecture has been used for natural language processing (Berragan et al., 2023), image analysis and machine vision (Li et al, 2022). Graph neural networks have been employed for geodemographic classifications and question-answering with geographic knowledge graphs (De Sabbata and Liu, 2023; Mai et al, 2020). More recently, geospatial foundation models (Janowicz et al., 2025) have emerged, leveraging large-scale geographic data to support multi-modal geographic analysis.</p>
+<p>This session aims to be a forum to discuss advances, opportunities, and challenges of the use of GeoAI in quantitative geography and geographic information science, showcasing the latest advancements in GeoAI theories, methods and applications within the realm of quantitative geographic studies. We invite submissions that engage with the research agenda recently proposed by Nelson et al.&nbsp;(2024) and focus on but not limited to the topics below:</p>
+<ul>
+<li><em>GeoAI methods, including but not limited to</em>
+<ul>
+<li><em>Spatial Explicit Machine learning</em></li>
+<li><em>Causal inference</em></li>
+<li><em>Uncertainity</em></li>
+<li><em>Agent-based modelling</em></li>
+<li><em>Machine Vision</em></li>
+<li><em>Natural language processing</em></li>
+<li><em>Information retrieval</em></li>
+<li><em>Foundation models</em></li>
+<li><em>Explainable and interpretable AI</em></li>
+<li><em>Reinforcement learning</em></li>
+<li><em>Generative AI</em></li>
+</ul></li>
+<li><em>GeoAI applications, including but not limited to</em>
+<ul>
+<li><em>Crowdsourcing, citizen science and volunteered geographic information</em></li>
+<li><em>Data integration</em></li>
+<li><em>Environment (Disaster Management and Resilience)</em></li>
+<li><em>Health</em></li>
+<li><em>Location-based services</em></li>
+<li><em>Mapping, cartography and information visualisation</em></li>
+<li><em>Spatial analysis and uncertainty</em></li>
+<li><em>Transportation &amp; Mobility</em></li>
+<li><em>Urban analytics</em></li>
+<li><em>Urban Planning </em></li>
+</ul></li>
+<li><em>Critical GIS, ethics and privacy in GeoAI</em>
+<ul>
+<li><em>Bias and fairness</em></li>
+<li><em>Responsible AI</em></li>
+<li><em>Policy implications</em></li>
+<li><em>Transparency and accountability</em></li>
+</ul></li>
+<li><em>Reproducibility and open science in GeoAI</em>
+<ul>
+<li><em>Open Data for reproducibility and transparency</em></li>
+<li><em>Standardising benchmarks and evaluation metrics</em></li>
+</ul></li>
+</ul>
+<section id="submssion" class="level3">
+<h3 class="anchored" data-anchor-id="submssion">Submssion</h3>
+<p>Please submit your 400-word abstract to <a href="mailto:s.desabbata@leicester.ac.uk">Stef De Sabbata</a> by <strong>February 23rd</strong>.</p>
+</section>
+<section id="organisers" class="level3">
+<h3 class="anchored" data-anchor-id="organisers">Organisers</h3>
+<ul>
+<li><a href="https://le.ac.uk/people/stef-de-sabbata">Stef De Sabbata</a>, University of Leicester</li>
+<li><a href="https://environment.leeds.ac.uk/geography/staff/13092/dr-weiming-huang">Weiming Huang</a>, University of Leeds</li>
+<li><a href="https://profiles.ucl.ac.uk/21695-stephen-law">Stephen Law</a>, University College London</li>
+<li><a href="https://www.gla.ac.uk/schools/socialpolitical/staff/pengyuanliu/">Pengyuan Liu</a>, University of Glasgow</li>
+<li><a href="https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/">Rui Zhu</a>, University of Bristol</li>
+</ul>
+</section>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<ul>
+<li>Berragan, C., Singleton, A., Calafiore, A., &amp; Morley, J. (2023). Transformer based named entity recognition for place name extraction from unstructured text. <em>International Journal of Geographical Information Science</em>, <em>37</em>(4), 747-766.</li>
+<li>Biljecki, F., &amp; Ito, K. (2021). Street view imagery in urban analytics and GIS: A review. <em>Landscape and Urban Planning</em>, <em>215</em>, 104217.</li>
+<li>Chen, Y., Huang, W., Zhao, K., Jiang, Y. and Cong, G., 2025. Self-supervised representation learning for geospatial objects: A survey. Information Fusion, p.103265.</li>
+<li>De Sabbata, S., Ballatore, A., Miller, H.J., Sieber, R., Tyukin, I. and Yeboah, G., 2023. GeoAI in urban analytics.* International Journal of Geographical Information Science*, 37(12), pp.2455-2463.</li>
+<li>De Sabbata, S., &amp; Liu, P. (2023). A graph neural network framework for spatial geodemographic classification. <em>International Journal of Geographical Information Science</em>, 37(12), 2464-2486.</li>
+<li>Hu, Yingjie, Michael Goodchild, A.-Xing Zhu, May Yuan, Orhun Aydin, Budhendra Bhaduri, Song Gao, Wenwen Li, Dalton Lunga, and Shawn Newsam. 2024. ‘A Five-Year Milestone: Reflections on Advances and Limitations in GeoAI Research’. <em>Annals of GIS,</em> 0(0):1–14. doi: 10.1080/19475683.2024.2309866.</li>
+<li>Janowicz, K., Gao, S., McKenzie, G., Hu, Y. and Bhaduri, B., 2020. GeoAI: spatially explicit artificial intelligence techniques for geographic knowledge discovery and beyond. <em>International Journal of Geographical Information Science</em>, 34(4), pp.625-636.</li>
+<li>Janowicz, K., Mai, G., Huang, W., Zhu, R., Lao, N., &amp; Cai, L. (2025). GeoFM: how will geo-foundation models reshape spatial data science and GeoAI? International Journal of Geographical Information Science, 39(9), 1849–1865. https://doi.org/10.1080/13658816.2025.2543038</li>
+<li>Klemmer, K., Rolf, E., Russwurm, M., Camps-Valls, G., Czerkawski, M., Ermon, S., Francis, A., Jacobs, N., Kerner, H.R., Mackey, L. and Mai, G.,
+<ol start="2025" type="1">
+<li>Earth Embeddings: Towards AI-centric Representations of our Planet.</li>
+</ol></li>
+<li>Law, S., Paige, B., &amp; Russell, C. (2019). Take a look around: using street view and satellite images to estimate house prices. <em>ACM Transactions on Intelligent Systems and Technology (TIST)</em>, 10(5), 1-19.</li>
+<li>Li, W., &amp; Hsu, C. Y. (2022). GeoAI for large-scale image analysis and machine vision: Recent progress of artificial intelligence in geography. <em>ISPRS International Journal of Geo-Information</em>, 11(7),
+<ol start="385" type="1">
+<li></li>
+</ol></li>
+<li>Liu, Y., Wang, X., Wang, Y., Huang, F., Huang, Y., Li, Y., … Zhang, F. (2025). Representation learning for geospatial data. Annals of GIS, 31(4), 557–583. https://doi.org/10.1080/19475683.2025.2552157</li>
+<li>Mai, G., Janowicz, K., Cai, L., Zhu, R., Regalia, B., Yan, B., Shi, M. and Lao, N., 2020. SE‐KGE: A location‐aware knowledge graph embedding model for geographic question answering and spatial semantic lifting. <em>Transactions in GIS</em>, 24(3), pp.623-655.</li>
+<li>Mai, G., Xie, Y., Jia, X., Lao, N., Rao, J., Zhu, Q., ... &amp; Jiao, J. (2025). Towards the next generation of Geospatial Artificial Intelligence. <em>International Journal of Applied Earth Observation and Geoinformation</em>, <em>136</em>, 104368.</li>
+<li>Nelson, T., Frazier, A. E., Kedron, P., Dodge, S., Zhao, B., Goodchild, M., ... &amp; Wilson, J. (2024). A research agenda for GIScience in a time of disruptions. <em>International Journal of Geographical Information Science</em>, 1-24.</li>
+<li>Wang, X., Cheng, T., Law, S., Zeng, Z., Yin, L. and Liu, J., 2025. Multi-modal contrastive learning of urban space representations from POI data. Computers, Environment and Urban Systems, 120, p.102299.</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>call</category>
+  <category>events</category>
+  <category>cfp-rgs-aic-2026</category>
+  <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-geoai/</guid>
+  <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>RGS-IBG AIC 2026 • Call for Session Sponsorship</title>
   <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</link>
   <description><![CDATA[ 
@@ -98,6 +205,105 @@
   <category>call</category>
   <category>events</category>
   <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</guid>
+  <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RGS-IBG AIC 2026 • Geographies of inequalities and bias in AI</title>
+  <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-aiineq/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="call-for-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="call-for-abstracts">Call for abstracts</h2>
+<p>Artificial Intelligence (AI) has entered our daily life and work, transforming how many people learn about the world, as well as the way we approach data analysis in human, digital and physical geographies (Ash et al., 2019; Bennett and De Sabbata, 2023; Gao, 2023; Janowicz et al., 2022; Lin and Zhao, 2025; Maalsen et al., 2023; Osborne and Jones 2023). However, AI models and tools have their own geographies, shaped by their creation and deployment (Bender et al., 2021; Miceli and Posada, 2022; Weidinger et al., 2022), and which, in turn, generate and shape disinformation and misinformation, biases, and inequalities. The societal and ethical implications of AI are still underexplored in a continuously, rapidly changing technological and market environment. Crucially, many discussions are confined to (sub-)disciplinary silos, which hinder a broader understanding of this complex phenomenon.</p>
+<p>Aligning itself to this year’s Chair’s theme <a href="https://www.rgs.org/research/annual-international-conference/chairs-theme"><em>“Geographies of inequalities: towards just places”</em></a>, this session aims to be an open forum to bridge critical analysis of AI based on theories in human and digital geographies (Sieber et al., 2025; Walker and Winders, 2024), and quantitative geographic analysis on AI safety and alignment (De Sabbata et al., 2025; Janowicz et al., 2025; Li et al., 2024; Van de Weghe et al., 2025). We invite submissions that explore the inequalities of AI and their implications, with a particular focus on but not limited to the topics below:</p>
+<ul>
+<li>AI benchmarking
+<ul>
+<li>geo/spatial bias</li>
+<li>geo/spatial diversity</li>
+<li>geo/spatial reasoning</li>
+</ul></li>
+<li>AI ethics
+<ul>
+<li>exclusionary practices and discrimination</li>
+<li>disinformation and misinformation</li>
+<li>biases and inequalities</li>
+<li>labour conditions and labour markets</li>
+</ul></li>
+<li>AI safety and trust
+<ul>
+<li>alignment</li>
+<li>mechanistic interpretability</li>
+</ul></li>
+</ul>
+<p>We welcome and ecourage submission exploring a range of methods, including but not limited:</p>
+<ul>
+<li>Contribution type
+<ul>
+<li>theoretical</li>
+<li>empirical</li>
+<li>case study</li>
+</ul></li>
+<li>Approach
+<ul>
+<li>critical</li>
+<li>ethnographic</li>
+<li>qualitative</li>
+<li>quantitative</li>
+<li>statistical</li>
+<li>mixed methods</li>
+</ul></li>
+</ul>
+<section id="submission" class="level3">
+<h3 class="anchored" data-anchor-id="submission">Submission</h3>
+<p>Please submit your 400-word abstract to <a href="mailto:s.desabbata@leicester.ac.uk">Stef De Sabbata</a> by <strong>February 23rd</strong>.</p>
+</section>
+<section id="organisers" class="level3">
+<h3 class="anchored" data-anchor-id="organisers">Organisers</h3>
+<ul>
+<li><a href="https://le.ac.uk/people/stef-de-sabbata">Stef De Sabbata</a>, University of Leicester</li>
+<li><a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-xiao-li/?sc_lang=en">Xiao Li</a>, The Hong Kong Polytechnic University and University of Oxford</li>
+<li><a href="https://le.ac.uk/people/tess-osborne">Tess Osborne</a>, University of Leicester</li>
+<li><a href="https://www.gla.ac.uk/schools/ges/staff/meiliuwu/">Meiliu Wu</a>, University of Glasgow</li>
+<li><a href="https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/">Rui Zhu</a>, University of Bristol</li>
+</ul>
+</section>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<ul>
+<li>Ash, James, Rob Kitchin, and Agnieszka Leszczynski. 2019. Digital Geographies Edited by James Ash, Rob Kitchin, Agnieszka Leszczynski. Los Angeles: Sage.</li>
+<li>Bender, E.M., Gebru, T., McMillan-Major, A. and Shmitchell, S., 2021, March. On the dangers of stochastic parrots: Can language models be too big?. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (pp.&nbsp;610-623).</li>
+<li>Bennett, K. and De Sabbata, S., 2023. Introducing a more-than-quantitative approach to explore emerging structures of feeling in the everyday. Emotion, Space and Society, 49, p.100965.</li>
+<li>Bommasani, R., et al., 2021. On the opportunities and risks of foundation models. arXiv preprint arXiv:2108.07258.</li>
+<li>De Sabbata, S., Mizzaro, S. and Roitero, K., 2025. Geospatial Mechanistic Interpretability of Large Language Models. arXiv preprint arXiv:2505.03368.</li>
+<li>Gao, S., 2023. Artificial intelligence and human geography. arXiv preprint arXiv:2312.08827.</li>
+<li>Janowicz, K., Sieber, R., and Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458.</li>
+<li>Janowicz, K., Liu, Z., Mai, G., Wang, Z., Majic, I., Fortacz, A., McKenzie, G. and Gao, S., 2025, November. Whose Truth? Pluralistic Geo-Alignment for (Agentic) AI. In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (pp.&nbsp;799-803).</li>
+<li>Li, F., Hogg, D.C. and Cohn, A.G., 2024, March. Advancing spatial reasoning in large language models: An in-depth evaluation and enhancement using the stepgame benchmark. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No.&nbsp;17, pp.&nbsp;18500-18507).</li>
+<li>Lin, Y. and Zhao, B., 2025. Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), pp.499-512.</li>
+<li>Maalsen, Sophia, Jonathan Cinnamon, and Samuel Kinsley. 2023. ‘Artificial Intelligence, Geography and Society’. Digital Geography and Society 4:100061. doi: 10.1016/j.diggeo.2023.100061.</li>
+<li>Miceli, M. and Posada, J., 2022. The Data-Production Dispositif. Proceedings of the ACM on Human-Computer Interaction, 6(CSCW2), pp.1-37.</li>
+<li>Osborne, Tess, and Phil Jones, eds.&nbsp;2023. A Research Agenda for Digital Geographies. Edward Elgar.</li>
+<li>Sieber, R., Brandusescu, A., Sangiambut, S. and Adu-Daako, A., 2025. What is civic participation in artificial intelligence?. Environment and Planning B: Urban Analytics and City Science, 52(6), pp.1388-1406.</li>
+<li>Van de Weghe, N., De Sloover, L., Cohn, A., Huang, H., Scheider, S., Sieber, R., Timpf, S. and Claramunt, C., 2025. Opportunities and challenges of integrating geographic information science and large language models. Journal of Spatial Information Science, (30), pp.93-116.</li>
+<li>Walker, M. and Winders, J.L., 2024. Geographies of artificial intelligence: Labor, surveillance, and activism. Human geography, 17(2), pp.227-235.</li>
+<li>Weidinger, L., Uesato, J., Rauh, M., Griffin, C., Huang, P.S., Mellor, J., Glaese, A., Cheng, M., Balle, B., Kasirzadeh, A. and Biles, C., 2022, June. Taxonomy of risks posed by language models. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp.&nbsp;214-229).</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>call</category>
+  <category>events</category>
+  <category>cfp-rgs-aic-2026</category>
+  <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-aiineq/</guid>
   <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -772,53 +978,6 @@ By James Todd</p>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/video-andrew-crooks-analyzing-and-modeling-urban-environments/</guid>
   <pubDate>Tue, 06 Apr 2021 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Webinar 21 April 2021 • Ate Poorthuis</title>
-  <link>https://giscience-rgs.github.io/posts/webinar-21-april-2021-ate-poorthuis/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><strong>Title:</strong> GIScience and network analysis: a happy reunion?&nbsp;</p>
-<p><strong>When:</strong>&nbsp;Wednesday 21 April 2021, 12:00 pm UK / 11:00 am UTC</p>
-<p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-giscience-network-analysis-tickets-149848203009">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-giscience-network-analysis-tickets-149848203009</a></p>
-<p><img src="https://geoinfo.science/wp-content/uploads/2021/04/giscience-webinar-template-eventbrite-banner-5.png?w=1024" class="img-fluid"></p>
-<p><strong>Abstract:</strong> After having grown into distinctly different sub-disciplines in the latter half of the 20th&nbsp;century, quantitative geography is now increasingly adopting methods and techniques from network analysis. Network analysis provides a different perspective on the world, through&nbsp;<em>relations</em>&nbsp;between people and places instead of the abstract space of GIS. This provides an exciting opportunity to break free(er) from the well-known constraints of the Cartesian grid common to most spatial techniques. Thrust forward by new types of geographical data and computational power, this combination of spatial + network analysis is especially incisive when applied to analyses of urban processes. In this talk, I will briefly discuss the diverging and converging histories of spatial and network analysis. I will then illustrate the current use and potential of network analytical methods in geography by drawing on my recent work on urban neighborhoods and systems.</p>
-<p>Ate Poorthuis&nbsp;is an Assistant Professor of Big Data and Human-Environment Systems in the Department of Earth and Environmental Sciences at KU Leuven. His research explores the possibilities and limitations of big data, through quantitative analysis and visualization, to better understand how our cities work. He has particular interest in the practical application of these academic insights within urban planning and policy. Further information about Andrew’s work can be found at&nbsp;<a href="https://www.atepoorthuis.com/">atepoorthuis.com</a>&nbsp;and on Twitter&nbsp;<a href="https://twitter.com/atepoorthuis"><span class="citation" data-cites="atepoorthuis">@atepoorthuis</span></a>.</p>
-
-
-
- ]]></description>
-  <category>webinar</category>
-  <guid>https://giscience-rgs.github.io/posts/webinar-21-april-2021-ate-poorthuis/</guid>
-  <pubDate>Tue, 06 Apr 2021 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Video • Anita Graser • “Exploratory Analysis of Massive Movement Data”</title>
-  <link>https://giscience-rgs.github.io/posts/video-anita-graser-exploratory-analysis-of-massive-movement-data/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>Anita’s <a href="https://www.youtube.com/watch?v=dRE9Zl7jpUA&amp;ab_channel=RGS-IBGGIScienceResearchGroup">GIScience webinar</a> is now online!</p>
-<p>https://www.youtube.com/watch?v=dRE9Zl7jpUA&amp;ab_channel=RGS-IBGGIScienceResearchGroup</p>
-<p><strong>Abstract:</strong> The potential of Big Data for understanding human mobility patterns and other complex phenomena in transportation and movement research is significant. Many contemporary Big Data sources have clear spatiotemporal dimensions. However, Big Spatiotemporal Data is usually messy and presents numerous challenges to researchers and analysts trying to extract information and knowledge. Exploratory data analysis tools for massive movement data are necessary to gain an understanding of our data, its biases and messiness and how they might affect our analyses. This talk presents methods for the exploration of movement patterns in massive quasi-continuous GPS tracking datasets, with examples focusing on international maritime vessel movements.</p>
-<p><strong>Speaker:</strong> Anita Graser is a researcher, open source GIS developer, and author. She works at the Austrian Institute of Technology in Vienna, teaches Python for QGIS at UNIGIS Salzburg and serves on the QGIS project steering committee. She has published several books about QGIS, including “<a href="https://anitagraser.com/2016/04/15/learning-qgis-3rd-ed-discounts/">Learning QGIS</a>” and “<a href="https://locatepress.com/qmd2">QGIS Map Design</a>”. Her latest project is&nbsp;<a href="https://anitagraser.github.io/movingpandas/">MovingPandas</a>, a Python library for analyzing movement data. You can find out more about her work on&nbsp;<a href="https://anitagraser.com/">anitagraser.com</a>&nbsp;and follow her on Twitter&nbsp;<a href="https://twitter.com/underdarkGIS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><span class="citation" data-cites="underdarkGIS">@underdarkGIS</span></a>.</p>
-
-
-
- ]]></description>
-  <category>video</category>
-  <category>webinar</category>
-  <guid>https://giscience-rgs.github.io/posts/video-anita-graser-exploratory-analysis-of-massive-movement-data/</guid>
-  <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

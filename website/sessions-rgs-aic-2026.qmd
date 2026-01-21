@@ -1,0 +1,7 @@
+---
+title: "RGS AIC 2026"
+listing:
+  contents: posts/
+  include:
+    categories: "cfp-rgs-aic-2026"
+---

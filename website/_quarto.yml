@@ -25,7 +25,9 @@ website:
         - href: sessions-rgs-aic-2025.qmd
           text: "RGS-IBG AIC 2025"
         - href: call-for-session-sponsorship-2026.qmd
-          text: "RGS-IBG AIC 2026"
+          text: "RGS-IBG AIC 2026 Sponsorship"
+        - href: sessions-rgs-aic-2026.qmd
+          text: "RGS-IBG AIC 2026 CfPs"
       - text: "Prizes"
         menu:
         - href: dissertation-prizes.qmd

@@ -1,0 +1,101 @@
+---
+title: "RGS-IBG AIC 2026 • Geographies of inequalities and bias in AI"
+date: "2026-01-15"
+categories: 
+  - "call"
+  - "events"
+  - "cfp-rgs-aic-2026"
+tags: 
+  - "academia"
+  - "conference"
+  - "event"
+  - "gis"
+  - "giscience"
+  - "geoai"
+  - "rgs"
+  - "spatial-data-science"
+---
+
+## Call for abstracts
+
+Artificial Intelligence (AI) has entered our daily life and work, transforming
+how many people learn about the world, as well as the way we approach data 
+analysis in human, digital and physical geographies (Ash et al., 2019; Bennett and De 
+Sabbata, 2023; Gao, 2023; Janowicz et al., 2022; Lin and Zhao, 2025; 
+Maalsen et al., 2023; Osborne and Jones 2023). However, AI models and tools have their own
+geographies, shaped by their creation and deployment (Bender 
+et al., 2021; Miceli and Posada, 2022; Weidinger et al., 2022), 
+and which, in turn, generate and shape disinformation and misinformation, biases, and
+inequalities. The societal and ethical implications of AI are still underexplored
+in a continuously, rapidly changing technological and market environment. 
+Crucially, many discussions are confined to (sub-)disciplinary silos, which hinder
+a broader understanding of this complex phenomenon.
+
+Aligning itself to this year's Chair's theme 
+[*"Geographies of inequalities: towards just places"*](https://www.rgs.org/research/annual-international-conference/chairs-theme),
+this session aims to be an open forum to bridge critical analysis of
+AI based on theories in human and digital geographies (Sieber et al., 2025;
+Walker and Winders, 2024), and quantitative 
+geographic analysis on AI safety and alignment (De Sabbata et al., 2025; 
+Janowicz et al., 2025; Li et al., 2024; Van de Weghe et al., 2025). 
+We invite submissions that explore the inequalities of AI and their implications, 
+with a particular focus on but not limited to the topics below:
+
+- AI benchmarking
+  - geo/spatial bias
+  - geo/spatial diversity
+  - geo/spatial reasoning
+- AI ethics
+  - exclusionary practices and discrimination
+  - disinformation and misinformation
+  - biases and inequalities
+  - labour conditions and labour markets
+- AI safety and trust
+  - alignment
+  - mechanistic interpretability
+  
+We welcome and ecourage submission exploring a range of methods, including but not limited:
+
+- Contribution type
+  - theoretical 
+  - empirical
+  - case study
+- Approach
+  - critical
+  - ethnographic
+  - qualitative
+  - quantitative
+  - statistical
+  - mixed methods
+
+### Submission
+
+Please submit your 400-word abstract to [Stef De Sabbata](mailto:s.desabbata@leicester.ac.uk) by **February 23rd**.
+
+### Organisers
+
+- [Stef De Sabbata](https://le.ac.uk/people/stef-de-sabbata), University of Leicester
+- [Xiao Li](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-xiao-li/?sc_lang=en), The Hong Kong Polytechnic University and University of Oxford
+- [Tess Osborne](https://le.ac.uk/people/tess-osborne), University of Leicester
+- [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/), University of Glasgow
+- [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/), University of Bristol
+
+### References
+
+- Ash, James, Rob Kitchin, and Agnieszka Leszczynski. 2019. Digital Geographies Edited by James Ash, Rob Kitchin, Agnieszka Leszczynski. Los Angeles: Sage.
+- Bender, E.M., Gebru, T., McMillan-Major, A. and Shmitchell, S., 2021, March. On the dangers of stochastic parrots: Can language models be too big?. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (pp. 610-623).
+- Bennett, K. and De Sabbata, S., 2023. Introducing a more-than-quantitative approach to explore emerging structures of feeling in the everyday. Emotion, Space and Society, 49, p.100965.
+- Bommasani, R., et al., 2021. On the opportunities and risks of foundation models. arXiv preprint arXiv:2108.07258.
+- De Sabbata, S., Mizzaro, S. and Roitero, K., 2025. Geospatial Mechanistic Interpretability of Large Language Models. arXiv preprint arXiv:2505.03368.
+- Gao, S., 2023. Artificial intelligence and human geography. arXiv preprint arXiv:2312.08827.
+- Janowicz, K., Sieber, R., and Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458.
+- Janowicz, K., Liu, Z., Mai, G., Wang, Z., Majic, I., Fortacz, A., McKenzie, G. and Gao, S., 2025, November. Whose Truth? Pluralistic Geo-Alignment for (Agentic) AI. In Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (pp. 799-803).
+- Li, F., Hogg, D.C. and Cohn, A.G., 2024, March. Advancing spatial reasoning in large language models: An in-depth evaluation and enhancement using the stepgame benchmark. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 17, pp. 18500-18507).
+- Lin, Y. and Zhao, B., 2025. Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), pp.499-512.
+- Maalsen, Sophia, Jonathan Cinnamon, and Samuel Kinsley. 2023. ‘Artificial Intelligence, Geography and Society’. Digital Geography and Society 4:100061. doi: 10.1016/j.diggeo.2023.100061.
+- Miceli, M. and Posada, J., 2022. The Data-Production Dispositif. Proceedings of the ACM on Human-Computer Interaction, 6(CSCW2), pp.1-37.
+- Osborne, Tess, and Phil Jones, eds. 2023. A Research Agenda for Digital Geographies. Edward Elgar.
+- Sieber, R., Brandusescu, A., Sangiambut, S. and Adu-Daako, A., 2025. What is civic participation in artificial intelligence?. Environment and Planning B: Urban Analytics and City Science, 52(6), pp.1388-1406.
+- Van de Weghe, N., De Sloover, L., Cohn, A., Huang, H., Scheider, S., Sieber, R., Timpf, S. and Claramunt, C., 2025. Opportunities and challenges of integrating geographic information science and large language models. Journal of Spatial Information Science, (30), pp.93-116.
+- Walker, M. and Winders, J.L., 2024. Geographies of artificial intelligence: Labor, surveillance, and activism. Human geography, 17(2), pp.227-235.
+- Weidinger, L., Uesato, J., Rauh, M., Griffin, C., Huang, P.S., Mellor, J., Glaese, A., Cheng, M., Balle, B., Kasirzadeh, A. and Biles, C., 2022, June. Taxonomy of risks posed by language models. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 214-229).
