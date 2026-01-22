@@ -10,7 +10,7 @@
 <atom:link href="https://giscience-rgs.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>RGS-IBG AIC 2026 • Geospatial Artificial intelligence methods and applications</title>
   <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-geoai/</link>
@@ -66,8 +66,8 @@
 <li><em>Standardising benchmarks and evaluation metrics</em></li>
 </ul></li>
 </ul>
-<section id="submssion" class="level3">
-<h3 class="anchored" data-anchor-id="submssion">Submssion</h3>
+<section id="submission" class="level3">
+<h3 class="anchored" data-anchor-id="submission">Submission</h3>
 <p>Please submit your 400-word abstract to <a href="mailto:s.desabbata@leicester.ac.uk">Stef De Sabbata</a> by <strong>February 23rd</strong>.</p>
 </section>
 <section id="organisers" class="level3">
@@ -116,96 +116,7 @@
   <category>events</category>
   <category>cfp-rgs-aic-2026</category>
   <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-geoai/</guid>
-  <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>RGS-IBG AIC 2026 • Call for Session Sponsorship</title>
-  <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<section id="annual-international-conference-2025" class="level2">
-<h2 class="anchored" data-anchor-id="annual-international-conference-2025">Annual International Conference 2025</h2>
-<p>The <a href="https://giscience-rgs.github.io/">Geographic Information Science Research Group (GIScRG)</a> of the RGS-IBG is glad to invite you to submit proposals for sponsorship of your <a href="https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters/guidance-for-session-organisers">RGS-IBG Annual International Conference 2026 sessions</a>.</p>
-<section id="themes" class="level3">
-<h3 class="anchored" data-anchor-id="themes">Themes</h3>
-<p>The GIScRG welcomes sessions that focus on, but not limited to:</p>
-<ul>
-<li>Geographic information science</li>
-<li><strong>GeoAI</strong>, including but not limited to
-<ul>
-<li>Machine learning</li>
-<li>Large language models</li>
-<li>Vision models</li>
-<li>Multimodel models</li>
-<li>Foundation models</li>
-<li>Agent-based modelling</li>
-<li>Information retrieval</li>
-</ul></li>
-<li>Reproducibility and open science</li>
-<li>Mapping, cartography and information visualisation</li>
-<li>Spatial analysis and uncertainty</li>
-<li>Movement analysis</li>
-<li>Location-based services</li>
-<li>Crowdsourcing, citizen science and volunteered geographic information</li>
-<li>Critical GIS, ethics and privacy</li>
-<li><strong>Applications</strong>, including but not limited to
-<ul>
-<li>Environment</li>
-<li>Health</li>
-<li>Transportation</li>
-<li>Urban analytics</li>
-</ul></li>
-</ul>
-</section>
-<section id="chairs-theme" class="level3">
-<h3 class="anchored" data-anchor-id="chairs-theme">Chair’s theme</h3>
-<p>Every year the AIC has a <a href="https://www.rgs.org/research/annual-international-conference/chairs-theme">Chair’s theme</a> which this year is <strong>Geographies of inequalities: towards just places</strong>. The themes are often very broad and it is <strong>not a requirement</strong> for your proposal to be linked to the theme. Often the links between the theme and presentations at the conference are very general. Some potential ideas from the GIScRG that relate to this theme include the topics listed below, but other ideas, topics and suggestions are very welcome.</p>
-<ul>
-<li><strong>Geographies of inequalities: towards just places</strong>
-<ul>
-<li>Mapping inequalities and counter-mapping</li>
-<li>Spatial analysis of inequalities</li>
-<li>Geograpaphic data science for social good</li>
-</ul></li>
-</ul>
-</section>
-</section>
-<section id="sponsorship" class="level2">
-<h2 class="anchored" data-anchor-id="sponsorship">Sponsorship</h2>
-<p>Obtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.</p>
-<p>Please send the information below to <em>giscience.rgs [at] gmail.com</em> before <strong>February 6th</strong>.</p>
-<ul>
-<li>Session title</li>
-<li>Session abstract (250 words)</li>
-<li>Session organisers’ name, affiliation and email</li>
-<li>Session format and how many timeslots you are requiring</li>
-<li>Whether you aim for a co-sponsorship with other groups</li>
-<li>(<strong>No</strong> need to include abstracts for paper contributions)</li>
-</ul>
-<p>We are also open to co-sponsorships with other Research Groups.</p>
-<section id="timeline" class="level3">
-<h3 class="anchored" data-anchor-id="timeline">Timeline</h3>
-<ul>
-<li><a href="https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters">Call of papers and sessions for the RGS-IBG Annual International Conference 2026</a>: <strong>now open</strong>.</li>
-<li>Deadline for sponsorship applications from session organisers to GIScience RG: <strong>February 6th</strong></li>
-<li>Decision on sponsorship applications from GIScience RG to session organisers: <strong>February 13th</strong></li>
-<li>Deadline for submissions from session organisers to RGS: <strong>March 6th</strong></li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>call</category>
-  <category>events</category>
-  <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</guid>
-  <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+  <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>RGS-IBG AIC 2026 • Geographies of inequalities and bias in AI</title>
@@ -304,6 +215,95 @@
   <category>events</category>
   <category>cfp-rgs-aic-2026</category>
   <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-aiineq/</guid>
+  <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RGS-IBG AIC 2026 • Call for Session Sponsorship</title>
+  <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="annual-international-conference-2025" class="level2">
+<h2 class="anchored" data-anchor-id="annual-international-conference-2025">Annual International Conference 2025</h2>
+<p>The <a href="https://giscience-rgs.github.io/">Geographic Information Science Research Group (GIScRG)</a> of the RGS-IBG is glad to invite you to submit proposals for sponsorship of your <a href="https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters/guidance-for-session-organisers">RGS-IBG Annual International Conference 2026 sessions</a>.</p>
+<section id="themes" class="level3">
+<h3 class="anchored" data-anchor-id="themes">Themes</h3>
+<p>The GIScRG welcomes sessions that focus on, but not limited to:</p>
+<ul>
+<li>Geographic information science</li>
+<li><strong>GeoAI</strong>, including but not limited to
+<ul>
+<li>Machine learning</li>
+<li>Large language models</li>
+<li>Vision models</li>
+<li>Multimodel models</li>
+<li>Foundation models</li>
+<li>Agent-based modelling</li>
+<li>Information retrieval</li>
+</ul></li>
+<li>Reproducibility and open science</li>
+<li>Mapping, cartography and information visualisation</li>
+<li>Spatial analysis and uncertainty</li>
+<li>Movement analysis</li>
+<li>Location-based services</li>
+<li>Crowdsourcing, citizen science and volunteered geographic information</li>
+<li>Critical GIS, ethics and privacy</li>
+<li><strong>Applications</strong>, including but not limited to
+<ul>
+<li>Environment</li>
+<li>Health</li>
+<li>Transportation</li>
+<li>Urban analytics</li>
+</ul></li>
+</ul>
+</section>
+<section id="chairs-theme" class="level3">
+<h3 class="anchored" data-anchor-id="chairs-theme">Chair’s theme</h3>
+<p>Every year the AIC has a <a href="https://www.rgs.org/research/annual-international-conference/chairs-theme">Chair’s theme</a> which this year is <strong>Geographies of inequalities: towards just places</strong>. The themes are often very broad and it is <strong>not a requirement</strong> for your proposal to be linked to the theme. Often the links between the theme and presentations at the conference are very general. Some potential ideas from the GIScRG that relate to this theme include the topics listed below, but other ideas, topics and suggestions are very welcome.</p>
+<ul>
+<li><strong>Geographies of inequalities: towards just places</strong>
+<ul>
+<li>Mapping inequalities and counter-mapping</li>
+<li>Spatial analysis of inequalities</li>
+<li>Geograpaphic data science for social good</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="sponsorship" class="level2">
+<h2 class="anchored" data-anchor-id="sponsorship">Sponsorship</h2>
+<p>Obtaining a group sponsorship for your session is not required, but it will connect your session to the broader GIScience community of the RGS-IBG. We will promote your session along with the other sessions we sponsor, providing your session with broader publicity. The session will be part of our AIC programme, thus avoiding overlaps with other GIScience sessions. Please note, however, that sponsorships do not include financial support, although you might be able to apply for a guest pass.</p>
+<p>Please send the information below to <em>giscience.rgs [at] gmail.com</em> before <strong>February 6th</strong>.</p>
+<ul>
+<li>Session title</li>
+<li>Session abstract (250 words)</li>
+<li>Session organisers’ name, affiliation and email</li>
+<li>Session format and how many timeslots you are requiring</li>
+<li>Whether you aim for a co-sponsorship with other groups</li>
+<li>(<strong>No</strong> need to include abstracts for paper contributions)</li>
+</ul>
+<p>We are also open to co-sponsorships with other Research Groups.</p>
+<section id="timeline" class="level3">
+<h3 class="anchored" data-anchor-id="timeline">Timeline</h3>
+<ul>
+<li><a href="https://www.rgs.org/research/annual-international-conference/call-for-sessions-papers-and-posters">Call of papers and sessions for the RGS-IBG Annual International Conference 2026</a>: <strong>now open</strong>.</li>
+<li>Deadline for sponsorship applications from session organisers to GIScience RG: <strong>February 6th</strong></li>
+<li>Decision on sponsorship applications from GIScience RG to session organisers: <strong>February 13th</strong></li>
+<li>Deadline for submissions from session organisers to RGS: <strong>March 6th</strong></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>call</category>
+  <category>events</category>
+  <guid>https://giscience-rgs.github.io/posts/aic-2026-call-for-session-sponsorship/</guid>
   <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
