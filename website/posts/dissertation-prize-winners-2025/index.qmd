@@ -1,0 +1,42 @@
+---
+title: "GIScRG Dissertation Award 2025: Winners Announced"
+date: "2026-07-31"
+categories:
+  - "prizes"
+  - "news"
+tags:
+  - "dissertation-award"
+  - "giscience"
+  - "rgs-ibg"
+---
+
+We are delighted to announce the recipients of the **GIScRG Dissertation Award 2025**, following a careful review of the submitted dissertations.
+
+## Winner
+
+**Miaoyi Li**  
+Centre for Advanced Spatial Analysis, The Bartlett Faculty of the Built Environment, University College London
+
+*“Digital Planning Support in a Data-Scarce Context by Estimating Urban Activities: A Case Study in Jaipur City, India”*
+
+## Runner-up
+
+**Nicholas Kinsella**  
+School of Geography and Environmental Sciences, Ulster University
+
+*“Monitoring Methane Emissions at Hassi Messaoud from 2021 to 2024 Using Sentinel-2 and Sentinel-5P: Assessing Algeria’s Progress Towards Its 2030 GHG Reduction Target”*
+
+The winner will receive **£100 and a one-year RGS-IBG Postgraduate Fellowship**, while the runner-up will receive **£50 and a one-year RGS-IBG Postgraduate Fellowship**.
+
+The recipients should contact **Nick Bearman** at [nick@nickbearman.com](mailto:nick@nickbearman.com) to arrange delivery of their awards.
+
+We would like to thank the members of the award selection committee for their time and valuable contributions:
+
+- **Professor Gary Higgs**, University of South Wales
+- **Dr Ye Tian**, University College Dublin
+- **Dr Yuchen Li**, University of Leeds
+- **Dr Meiliu Wu**, University of Glasgow
+
+Special thanks also go to **Dr Xiao Li of The Hong Kong Polytechnic University** for coordinating and organising the award selection process.
+
+Congratulations to both recipients, and thank you to everyone who submitted their work. We greatly appreciate your contributions to GIScience research.
