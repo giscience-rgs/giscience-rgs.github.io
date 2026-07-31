@@ -1,20 +1,13 @@
 [
   {
-    "listing": "/sessions-rgs-aic-2026.html",
-    "items": [
-      "/posts/aic-2026-call-for-abstracts-aiineq/index.html",
-      "/posts/aic-2026-call-for-abstracts-geoai/index.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/posts/aic-2026-call-for-abstracts-geoai/index.html",
       "/posts/aic-2026-call-for-abstracts-aiineq/index.html",
       "/posts/aic-2026-call-for-session-sponsorship/index.html",
-      "/posts/aic-2025-call-for-abstracts-aiedu/index.html",
       "/posts/aic-2025-call-for-abstracts-humanurban/index.html",
       "/posts/aic-2025-call-for-abstracts-geoai/index.html",
+      "/posts/aic-2025-call-for-abstracts-aiedu/index.html",
       "/posts/aic-2025-call-for-session-sponsorship/index.html",
       "/posts/aic-2024-call-for-session-sponsorship/index.html",
       "/posts/rgs-ibg-annual-international-conference-2023-call-for-sessions/index.html",
@@ -23,8 +16,8 @@
       "/posts/webinar-2-february-2022-alfie-long-and-james-todd/index.html",
       "/posts/video-somayeh-dodge-analyzing-and-mapping-movement-responses-to-environmental-disruptions/index.html",
       "/posts/video-sarah-battersby-one-map-to-rule-them-all-spatial-in-the-world-of-self-service-analytics/index.html",
-      "/posts/webinar-2-june-2021-somayeh-dodge/index.html",
       "/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/index.html",
+      "/posts/webinar-2-june-2021-somayeh-dodge/index.html",
       "/posts/video-ate-poorthuis-giscience-network-analysis-a-happy-reunion/index.html",
       "/posts/webinar-19-may-2021-taylor-shelton/index.html",
       "/posts/webinar-5-may-2021-sarah-battersby/index.html",
@@ -41,9 +34,16 @@
       "/posts/webinar-13-jan-2021-ross-purves/index.html",
       "/posts/video-joana-barros-unveiling-urban-inequalities-with-spatial-analysis-and-modelling/index.html",
       "/posts/webinar-2-dec-2020-joana-barros/index.html",
-      "/posts/dissertation-prizes-call-for-submissions-2020/index.html",
       "/posts/from-spatial-to-platial-data-science/index.html",
+      "/posts/dissertation-prizes-call-for-submissions-2020/index.html",
       "/posts/webinar-grant-mckenzie/index.html"
+    ]
+  },
+  {
+    "listing": "/sessions-rgs-aic-2026.html",
+    "items": [
+      "/posts/aic-2026-call-for-abstracts-aiineq/index.html",
+      "/posts/aic-2026-call-for-abstracts-geoai/index.html"
     ]
   }
 ]

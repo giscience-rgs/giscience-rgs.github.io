@@ -9,7 +9,7 @@
 <link>https://giscience-rgs.github.io/news.html</link>
 <atom:link href="https://giscience-rgs.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG</description>
-<generator>quarto-1.8.25</generator>
+<generator>quarto-1.10.18</generator>
 <lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>RGS-IBG AIC 2026 • Geospatial Artificial intelligence methods and applications</title>
@@ -307,42 +307,6 @@
   <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>RGS-IBG AIC 2025 • Artificial Intelligence in GIScience education and pedagogy</title>
-  <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-aiedu/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<section id="call-for-abstracts" class="level2">
-<h2 class="anchored" data-anchor-id="call-for-abstracts">Call for abstracts</h2>
-<p>Geospatial Artificial Intelligence (GeoAI) draws from across disciplinary domains in that it situates itself in data science, environmental science and geography. It incorporates multi-modal geospatial data to inform use cases in policy such as environmental degradation and disaster management.</p>
-<p>This session aims to explore these and other cross-disciplinary interstices among big data, large language models, Geographic Information Systems (GIS) and cartography. GIS education, which combines spatial analysis and cartographic design, represents a unique context in which Generative Artificial Intelligence tools can make a significant impact.</p>
-<p>GIS education encompasses a variety of pedagogical approaches aimed at building both technical proficiency and spatial thinking (Duarte et al. 2022). Traditional methods are often complemented by laboratory-based learning, where students engage in hands-on exercises with GIS software like ArcGIS or QGIS, developing skills in spatial data manipulation, analysis, and visualization (Rickles and Ellul, 2015).</p>
-<p>Contemporary approaches have integrated emerging technologies and pedagogies. For example, experiential learning incorporates fieldwork, enabling students to gather spatial data using GPS devices or drones. Additionally, the rise of WebGIS platforms and open data has democratized GIS education, making geospatial tools and datasets accessible to broader audiences (Ruibo, 2019).</p>
-<p>This session is inspired by Muehlenhaus’s cartographically-focussed Generative Pre-training Transformer (GPT). It is envisaged that papers will represent a diversity of methodological stances: qualitative studies and preliminary explorations are particularly encouraged.</p>
-<p>Possible topics include (but are not limited to):</p>
-<ul>
-<li><p>Descriptions and case studies of GeoAI and / or large language models to GIS and cartography / cartographic education;</p></li>
-<li><p>Examples of how geographical epistemologies have shaped and / or been shaped by the application of (what might loosely be termed as) AI agents / AI tools;</p></li>
-<li><p>Methodological approaches to such investigations; and</p></li>
-<li><p>Defining and designing for the nurturing of literacies of GeoAI and the ethical implications of the use of IoT and Data Science in such investigations.</p></li>
-</ul>
-<p>Enquiries to Kenneth Y T Lim (voyager@mac.com / kenneth.lim@nie.edu.sg) are welcome.</p>
-
-
-</section>
-
- ]]></description>
-  <category>call</category>
-  <category>events</category>
-  <category>cfp-rgs-aic-2025</category>
-  <guid>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-aiedu/</guid>
-  <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
   <title>RGS-IBG AIC 2025 • Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques</title>
   <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-humanurban/</link>
   <description><![CDATA[ 
@@ -502,6 +466,42 @@
   <category>events</category>
   <category>cfp-rgs-aic-2025</category>
   <guid>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-geoai/</guid>
+  <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RGS-IBG AIC 2025 • Artificial Intelligence in GIScience education and pedagogy</title>
+  <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-aiedu/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="call-for-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="call-for-abstracts">Call for abstracts</h2>
+<p>Geospatial Artificial Intelligence (GeoAI) draws from across disciplinary domains in that it situates itself in data science, environmental science and geography. It incorporates multi-modal geospatial data to inform use cases in policy such as environmental degradation and disaster management.</p>
+<p>This session aims to explore these and other cross-disciplinary interstices among big data, large language models, Geographic Information Systems (GIS) and cartography. GIS education, which combines spatial analysis and cartographic design, represents a unique context in which Generative Artificial Intelligence tools can make a significant impact.</p>
+<p>GIS education encompasses a variety of pedagogical approaches aimed at building both technical proficiency and spatial thinking (Duarte et al. 2022). Traditional methods are often complemented by laboratory-based learning, where students engage in hands-on exercises with GIS software like ArcGIS or QGIS, developing skills in spatial data manipulation, analysis, and visualization (Rickles and Ellul, 2015).</p>
+<p>Contemporary approaches have integrated emerging technologies and pedagogies. For example, experiential learning incorporates fieldwork, enabling students to gather spatial data using GPS devices or drones. Additionally, the rise of WebGIS platforms and open data has democratized GIS education, making geospatial tools and datasets accessible to broader audiences (Ruibo, 2019).</p>
+<p>This session is inspired by Muehlenhaus’s cartographically-focussed Generative Pre-training Transformer (GPT). It is envisaged that papers will represent a diversity of methodological stances: qualitative studies and preliminary explorations are particularly encouraged.</p>
+<p>Possible topics include (but are not limited to):</p>
+<ul>
+<li><p>Descriptions and case studies of GeoAI and / or large language models to GIS and cartography / cartographic education;</p></li>
+<li><p>Examples of how geographical epistemologies have shaped and / or been shaped by the application of (what might loosely be termed as) AI agents / AI tools;</p></li>
+<li><p>Methodological approaches to such investigations; and</p></li>
+<li><p>Defining and designing for the nurturing of literacies of GeoAI and the ethical implications of the use of IoT and Data Science in such investigations.</p></li>
+</ul>
+<p>Enquiries to Kenneth Y T Lim (voyager@mac.com / kenneth.lim@nie.edu.sg) are welcome.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>call</category>
+  <category>events</category>
+  <category>cfp-rgs-aic-2025</category>
+  <guid>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-aiedu/</guid>
   <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -809,7 +809,7 @@ By James Todd</p>
   <category>video</category>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/video-somayeh-dodge-analyzing-and-mapping-movement-responses-to-environmental-disruptions/</guid>
-  <pubDate>Wed, 02 Jun 2021 23:00:00 GMT</pubDate>
+  <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Video • Sarah Battersby : “One Map to Rule Them All: Spatial in the World of Self-service Analytics”</title>
@@ -833,31 +833,7 @@ By James Todd</p>
   <category>video</category>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/video-sarah-battersby-one-map-to-rule-them-all-spatial-in-the-world-of-self-service-analytics/</guid>
-  <pubDate>Sun, 23 May 2021 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Webinar 2 June 2021 • Somayeh Dodge</title>
-  <link>https://giscience-rgs.github.io/posts/webinar-2-june-2021-somayeh-dodge/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><strong>Title:</strong> Analyzing and Mapping Movement Responses to Environmental Disruptions</p>
-<p><strong>When:</strong> Wednesday 2nd June 2021, 17:00PM UK / 16:00pm UTC</p>
-<p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-mapping-movement-responses-to-env-disruptions-tickets-156566668119">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-mapping-movement-responses-to-env-disruptions-tickets-156566668119</a></p>
-<p><img src="https://geoinfo.science/wp-content/uploads/2021/05/copy-of-giscience-webinar-template-3.png?w=960" class="img-fluid"></p>
-<p><strong>Abstract:</strong> Movement patterns are the results of complex behaviors and processes which drive individuals’ movement in social and ecological systems. These patterns shape urban and natural ecosystem dynamics, structure human and wildlife social networks, and are instrumental to understanding human and wildlife’s behavioral responses to a changing environment. Ubiquitous tracking and the increasing access to movement data in both trajectory forms and aggregate indices have generated a tremendous interest in using data-driven approaches to model and understand behavioral responses to disruptive events such as the COVID-19 pandemic and to develop mitigation strategies. In this presentation, I argue for a human-centered approach to movement data science to analyze and map human responses to environmental disruptions.</p>
-<p><strong>Bio:</strong> Somayeh Dodge serves as Assistant Professor of Spatial Data Science and leads the MOVE Laboratory in the Department of Geography at the University of California, Santa Barbara. She received her PhD in Geography with a specialization in Geographic Information Science (GIScience) from the University of Zurich, Switzerland in 2011. She holds a MS degree in GIS Engineering and a BS degree in Geomatics Engineering from the KNT University of Technology, Iran. Somayeh’s research focuses on developing data analytics, knowledge discovery, modeling, and visualization techniques to study movement in human and ecological systems. She has published in a number of high-ranked international journals such as Methods in Ecology and Evolution, International Journal of Geographic Information Science, Philosophical Transactions of the Royal Society B, Journal of Spatial Information Science (JOSIS), Movement Ecology, Computers, Environment and Urban Systems (CEUS), Geographical Analysis, and Information Visualization. Her work is supported by the US National Science Foundation (NSF). Somayeh currently serves as the Co-Editor in Chief of the JOSIS as well as on the editorial board of multiple journals including Geographical Analysis, Cartography and Geographic Information Science, CEUS, Journal of Location Based Services, and The Professional Geographer. Dr Dodge’s work can be found at <a href="https://somayehdodge.info/">somayehdodge.info</a> and <a href="https://twitter.com/smayadodge?lang=en"><span class="citation" data-cites="smayadodge">@smayadodge</span></a>.</p>
-
-
-
- ]]></description>
-  <category>webinar</category>
-  <guid>https://giscience-rgs.github.io/posts/webinar-2-june-2021-somayeh-dodge/</guid>
-  <pubDate>Sun, 23 May 2021 23:00:00 GMT</pubDate>
+  <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Video • Taylor Shelton: “Mapping the Opaque: Embracing Fuzziness, Uncovering Inequalities”</title>
@@ -881,7 +857,31 @@ By James Todd</p>
   <category>video</category>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/</guid>
-  <pubDate>Sun, 23 May 2021 23:00:00 GMT</pubDate>
+  <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Webinar 2 June 2021 • Somayeh Dodge</title>
+  <link>https://giscience-rgs.github.io/posts/webinar-2-june-2021-somayeh-dodge/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><strong>Title:</strong> Analyzing and Mapping Movement Responses to Environmental Disruptions</p>
+<p><strong>When:</strong> Wednesday 2nd June 2021, 17:00PM UK / 16:00pm UTC</p>
+<p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-mapping-movement-responses-to-env-disruptions-tickets-156566668119">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-mapping-movement-responses-to-env-disruptions-tickets-156566668119</a></p>
+<p><img src="https://geoinfo.science/wp-content/uploads/2021/05/copy-of-giscience-webinar-template-3.png?w=960" class="img-fluid"></p>
+<p><strong>Abstract:</strong> Movement patterns are the results of complex behaviors and processes which drive individuals’ movement in social and ecological systems. These patterns shape urban and natural ecosystem dynamics, structure human and wildlife social networks, and are instrumental to understanding human and wildlife’s behavioral responses to a changing environment. Ubiquitous tracking and the increasing access to movement data in both trajectory forms and aggregate indices have generated a tremendous interest in using data-driven approaches to model and understand behavioral responses to disruptive events such as the COVID-19 pandemic and to develop mitigation strategies. In this presentation, I argue for a human-centered approach to movement data science to analyze and map human responses to environmental disruptions.</p>
+<p><strong>Bio:</strong> Somayeh Dodge serves as Assistant Professor of Spatial Data Science and leads the MOVE Laboratory in the Department of Geography at the University of California, Santa Barbara. She received her PhD in Geography with a specialization in Geographic Information Science (GIScience) from the University of Zurich, Switzerland in 2011. She holds a MS degree in GIS Engineering and a BS degree in Geomatics Engineering from the KNT University of Technology, Iran. Somayeh’s research focuses on developing data analytics, knowledge discovery, modeling, and visualization techniques to study movement in human and ecological systems. She has published in a number of high-ranked international journals such as Methods in Ecology and Evolution, International Journal of Geographic Information Science, Philosophical Transactions of the Royal Society B, Journal of Spatial Information Science (JOSIS), Movement Ecology, Computers, Environment and Urban Systems (CEUS), Geographical Analysis, and Information Visualization. Her work is supported by the US National Science Foundation (NSF). Somayeh currently serves as the Co-Editor in Chief of the JOSIS as well as on the editorial board of multiple journals including Geographical Analysis, Cartography and Geographic Information Science, CEUS, Journal of Location Based Services, and The Professional Geographer. Dr Dodge’s work can be found at <a href="https://somayehdodge.info/">somayehdodge.info</a> and <a href="https://twitter.com/smayadodge?lang=en"><span class="citation" data-cites="smayadodge">@smayadodge</span></a>.</p>
+
+
+
+ ]]></description>
+  <category>webinar</category>
+  <guid>https://giscience-rgs.github.io/posts/webinar-2-june-2021-somayeh-dodge/</guid>
+  <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Video • Ate Poorthuis: “GIScience &amp; Network Analysis: A Happy Reunion?”</title>
@@ -905,7 +905,7 @@ By James Todd</p>
   <category>video</category>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/video-ate-poorthuis-giscience-network-analysis-a-happy-reunion/</guid>
-  <pubDate>Thu, 29 Apr 2021 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Webinar 19 May 2021 • Taylor Shelton</title>
@@ -930,7 +930,7 @@ By James Todd</p>
  ]]></description>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/webinar-19-may-2021-taylor-shelton/</guid>
-  <pubDate>Sun, 18 Apr 2021 23:00:00 GMT</pubDate>
+  <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Webinar 5 May 2021 • Sarah Battersby</title>
@@ -954,7 +954,7 @@ By James Todd</p>
  ]]></description>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/webinar-5-may-2021-sarah-battersby/</guid>
-  <pubDate>Fri, 16 Apr 2021 23:00:00 GMT</pubDate>
+  <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Video • Andrew Crooks • “Analyzing and Modeling Urban Environments”</title>
@@ -977,7 +977,7 @@ By James Todd</p>
   <category>video</category>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/video-andrew-crooks-analyzing-and-modeling-urban-environments/</guid>
-  <pubDate>Tue, 06 Apr 2021 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
