@@ -10,7 +10,50 @@
 <atom:link href="https://giscience-rgs.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>GIScRG Dissertation Award 2025: Winners Announced</title>
+  <link>https://giscience-rgs.github.io/posts/dissertation-prize-winners-2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>We are delighted to announce the recipients of the <strong>GIScRG Dissertation Award 2025</strong>, following a careful review of the submitted dissertations.</p>
+<section id="winner" class="level2">
+<h2 class="anchored" data-anchor-id="winner">Winner</h2>
+<p><strong>Miaoyi Li</strong><br>
+Centre for Advanced Spatial Analysis, The Bartlett Faculty of the Built Environment, University College London</p>
+<p><em>“Digital Planning Support in a Data-Scarce Context by Estimating Urban Activities: A Case Study in Jaipur City, India”</em></p>
+</section>
+<section id="runner-up" class="level2">
+<h2 class="anchored" data-anchor-id="runner-up">Runner-up</h2>
+<p><strong>Nicholas Kinsella</strong><br>
+School of Geography and Environmental Sciences, Ulster University</p>
+<p><em>“Monitoring Methane Emissions at Hassi Messaoud from 2021 to 2024 Using Sentinel-2 and Sentinel-5P: Assessing Algeria’s Progress Towards Its 2030 GHG Reduction Target”</em></p>
+<p>The winner will receive <strong>£100 and a one-year RGS-IBG Postgraduate Fellowship</strong>, while the runner-up will receive <strong>£50 and a one-year RGS-IBG Postgraduate Fellowship</strong>.</p>
+<p>The recipients should contact <strong>Nick Bearman</strong> at <a href="mailto:nick@nickbearman.com">nick@nickbearman.com</a> to arrange delivery of their awards.</p>
+<p>We would like to thank the members of the award selection committee for their time and valuable contributions:</p>
+<ul>
+<li><strong>Professor Gary Higgs</strong>, University of South Wales</li>
+<li><strong>Dr Ye Tian</strong>, University College Dublin</li>
+<li><strong>Dr Yuchen Li</strong>, University of Leeds</li>
+<li><strong>Dr Meiliu Wu</strong>, University of Glasgow</li>
+</ul>
+<p>Special thanks also go to <strong>Dr Xiao Li of The Hong Kong Polytechnic University</strong> for coordinating and organising the award selection process.</p>
+<p>Congratulations to both recipients, and thank you to everyone who submitted their work. We greatly appreciate your contributions to GIScience research.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>prizes</category>
+  <category>news</category>
+  <guid>https://giscience-rgs.github.io/posts/dissertation-prize-winners-2025/</guid>
+  <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>RGS-IBG AIC 2026 • Geospatial Artificial intelligence methods and applications</title>
   <link>https://giscience-rgs.github.io/posts/aic-2026-call-for-abstracts-geoai/</link>
@@ -955,29 +998,6 @@ By James Todd</p>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/webinar-5-may-2021-sarah-battersby/</guid>
   <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Video • Andrew Crooks • “Analyzing and Modeling Urban Environments”</title>
-  <link>https://giscience-rgs.github.io/posts/video-andrew-crooks-analyzing-and-modeling-urban-environments/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>Andrew’s <a href="https://www.youtube.com/watch?v=VL8vJuDIl-U&amp;ab_channel=RGS-IBGGIScienceResearchGroup">GIScience webinar</a> is now online!</p>
-<p>https://www.youtube.com/watch?v=VL8vJuDIl-U&amp;ab_channel=RGS-IBGGIScienceResearchGroup</p>
-<p><strong>Abstract:</strong>&nbsp;The beginning of this century marked a milestone in human history. For the first time, more than half of the world’s population lived in urban areas. This trend is expected to continue into the foreseeable future with 6.7 billion people projected to live in cities by 2050. This rapid urbanization will place unprecedented pressures on urban systems and their ability to provide basic of services. To plan for this future, we need to better understand the inherent complexity of urban systems from social, economic and environmental perspectives. In this talk, I will explore how such understanding can be gained through the lens of computational social science (CSS): the interdisciplinary science of complex social systems and their investigation through computational modeling (e.g.&nbsp;agent-based models) and related techniques. Through a series of example applications, I will demonstrate how new forms of geographical data (e.g.&nbsp;crowdsourced, social media etc.) not only provide us with a novel way of analyzing urban environments but how such data can be integrated into geographically explicit agent-based models. In addition, I will highlight that by focusing on individual, or groups of individuals, leads to more aggregate patterns emerging and show how model outcomes can be validated by such datasets. After these demonstrations, I will outline the challenges associated with this program of research, as using such data is not without its difficulties. Together, this work provides a brief overview of the current state of analyzing and modeling urban environments through the lens of CSS.</p>
-<p><strong>Speaker:</strong> Andrew Crooks is a Professor at the University at Buffalo within the Department of Geography and a faculty member in the RENEW Institute. His research interests relate to exploring, understanding and the communication of the natural and socio-economic environments using geographical information systems (GIS), social network analysis (SNA), and Agent-based modeling methodologies. He is also a lead author of “<a href="https://www.gisagents.org/p/publications.html">Agent-based Modelling and Geographical Information Systems: A Practical Primer</a>” which explains how to design and build ABM and how to link the models to Geographical Information Systems. Further information about Andrew’s work can be found at&nbsp;<a href="https://www.gisagents.org/">www.gisagents.org</a>&nbsp;and on Twitter&nbsp;<a href="https://twitter.com/AndyCrooks"><span class="citation" data-cites="AndyCrooks">@AndyCrooks</span></a>.</p>
-
-
-
- ]]></description>
-  <category>video</category>
-  <category>webinar</category>
-  <guid>https://giscience-rgs.github.io/posts/video-andrew-crooks-analyzing-and-modeling-urban-environments/</guid>
-  <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
