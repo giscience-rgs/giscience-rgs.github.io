@@ -11,24 +11,24 @@ tags:
 
 The RGS-IBG Geographic Information Science Research Group (GIScRG) is pleased to announce several changes to its committee for 2026–27.
 
-We would like to express our sincere thanks to **Stef De Sabbata** for her many years of service as Chair of GIScRG. Stef has made a substantial contribution to the development of the Research Group through her leadership, commitment and support for the wider GIScience community.
+We would like to express our sincere thanks to **[Stef De Sabbata](https://sdesabbata.github.io/)** for her many years of service as Chair of GIScRG. Stef has made a substantial contribution to the development of the Research Group through her leadership, commitment and support for the wider GIScience community.
 
-We would also like to warmly thank **Rui Zhu** for his contribution as Secretary, and **Nick Bearman** and **Kristina Wolf** for their service as Treasurers. Their time and commitment have been greatly appreciated by the Group.
+We would also like to warmly thank **[Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/)** for his contribution as Secretary, and **[Nick Bearman](https://nickbearman.github.io/)** and **[Kristina Wolf](https://www.south-atlantic-research.org/our-researchers/)** for their service as Treasurers. Their time and commitment have been greatly appreciated by the Group.
 
-As we begin the new committee term, we are delighted to welcome **Mingshu Wang** as Chair, **Xiao Li** as Secretary, and **Meiliu Wu** as Treasurer.
+As we begin the new committee term, we are delighted to welcome **[Mingshu Wang](https://www.gla.ac.uk/schools/ges/staff/mingshuwang/)** as Chair, **[Xiao Li](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-xiao-li/)** as Secretary, and **[Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/)** as Treasurer.
 
 ## GIScRG Committee 2026–27
 
 The full committee for 2026–27 is:
 
-- **Mingshu Wang** – Chair
-- **Xiao Li** – Secretary
-- **Meiliu Wu** – Treasurer
-- **Evgeny Noi** – Membership Secretary
-- **Pengyuan Liu** – Website and Social Media
-- **Seraphim Alvanides** – Ordinary Member
-- **Nick Bearman** – Ordinary Member
-- **Rui Zhu** – Ordinary Member
+- **[Mingshu Wang](https://www.gla.ac.uk/schools/ges/staff/mingshuwang/)** – Chair
+- **[Xiao Li](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-xiao-li/)** – Secretary
+- **[Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/)** – Treasurer
+- **[Evgeny Noi](https://www.bristol.ac.uk/people/person/Evgeny-Noi-6c13da55-577e-49d6-8655-b608417bd402/)** – Membership Secretary
+- **[Pengyuan Liu](https://www.gla.ac.uk/schools/socialpolitical/staff/pengyuanliu/)** – Website and Social Media
+- **[Seraphim Alvanides](https://www.researchgate.net/profile/Seraphim-Alvanides)** – Ordinary Member
+- **[Nick Bearman](https://nickbearman.github.io/)** – Ordinary Member
+- **[Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/)** – Ordinary Member
 
 We look forward to working together in the coming year and continuing to support the GIScience community through research, events, networking and knowledge exchange.
 
