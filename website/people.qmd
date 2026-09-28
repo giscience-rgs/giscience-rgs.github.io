@@ -4,22 +4,22 @@ title: "People"
 
 The following represents the current GIScRG committee structure. Please contact us if you are interested in becoming part of the committee.
 
-- Chair: [Stef De Sabbata](https://sdesabbata.github.io/) (University of Leicester)
-- Secretary: [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/) (University of Bristol)
-- Treasurer: [Kristina Wolf](https://www.ncl.ac.uk/engineering/staff/profile/kristinawolf.html) (Newcastle University)
-- Prize Manager: [Xiao Li](https://www.tsu.ox.ac.uk/people/xli.html) (University of Oxford)
+- Chair: 
+- Secretary: [Xiao Li](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-xiao-li/) (Hong Kong Polytechnic University)
+- Treasurer: [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/) (University of Glasgow)
+- Prize Manager: [Xiao Li](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-xiao-li/) (Hong Kong Polytechnic University)
 - Membership Secretary: [Evgeny Noi](https://www.bristol.ac.uk/people/person/Evgeny-Noi-6c13da55-577e-49d6-8655-b608417bd402/) (University of Bristol)
-- Website and Social Media Managers: 
-  - [Pengyuan Liu](https://www.gla.ac.uk/schools/socialpolitical/staff/pengyuanliu/) (University of Glasgow)
-  - [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/) (University of Glasgow)
-
+- Website and Social Media Manager: [Pengyuan Liu](https://www.gla.ac.uk/schools/socialpolitical/staff/pengyuanliu/) (University of Glasgow)
+  
 ### Ordinary committee members
 
 - [Seraphim Alvanides](https://www.researchgate.net/profile/Seraphim-Alvanides) (Independent Researcher)
 - [Nick Bearman](https://nickbearman.github.io/) (Independent Consultant)
+- [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/) (University of Bristol)
 
 ### Past committee members
-
+- [Stef De Sabbata](https://sdesabbata.github.io/) (Geolytix, London)
+- [Kristina Wolf](https://www.south-atlantic-research.org/our-researchers/) (SAERI: South Atlantic Environmental Research Institute)
 - [Issam Al-kenani](https://www.linkedin.com/in/issam-al-kenani-14691b53/) (Cabinet Office)
 - [Alekos Alexiou](http://geographicdatascience.com/people/#alekosalexiou) (University of Liverpool)
 - [Bonnie Buyuklieva](https://bonnie-buyuklieva.github.io/) (University College London)
@@ -30,4 +30,4 @@ The following represents the current GIScRG committee structure. Please contact 
 - [Alan Smith](https://www.plymouth.ac.uk/staff/alan-smith) (University of Plymouth)
 - [Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/people/gyeboah/) (University of Warwick)
 
-_Last update: January 2026_
+_Last update: September 2026_
