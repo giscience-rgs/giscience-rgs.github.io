@@ -1,20 +1,13 @@
 [
   {
-    "listing": "/sessions-rgs-aic-2026.html",
-    "items": [
-      "/posts/aic-2026-call-for-abstracts-aiineq/index.html",
-      "/posts/aic-2026-call-for-abstracts-geoai/index.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/posts/dissertation-prize-winners-2025/index.html",
       "/posts/aic-2026-call-for-abstracts-geoai/index.html",
       "/posts/aic-2026-call-for-abstracts-aiineq/index.html",
       "/posts/aic-2026-call-for-session-sponsorship/index.html",
-      "/posts/aic-2025-call-for-abstracts-humanurban/index.html",
       "/posts/aic-2025-call-for-abstracts-geoai/index.html",
+      "/posts/aic-2025-call-for-abstracts-humanurban/index.html",
       "/posts/aic-2025-call-for-abstracts-aiedu/index.html",
       "/posts/aic-2025-call-for-session-sponsorship/index.html",
       "/posts/aic-2024-call-for-session-sponsorship/index.html",
@@ -24,13 +17,13 @@
       "/posts/webinar-2-february-2022-alfie-long-and-james-todd/index.html",
       "/posts/video-somayeh-dodge-analyzing-and-mapping-movement-responses-to-environmental-disruptions/index.html",
       "/posts/video-sarah-battersby-one-map-to-rule-them-all-spatial-in-the-world-of-self-service-analytics/index.html",
-      "/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/index.html",
       "/posts/webinar-2-june-2021-somayeh-dodge/index.html",
+      "/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/index.html",
       "/posts/video-ate-poorthuis-giscience-network-analysis-a-happy-reunion/index.html",
       "/posts/webinar-19-may-2021-taylor-shelton/index.html",
       "/posts/webinar-5-may-2021-sarah-battersby/index.html",
-      "/posts/video-andrew-crooks-analyzing-and-modeling-urban-environments/index.html",
       "/posts/webinar-21-april-2021-ate-poorthuis/index.html",
+      "/posts/video-andrew-crooks-analyzing-and-modeling-urban-environments/index.html",
       "/posts/video-anita-graser-exploratory-analysis-of-massive-movement-data/index.html",
       "/posts/webinar-31-march-2021-andrew-crooks/index.html",
       "/posts/webinar-10-march-2021-anita-graser/index.html",
@@ -45,6 +38,13 @@
       "/posts/from-spatial-to-platial-data-science/index.html",
       "/posts/dissertation-prizes-call-for-submissions-2020/index.html",
       "/posts/webinar-grant-mckenzie/index.html"
+    ]
+  },
+  {
+    "listing": "/sessions-rgs-aic-2026.html",
+    "items": [
+      "/posts/aic-2026-call-for-abstracts-aiineq/index.html",
+      "/posts/aic-2026-call-for-abstracts-geoai/index.html"
     ]
   }
 ]

@@ -350,66 +350,6 @@ School of Geography and Environmental Sciences, Ulster University</p>
   <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>RGS-IBG AIC 2025 • Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques</title>
-  <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-humanurban/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<section id="call-for-abstracts" class="level2">
-<h2 class="anchored" data-anchor-id="call-for-abstracts">Call for abstracts</h2>
-<p>Human interaction with urban environments has been a central topic in urban studies (Pattison, 1964). Geographers have explored the interactions between humans and their surroundings, investigating how individuals adapt to, modify, and influence their environment, while also considering how environmental factors shape human activities and cultural practices (Tuan, 1975). Recent advancements in GIS technologies, coupled with the increasing availability of diverse datasets—such as remote sensing imagery, geotagged search engine data, social media content, mobility data, and street-level imagery—have enabled novel approaches to studying place identity, residents’ mobility, and social perceptions (e.g., sense of belonging, community emotions).Moreover, the use of computational techniques, including machine learning and deep learning, has significantly improved our ability to interpret and model complex interactions.</p>
-<p>This session aims to be a forum for discussing the integration of multi-source geospatial big data and GIS techniques to advance our understanding of human-urban interaction. We welcome submissions that explore innovative methodologies, theoretical perspectives, and practical applications in this field. Topics of interest include, but are not limited to:</p>
-<ul>
-<li>Multi-Source Geospatial Big Data for Extracting Human Behaviour/ Perception
-<ul>
-<li>Remote sensing</li>
-<li>Street-level imagery</li>
-<li>Social media data</li>
-<li>Mobility data</li>
-</ul></li>
-<li>GIS, Machine Learning, and Deep Learning for Human-Environment Interaction
-<ul>
-<li>Human mobility</li>
-<li>Human perception and social sensing</li>
-<li>Social interaction</li>
-<li>Transit-Oriented Development (TOD)</li>
-</ul></li>
-</ul>
-<section id="submssion" class="level3">
-<h3 class="anchored" data-anchor-id="submssion">Submssion</h3>
-<p>If interested, please submit a 300-word abstract to qingya.cheng@bristol.ac.uk by March 3rd. Feel free to reach out with any questions.</p>
-</section>
-<section id="session-organisers" class="level3">
-<h3 class="anchored" data-anchor-id="session-organisers">Session organisers</h3>
-<ul>
-<li>Fangzhou Zhou, University College London, fangzhou.zhou.21@ucl.ac.uk</li>
-<li>Hubin Wei, University of Bristol, su24744@bristol.ac.uk</li>
-<li>Qingya Cheng, University of Bristol, qingya.cheng@bristol.ac.uk</li>
-</ul>
-</section>
-<section id="reference" class="level3">
-<h3 class="anchored" data-anchor-id="reference">Reference</h3>
-<ul>
-<li>Pattison, W. D. (1964). The four traditions of geography. Journal of Geography, 63(5), 211-216.</li>
-<li>Tuan, Y. F. (1975). Topophilia: A study of environmental perception, attitudes, and values. Journal of Aesthetics and Art Criticism, 34(1).</li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>call</category>
-  <category>events</category>
-  <category>cfp-rgs-aic-2025</category>
-  <guid>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-humanurban/</guid>
-  <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
   <title>RGS-IBG AIC 2025 • Artificial intelligence in GIScience and quantitative geography</title>
   <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-geoai/</link>
   <description><![CDATA[ 
@@ -509,6 +449,66 @@ School of Geography and Environmental Sciences, Ulster University</p>
   <category>events</category>
   <category>cfp-rgs-aic-2025</category>
   <guid>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-geoai/</guid>
+  <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RGS-IBG AIC 2025 • Human-Urban Interaction Research with Multi-Source Geospatial Data and GIS Techniques</title>
+  <link>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-humanurban/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="call-for-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="call-for-abstracts">Call for abstracts</h2>
+<p>Human interaction with urban environments has been a central topic in urban studies (Pattison, 1964). Geographers have explored the interactions between humans and their surroundings, investigating how individuals adapt to, modify, and influence their environment, while also considering how environmental factors shape human activities and cultural practices (Tuan, 1975). Recent advancements in GIS technologies, coupled with the increasing availability of diverse datasets—such as remote sensing imagery, geotagged search engine data, social media content, mobility data, and street-level imagery—have enabled novel approaches to studying place identity, residents’ mobility, and social perceptions (e.g., sense of belonging, community emotions).Moreover, the use of computational techniques, including machine learning and deep learning, has significantly improved our ability to interpret and model complex interactions.</p>
+<p>This session aims to be a forum for discussing the integration of multi-source geospatial big data and GIS techniques to advance our understanding of human-urban interaction. We welcome submissions that explore innovative methodologies, theoretical perspectives, and practical applications in this field. Topics of interest include, but are not limited to:</p>
+<ul>
+<li>Multi-Source Geospatial Big Data for Extracting Human Behaviour/ Perception
+<ul>
+<li>Remote sensing</li>
+<li>Street-level imagery</li>
+<li>Social media data</li>
+<li>Mobility data</li>
+</ul></li>
+<li>GIS, Machine Learning, and Deep Learning for Human-Environment Interaction
+<ul>
+<li>Human mobility</li>
+<li>Human perception and social sensing</li>
+<li>Social interaction</li>
+<li>Transit-Oriented Development (TOD)</li>
+</ul></li>
+</ul>
+<section id="submssion" class="level3">
+<h3 class="anchored" data-anchor-id="submssion">Submssion</h3>
+<p>If interested, please submit a 300-word abstract to qingya.cheng@bristol.ac.uk by March 3rd. Feel free to reach out with any questions.</p>
+</section>
+<section id="session-organisers" class="level3">
+<h3 class="anchored" data-anchor-id="session-organisers">Session organisers</h3>
+<ul>
+<li>Fangzhou Zhou, University College London, fangzhou.zhou.21@ucl.ac.uk</li>
+<li>Hubin Wei, University of Bristol, su24744@bristol.ac.uk</li>
+<li>Qingya Cheng, University of Bristol, qingya.cheng@bristol.ac.uk</li>
+</ul>
+</section>
+<section id="reference" class="level3">
+<h3 class="anchored" data-anchor-id="reference">Reference</h3>
+<ul>
+<li>Pattison, W. D. (1964). The four traditions of geography. Journal of Geography, 63(5), 211-216.</li>
+<li>Tuan, Y. F. (1975). Topophilia: A study of environmental perception, attitudes, and values. Journal of Aesthetics and Art Criticism, 34(1).</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>call</category>
+  <category>events</category>
+  <category>cfp-rgs-aic-2025</category>
+  <guid>https://giscience-rgs.github.io/posts/aic-2025-call-for-abstracts-humanurban/</guid>
   <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -879,30 +879,6 @@ By James Todd</p>
   <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Video • Taylor Shelton: “Mapping the Opaque: Embracing Fuzziness, Uncovering Inequalities”</title>
-  <link>https://giscience-rgs.github.io/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>Taylor Shelton’s&nbsp;<a href="https://geoinfo.science/webinars/">GIScience webinar</a>&nbsp;is now online!</p>
-<p>https://youtu.be/Z-FeU_SiQIM</p>
-<p><strong>Abstract:</strong> Despite the continued growth of data collected about any number of social and spatial phenomena, as well as new analytical techniques to make sense of such data, many processes of particular interest to geographers remain resistant to datafication, quantification and spatial visualization. But the inherent fuzziness associated with trying to quantify and map emerging phenomena for whom precise data does not exist does not mean that using what data we do have is useless or should be avoided. Instead, as this presentation will argue, if we’re interested in uncovering the multifaceted inequalities that characterize our present moment, we must begin to embrace the inherent fuzziness of these new, partial data sources and attempt to make sense out of their partial perspective. In order to demonstrate the value of this disposition towards embracing the fuzziness of data, this presentation will discuss findings from two recent research projects focused on mapping otherwise opaque socio-spatial processes: (1) quantifying the presence of emerging forms of regionally-specific housing speculation in college towns of the American South that have previously gone unstudied, and (2) using geotagged social media data to develop more relational understandings of gentrification that focus on changes in the relationships between different people and neighborhoods in the city over time, rather than on the inherent or internal characteristics of neighborhoods themselves. Ultimately, this presentation points towards the need for continued experimentations with emerging data sources, analytical techniques and geographic theories to better understand the ever-evolving landscape of socio-spatial inequality in the world today.</p>
-<p><strong>Speaker</strong>: Taylor Shelton, Georgia State University, <a href="https://taylorshelton.info/">taylorshelton.info</a>, <a href="https://twitter.com/kyjts?lang=en"><span class="citation" data-cites="kyjts">@kyjts</span></a>.</p>
-<p><strong>Bio:</strong> Dr.&nbsp;Taylor Shelton is an Assistant Professor in the Department of Geosciences at Georgia State University. Working at the intersection of critical human geography and geographic information science, Dr.&nbsp;Shelton is interested in how urban spaces and social inequalities are represented, reproduced and contested through maps and data. In particular, his work focuses on using mapping and data visualization to develop alternative understandings of urban inequalities, especially in relation to issues of housing speculation, property ownership and neighborhood segregation. Prior to joining Georgia State in 2020, Dr.&nbsp;Shelton held appointments at Mississippi State University, the University of Kentucky and the Georgia Institute of Technology. Before that, Dr.&nbsp;Shelton earned BA and MA degrees in geography from the University of Kentucky and his PhD from the Graduate School of Geography at Clark University. Dr Shelton’s work can be found at <a href="https://taylorshelton.info/">taylorshelton.info</a> and <a href="https://twitter.com/kyjts?lang=en"><span class="citation" data-cites="kyjts">@kyjts</span></a>.</p>
-
-
-
- ]]></description>
-  <category>video</category>
-  <category>webinar</category>
-  <guid>https://giscience-rgs.github.io/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/</guid>
-  <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Webinar 2 June 2021 • Somayeh Dodge</title>
   <link>https://giscience-rgs.github.io/posts/webinar-2-june-2021-somayeh-dodge/</link>
   <description><![CDATA[ 
@@ -924,6 +900,30 @@ By James Todd</p>
  ]]></description>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/webinar-2-june-2021-somayeh-dodge/</guid>
+  <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Video • Taylor Shelton: “Mapping the Opaque: Embracing Fuzziness, Uncovering Inequalities”</title>
+  <link>https://giscience-rgs.github.io/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Taylor Shelton’s&nbsp;<a href="https://geoinfo.science/webinars/">GIScience webinar</a>&nbsp;is now online!</p>
+<p>https://youtu.be/Z-FeU_SiQIM</p>
+<p><strong>Abstract:</strong> Despite the continued growth of data collected about any number of social and spatial phenomena, as well as new analytical techniques to make sense of such data, many processes of particular interest to geographers remain resistant to datafication, quantification and spatial visualization. But the inherent fuzziness associated with trying to quantify and map emerging phenomena for whom precise data does not exist does not mean that using what data we do have is useless or should be avoided. Instead, as this presentation will argue, if we’re interested in uncovering the multifaceted inequalities that characterize our present moment, we must begin to embrace the inherent fuzziness of these new, partial data sources and attempt to make sense out of their partial perspective. In order to demonstrate the value of this disposition towards embracing the fuzziness of data, this presentation will discuss findings from two recent research projects focused on mapping otherwise opaque socio-spatial processes: (1) quantifying the presence of emerging forms of regionally-specific housing speculation in college towns of the American South that have previously gone unstudied, and (2) using geotagged social media data to develop more relational understandings of gentrification that focus on changes in the relationships between different people and neighborhoods in the city over time, rather than on the inherent or internal characteristics of neighborhoods themselves. Ultimately, this presentation points towards the need for continued experimentations with emerging data sources, analytical techniques and geographic theories to better understand the ever-evolving landscape of socio-spatial inequality in the world today.</p>
+<p><strong>Speaker</strong>: Taylor Shelton, Georgia State University, <a href="https://taylorshelton.info/">taylorshelton.info</a>, <a href="https://twitter.com/kyjts?lang=en"><span class="citation" data-cites="kyjts">@kyjts</span></a>.</p>
+<p><strong>Bio:</strong> Dr.&nbsp;Taylor Shelton is an Assistant Professor in the Department of Geosciences at Georgia State University. Working at the intersection of critical human geography and geographic information science, Dr.&nbsp;Shelton is interested in how urban spaces and social inequalities are represented, reproduced and contested through maps and data. In particular, his work focuses on using mapping and data visualization to develop alternative understandings of urban inequalities, especially in relation to issues of housing speculation, property ownership and neighborhood segregation. Prior to joining Georgia State in 2020, Dr.&nbsp;Shelton held appointments at Mississippi State University, the University of Kentucky and the Georgia Institute of Technology. Before that, Dr.&nbsp;Shelton earned BA and MA degrees in geography from the University of Kentucky and his PhD from the Graduate School of Geography at Clark University. Dr Shelton’s work can be found at <a href="https://taylorshelton.info/">taylorshelton.info</a> and <a href="https://twitter.com/kyjts?lang=en"><span class="citation" data-cites="kyjts">@kyjts</span></a>.</p>
+
+
+
+ ]]></description>
+  <category>video</category>
+  <category>webinar</category>
+  <guid>https://giscience-rgs.github.io/posts/video-taylor-shelton-mapping-the-opaque-embracing-fuzziness-uncovering-inequalities/</guid>
   <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
