@@ -4,7 +4,7 @@ title: "People"
 
 The following represents the current GIScRG committee structure. Please contact us if you are interested in becoming part of the committee.
 
-- Chair: 
+- Chair: [Mingshu Wang](https://www.gla.ac.uk/schools/ges/staff/mingshuwang/) (University of Glasgow)
 - Secretary: [Xiao Li](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-xiao-li/) (Hong Kong Polytechnic University)
 - Treasurer: [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/) (University of Glasgow)
 - Prize Manager: [Xiao Li](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-xiao-li/) (Hong Kong Polytechnic University)
