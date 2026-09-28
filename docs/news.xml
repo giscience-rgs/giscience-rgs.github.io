@@ -10,7 +10,45 @@
 <atom:link href="https://giscience-rgs.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>GIScience Research Group (GIScRG) at the Royal Geographical Society with IBG</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>GIScRG Committee Changes for 2026–27</title>
+  <link>https://giscience-rgs.github.io/posts/giscrg-committee-changes-2026-27/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>The RGS-IBG Geographic Information Science Research Group (GIScRG) is pleased to announce several changes to its committee for 2026–27.</p>
+<p>We would like to express our sincere thanks to <strong>Stef De Sabbata</strong> for her many years of service as Chair of GIScRG. Stef has made a substantial contribution to the development of the Research Group through her leadership, commitment and support for the wider GIScience community.</p>
+<p>We would also like to warmly thank <strong>Rui Zhu</strong> for his contribution as Secretary, and <strong>Nick Bearman</strong> and <strong>Kristina Wolf</strong> for their service as Treasurers. Their time and commitment have been greatly appreciated by the Group.</p>
+<p>As we begin the new committee term, we are delighted to welcome <strong>Mingshu Wang</strong> as Chair, <strong>Xiao Li</strong> as Secretary, and <strong>Meiliu Wu</strong> as Treasurer.</p>
+<section id="giscrg-committee-202627" class="level2">
+<h2 class="anchored" data-anchor-id="giscrg-committee-202627">GIScRG Committee 2026–27</h2>
+<p>The full committee for 2026–27 is:</p>
+<ul>
+<li><strong>Mingshu Wang</strong> – Chair</li>
+<li><strong>Xiao Li</strong> – Secretary</li>
+<li><strong>Meiliu Wu</strong> – Treasurer</li>
+<li><strong>Evgeny Noi</strong> – Membership Secretary</li>
+<li><strong>Pengyuan Liu</strong> – Website and Social Media</li>
+<li><strong>Seraphim Alvanides</strong> – Ordinary Member</li>
+<li><strong>Nick Bearman</strong> – Ordinary Member</li>
+<li><strong>Rui Zhu</strong> – Ordinary Member</li>
+</ul>
+<p>We look forward to working together in the coming year and continuing to support the GIScience community through research, events, networking and knowledge exchange.</p>
+<p>Our thanks go to all outgoing and continuing committee members for their contributions to GIScRG.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://giscience-rgs.github.io/posts/giscrg-committee-changes-2026-27/</guid>
+  <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>GIScRG Dissertation Award 2025: Winners Announced</title>
   <link>https://giscience-rgs.github.io/posts/dissertation-prize-winners-2025/</link>
@@ -974,30 +1012,6 @@ By James Todd</p>
   <category>webinar</category>
   <guid>https://giscience-rgs.github.io/posts/webinar-19-may-2021-taylor-shelton/</guid>
   <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Webinar 5 May 2021 • Sarah Battersby</title>
-  <link>https://giscience-rgs.github.io/posts/webinar-5-may-2021-sarah-battersby/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><strong>Title:</strong> One Map to Rule Them All: Spatial in the World of Self-service Analytics. &nbsp;</p>
-<p><strong>When:</strong>&nbsp;Wednesday 5th May 2021, 17:00 pm UK / 16:00 pm UTC</p>
-<p><strong>Register at:</strong> <a href="https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-spatial-in-the-world-of-self-service-analytics-tickets-151306115665">https://www.eventbrite.co.uk/e/rgs-ibg-giscience-webinar-spatial-in-the-world-of-self-service-analytics-tickets-151306115665</a></p>
-<p><img src="https://geoinfo.science/wp-content/uploads/2021/04/giscience-webinar-template-eventbrite-banner-6.png?w=1024" class="img-fluid"></p>
-<p><strong>Abstract</strong>: There are many online and desktop tools designed to make mapping easy for&nbsp;<em>anyone</em>&nbsp;who wants to explore, analyze, and communicate the spatial patterns in their data. However, as geographers seem to enjoy reminding everyone, “spatial is special,” and the decision making that goes into finding, understanding, and communicating spatial patterns can be complex.&nbsp; In this presentation, I will address some of the technical, design, and analytics challenges that we face in designing self-service spatial analytics tools, as well as consideration of the broader challenges of how&nbsp;<em>people</em>&nbsp;think about maps that make the whole process more challenging (and more interesting).</p>
-<p>Sarah Battersby is a Principal Research Scientist on the Tableau Research team at Salesforce.&nbsp; Sarah’s primary area of focus is cartography, with an emphasis on cognition. Her work emphasizes how to help everyone visualize and use spatial information more effectively – no advanced degree in geospatial required. &nbsp;Sarah holds a PhD in GIScience from the University of California at Santa Barbara. She is a member of the International Cartographic Association Commission on Map Projections, and is a Past President of the Cartography and Geographic Information Society (CaGIS). Sarah’s work can be found on Twitter at <a href="https://twitter.com/mapsOverlord"><span class="citation" data-cites="mapsOverlord">@mapsOverlord</span></a>.</p>
-
-
-
- ]]></description>
-  <category>webinar</category>
-  <guid>https://giscience-rgs.github.io/posts/webinar-5-may-2021-sarah-battersby/</guid>
-  <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
