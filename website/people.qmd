@@ -13,7 +13,7 @@ The following represents the current GIScRG committee structure. Please contact 
   
 ### Ordinary committee members
 
-- [Seraphim Alvanides](https://www.researchgate.net/profile/Seraphim-Alvanides) (Independent Researcher)
+- [Seraphim Alvanides](https://ram.raumplanung.tu-dortmund.de/team/dr-seraphim-alvanides/) (TU Dortmund, Germany)
 - [Nick Bearman](https://nickbearman.github.io/) (Independent Consultant)
 - [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/) (University of Bristol)
 
