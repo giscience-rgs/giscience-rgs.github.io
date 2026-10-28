@@ -1,0 +1,52 @@
+
+---
+title: "Call for Applications: GIScRG Master's Dissertation Award 2026"
+date: "2026-10-28"
+categories:
+  - call
+  - prizes
+tags:
+  - giscience
+  - gis
+  - dissertation
+  - postgraduate
+  - rgs
+---
+
+The Geographical Information Science Research Group (GIScRG) of the Royal Geographical Society with IBG (RGS-IBG) is pleased to invite applications for the **2026 Postgraduate Dissertation Award (Master's Level)**.
+
+The award recognises outstanding postgraduate research in Geographic Information Science (GIScience), spatial analysis, spatial modelling and geocomputation.
+
+## Eligibility
+
+- Dissertations must be at Master's level and have been approved or awarded between **1 January and 31 December 2026**.
+- Dissertations must be of **Distinction standard**.
+- Research should address topics relating to GIScience, spatial analysis, spatial modelling or geocomputation.
+- Dissertations must not have been submitted previously to the same award competition.
+- A maximum of **two applications per department** will be accepted from higher education institutions in the UK and the Republic of Ireland.
+
+## Application Requirements
+
+Applications must include:
+
+1. A PDF copy of the dissertation.
+2. An endorsement letter or email from the Director of Postgraduate Programme or a nominated institutional representative.
+
+Applications must be submitted by the student's institution, through the Director of Postgraduate Programme or a nominated representative, with the student's knowledge.
+
+## Submission Deadline
+
+**31 December 2026**
+
+Please email all application materials to:
+
+**Dr Xiao Li** (Prize Manager)
+
+[xiao-shaw.li@polyu.edu.hk](mailto:xiao-shaw.li@polyu.edu.hk)
+
+## Awards
+
+- **Winner:** £100 and a one-year RGS-IBG Associate Fellowship.
+- **Runner-up:** £50 and a one-year RGS-IBG Associate Fellowship.
+
+We encourage eligible students and their institutions to participate and showcase their research contributions to GIScience.
