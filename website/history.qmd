@@ -31,6 +31,12 @@ The dates reflect service documented in the committee returns, AGM papers and an
 
 [Committee handover in 2026](posts/giscrg-committee-changes-2026-27/index.qmd) · [Additions and corrections](past-committees.qmd#help-complete-the-archive)
 
+## Committee affiliations {#committee-affiliations}
+
+The map uses institutional affiliations recorded during committee service. Each member is counted once per city across the selected records.
+
+{{< include _committee-affiliations.qmd >}}
+
 ## Milestones
 
 **2005–06.** The group approved reciprocal committee representation with the Quantitative Methods Research Group in 2005. The following AGM reported on the first year of the arrangement. [August 2005 AGM record](past-committees.qmd#agm-2005)
