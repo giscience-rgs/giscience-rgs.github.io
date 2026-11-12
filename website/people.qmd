@@ -18,6 +18,9 @@ The following represents the current GIScRG committee structure. Please contact 
 - [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/) (University of Bristol)
 
 ### Past committee members
+
+Browse the [past committee archive](past-committees.qmd) for annual rosters and records of the group's early committees.
+
 - [Stef De Sabbata](https://sdesabbata.github.io/) (Geolytix, London)
 - [Kristina Wolf](https://www.south-atlantic-research.org/our-researchers/) (SAERI: South Atlantic Environmental Research Institute)
 - [Issam Al-kenani](https://www.linkedin.com/in/issam-al-kenani-14691b53/) (Cabinet Office)
