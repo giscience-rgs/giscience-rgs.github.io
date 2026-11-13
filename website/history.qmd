@@ -1,15 +1,16 @@
 ---
 title: "History of GIScRG"
 description: "The origins of the GIScience Research Group and the people who have served on its committee."
+toc-depth: 3
 ---
 
 We are grateful to everyone who has served on the GIScience Research Group committee at the Royal Geographical Society (with IBG). Our chairs, officers and committee members have brought researchers and practitioners together to share their work and have supported students and early-career researchers.
 
-[Browse past committees](past-committees.qmd) · [Meet the current committee](people.qmd)
+[Browse past committees](#past-committees) · [Meet the current committee](people.qmd)
 
 ## Origins in 2002
 
-The idea for GIScRG took shape at a meeting of the Association of American Geographers in 2002. Peter Fisher of the University of Leicester became its inaugural chair. [Inaugural committee](past-committees.qmd#inaugural-committee)
+The idea for GIScRG took shape at a meeting of the Association of American Geographers in 2002. Peter Fisher of the University of Leicester became its inaugural chair. [Inaugural committee](#inaugural-committee)
 
 The group held its first annual meeting at the Society's 2003 conference in London. Ordnance Survey supported awards for presentations on postgraduate GIS research.
 
@@ -32,3 +33,7 @@ The map shows institutional affiliations during committee service. Each person i
 **2020–21.** Andrea Ballatore started the GIScience Webinar Series with Justin van Dijk and Stef De Sabbata. The series brought speakers from around the world to share their work with the group. [GIScience Webinar Series](giscience-webinar-series.qmd)
 
 **2023.** In January, the webinar series began a collaboration with GIS Research UK (GISRUK). [Jointly organised webinars](giscience-webinar-series.qmd#past-webinars)
+
+## Past committees {#past-committees}
+
+{{< include _past-committee-rosters.qmd >}}
