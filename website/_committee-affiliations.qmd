@@ -1,11 +1,11 @@
 ```{=html}
-<!-- Map paths and city positions are preprojected from Natural Earth and GeoNames. Committee records refer to the institution keys in the embedded data. -->
+<!-- Geography uses Natural Earth and the CC0 Treforest coordinates from Wikidata Q478218. Committee records refer to the institution keys in the embedded data. -->
 <div id="giscrg-affiliations" hidden>
   <div class="map-controls">
     <label class="form-label" for="giscrg-map-record">
-      Committee record
+      Year
       <select class="form-select" id="giscrg-map-record">
-        <option value="all">All dated records</option>
+        <option value="all">All years</option>
       </select>
     </label>
   </div>
@@ -54,10 +54,6 @@
       </section>
     </div>
   </div>
-
-  <p class="affiliation-credit small text-muted">
-    GIScRG AGM records, annual reports and People page · Geography from Natural Earth and GeoNames
-  </p>
 </div>
 <noscript><p>Enable JavaScript to explore the committee affiliations map.</p></noscript>
 <style>
@@ -206,9 +202,6 @@
     margin: 0;
     overflow-wrap: anywhere;
   }
-  #giscrg-affiliations .affiliation-credit {
-    margin-block-start: 0.2rem;
-  }
   @media (pointer: coarse) {
     #giscrg-affiliations .map-point {
       min-width: 44px;
@@ -323,8 +316,8 @@
     "treforest": {
       "label": "Treforest",
       "region": "local",
-      "x": 245.46,
-      "y": 365.05
+      "x": 245.53,
+      "y": 365.30
     },
     "dortmund": {
       "label": "Dortmund",
@@ -337,12 +330,6 @@
       "region": "world",
       "x": 295.69,
       "y": 77.68
-    },
-    "tallahassee": {
-      "label": "Tallahassee",
-      "region": "world",
-      "x": 105.89,
-      "y": 67.29
     }
   },
   "institutions": {
@@ -361,7 +348,6 @@
     "northumbria": ["Northumbria University", "newcastle"],
     "southampton": ["University of Southampton", "southampton"],
     "portsmouth": ["University of Portsmouth", "portsmouth"],
-    "fsu": ["Florida State University", "tallahassee"],
     "bristol": ["University of Bristol", "bristol"],
     "newcastle": ["Newcastle University", "newcastle"],
     "oxford": ["University of Oxford", "oxford"],
@@ -373,7 +359,7 @@
   "records": [
     {
       "id": "2002",
-      "label": "2002 · Founding committee",
+      "label": "2002",
       "rows": [
         ["Peter Fisher", "leicester"],
         ["Richard Harris", "birkbeck"],
@@ -385,7 +371,7 @@
     },
     {
       "id": "2003",
-      "label": "2003 · AGM election",
+      "label": "2003",
       "rows": [
         ["Peter Fisher", "leicester"],
         ["Richard Harris", "glamorgan"],
@@ -397,7 +383,7 @@
     },
     {
       "id": "2007",
-      "label": "2007 · Annual report",
+      "label": "2007",
       "rows": [
         ["Bob Abrahart", "nottingham"],
         ["Muki Haklay", "ucl"],
@@ -412,7 +398,7 @@
     },
     {
       "id": "2015",
-      "label": "2015 · AGM elections",
+      "label": "2015",
       "rows": [
         ["Nick Malleson", "leeds"],
         ["Robin Lovelace", "leeds"],
@@ -422,7 +408,7 @@
     },
     {
       "id": "2016",
-      "label": "2016 · Annual report",
+      "label": "2016",
       "rows": [
         ["Nick Malleson", "leeds"],
         ["Adam Dennett", "ucl"],
@@ -437,7 +423,7 @@
     },
     {
       "id": "2017",
-      "label": "2017 · Annual report",
+      "label": "2017",
       "rows": [
         ["Nick Malleson", "leeds"],
         ["Adam Dennett", "ucl"],
@@ -452,7 +438,7 @@
     },
     {
       "id": "2018",
-      "label": "2018 · Annual report after the handover",
+      "label": "2018",
       "rows": [
         ["Ed Manley", "ucl"],
         ["Adam Dennett", "ucl"],
@@ -466,7 +452,7 @@
     },
     {
       "id": "2020",
-      "label": "2020 · AGM committee list",
+      "label": "2020",
       "rows": [
         ["Ed Manley", "leeds"],
         ["Stef De Sabbata", "leicester"],
@@ -479,7 +465,7 @@
     },
     {
       "id": "2021",
-      "label": "2021 · AGM committee list",
+      "label": "2021",
       "rows": [
         ["Ed Manley", "leeds"],
         ["Stef De Sabbata", "leicester"],
@@ -492,22 +478,23 @@
     },
     {
       "id": "2022",
-      "label": "2022 · AGM committee list",
+      "label": "2022",
       "rows": [
         ["Seraphim Alvanides", "northumbria"],
         ["Stef De Sabbata", "leicester"],
         ["Nick Bearman", "ucl"],
         ["Andrea Ballatore", "kcl"],
         ["Justin van Dijk", "ucl"],
-        ["James Haworth", "ucl"]
+        ["James Haworth", "ucl"],
+        ["Ziqi Li", "glasgow"]
       ]
     },
     {
       "id": "2023",
-      "label": "2023 · AGM committee list",
+      "label": "2023",
       "rows": [
         ["Stef De Sabbata", "leicester"],
-        ["Ziqi Li", "fsu"],
+        ["Ziqi Li", "glasgow"],
         ["Nick Bearman", "ucl"],
         ["Seraphim Alvanides", "northumbria"],
         ["Daniel Colson", "leeds"],
@@ -518,7 +505,7 @@
     },
     {
       "id": "2024",
-      "label": "2024 · Annual report and handover",
+      "label": "2024",
       "rows": [
         ["Stef De Sabbata", "leicester"],
         ["Rui Zhu", "bristol"],
@@ -527,12 +514,13 @@
         ["Issam Al-kenani", null],
         ["Andrea Ballatore", "kcl"],
         ["Kristina Wolf", "newcastle"],
-        ["Xiao Li", "oxford"]
+        ["Xiao Li", "oxford"],
+        ["Ziqi Li", "glasgow"]
       ]
     },
     {
       "id": "2025",
-      "label": "2025 · AGM committee list",
+      "label": "2025",
       "rows": [
         ["Stef De Sabbata", "leicester"],
         ["Rui Zhu", "bristol"],
@@ -542,13 +530,13 @@
         ["Issam Al-kenani", null],
         ["Seraphim Alvanides", null],
         ["James Haworth", "ucl"],
-        ["Ziqi Li", "fsu"],
+        ["Ziqi Li", "glasgow"],
         ["Godwin Yeboah", "warwick"]
       ]
     },
     {
       "id": "current",
-      "label": "2026–27 · Current committee",
+      "label": "2026–27",
       "rows": [
         ["Mingshu Wang", "glasgow"],
         ["Xiao Li", "polyu"],
@@ -811,10 +799,8 @@
   function groupMembers(records) {
     const cityGroups = new Map();
     const mapped = new Set();
-    const named = new Set();
     for (const record of records) {
       for (const [person, key] of record.rows) {
-        named.add(person);
         if (!key) continue;
         const [institution, cityId] = data.institutions[key];
         if (!cityGroups.has(cityId)) {
@@ -830,7 +816,7 @@
     const places = [...cityGroups.values()].sort((a, b) =>
       b.people.size - a.people.size || a.point.label.localeCompare(b.point.label)
     );
-    return { places, mapped: mapped.size, named: named.size };
+    return { places, mapped: mapped.size };
   }
 
   function createMarker(map, city) {
@@ -952,11 +938,10 @@
     recordSelect.value = selectedRecord;
     const isAll = selectedRecord === "all";
     const records = isAll ? data.records : [byId.get(selectedRecord)];
-    const { places, mapped, named } = groupMembers(records);
+    const { places, mapped } = groupMembers(records);
     groups = places;
-    const people = isAll ? word(mapped, "person mapped", "people mapped") : mapped + " of " + named + " people mapped";
-    coverage.textContent = people + " · " + word(groups.length, "city", "cities") +
-      (isAll ? " · " + word(records.length, "dated record", "dated records") : "");
+    coverage.textContent = word(mapped, "person mapped", "people mapped") +
+      " · " + word(groups.length, "city", "cities");
     citySelect.replaceChildren(...groups.map(city => new Option(city.point.label, city.id)));
     worldPanel.hidden = !groups.some(city => city.point.region === "world");
     for (const map of maps) {
