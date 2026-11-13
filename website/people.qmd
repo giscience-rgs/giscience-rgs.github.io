@@ -17,20 +17,4 @@ The following represents the current GIScRG committee structure. Please contact 
 - [Nick Bearman](https://nickbearman.github.io/) (Independent Consultant)
 - [Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/) (University of Bristol)
 
-### Past committee members
-
-Browse the [past committee archive](past-committees.qmd) for annual rosters and records of the group's early committees.
-
-- [Stef De Sabbata](https://sdesabbata.github.io/) (Geolytix, London)
-- [Kristina Wolf](https://www.south-atlantic-research.org/our-researchers/) (SAERI: South Atlantic Environmental Research Institute)
-- [Issam Al-kenani](https://www.linkedin.com/in/issam-al-kenani-14691b53/) (Cabinet Office)
-- [Alekos Alexiou](http://geographicdatascience.com/people/#alekosalexiou) (University of Liverpool)
-- [Bonnie Buyuklieva](https://bonnie-buyuklieva.github.io/) (University College London)
-- [Adam Dennett](https://www.ucl.ac.uk/bartlett/casa/dr-adam-dennett) (University College London)
-- [Ziqi Li](https://www.gla.ac.uk/schools/ges/staff/ziqili/) (University of Glasgow)
-- [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley) (University of Leeds)
-- [Rebecca Sharpe](https://www.shu.ac.uk/about-us/our-people/staff-profiles/rebecca-sharpe#content) (Sheffield Hallam University)
-- [Alan Smith](https://www.plymouth.ac.uk/staff/alan-smith) (University of Plymouth)
-- [Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/people/gyeboah/) (University of Warwick)
-
 _Last update: September 2026_

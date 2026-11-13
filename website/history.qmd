@@ -9,43 +9,25 @@ We are grateful to everyone who has served on the GIScience Research Group commi
 
 ## Origins in 2002
 
-Peter Fisher of the University of Leicester was the inaugural chair. His colleagues recalled that the idea for the group took shape at a meeting of the Association of American Geographers in 2002. The April nominations and the draft minutes of the 4 November meeting document the group's first committee. [Inaugural committee](past-committees.qmd#inaugural-committee) · [In memoriam: Prof Peter Fisher](https://www.tandfonline.com/doi/full/10.1080/13658816.2014.939655)
+The idea for GIScRG took shape at a meeting of the Association of American Geographers in 2002. Peter Fisher of the University of Leicester became its inaugural chair. [Inaugural committee](past-committees.qmd#inaugural-committee)
 
-The group's first AGM took place in London on 5 September 2003 during the Society's annual conference. Ordnance Survey supported awards for presentations in a session on postgraduate GIS research. [September 2003 AGM record](past-committees.qmd#agm-2003)
-
-## Chairs {#chairs}
-
-The dates reflect service documented in the committee returns, AGM papers and annual reports.
-
-| Chair | Recorded service |
-| --- | --- |
-| Peter Fisher, inaugural chair | [2002](past-committees.qmd#inaugural-committee) to [August 2004](past-committees.qmd#agm-2004) |
-| Bob Abrahart | [August 2004](past-committees.qmd#agm-2004) to [April 2009](past-committees.qmd#agm-2009) |
-| Linda See and Alison Heppenstall, joint chairs | [Elected April 2009](past-committees.qmd#agm-2009) · [In post April 2010](past-committees.qmd#agm-2010) |
-| Seraphim Alvanides | [In post April 2011](past-committees.qmd#agm-2011) · [Outgoing April 2014](past-committees.qmd#agm-2014) |
-| Alex Singleton | [2014–15](past-committees.qmd#agm-2015) |
-| Nick Malleson | [Elected April 2015](past-committees.qmd#agm-2015) · [In post June 2018](past-committees.qmd#committee-2018-19) |
-| Ed Manley | [2018–19](past-committees.qmd#committee-2018-19) to [2020–21](past-committees.qmd#committee-2020-21) |
-| Seraphim Alvanides | [2021–22](past-committees.qmd#committee-2021-22) |
-| Stef De Sabbata | [2022–23](past-committees.qmd#committee-2022-23) to [2025–26](past-committees.qmd#committee-2025-26) |
-
-[Committee handover in 2026](posts/giscrg-committee-changes-2026-27/index.qmd) · [Additions and corrections](past-committees.qmd#help-complete-the-archive)
+The group held its first annual meeting at the Society's 2003 conference in London. Ordnance Survey supported awards for presentations on postgraduate GIS research.
 
 ## Committee affiliations {#committee-affiliations}
 
-The map uses institutional affiliations recorded during committee service. Each member is counted once per city across the selected records.
+The map shows institutional affiliations during committee service. Each person is counted once per city.
 
 {{< include _committee-affiliations.qmd >}}
 
 ## Milestones
 
-**2005–06.** The group approved reciprocal committee representation with the Quantitative Methods Research Group in 2005. The following AGM reported on the first year of the arrangement. [August 2005 AGM record](past-committees.qmd#agm-2005)
+**2005–06.** GIScRG and the Quantitative Methods Research Group began sharing committee representatives.
 
-**2009–11.** The 2009 AGM recorded a new dissertation competition. In 2011, the group agreed to focus the postgraduate prize on master's dissertations. [Dissertation prize archive](dissertation-prizes.qmd)
+**2009–11.** The group introduced a dissertation competition in 2009. In 2011, the group agreed to focus the postgraduate prize on master's dissertations. [Dissertation prize archive](dissertation-prizes.qmd)
 
 <!-- GIScRG AGM Minutes 2009.doc, treasurer's report. GIScRG AGM Minutes 2011.doc, item 4.4. -->
 
-**2015.** The group agreed to fund two bursary places for early-career researchers at a workshop in Leicester celebrating Peter Fisher's life. [April 2015 AGM record](past-committees.qmd#agm-2015)
+**2015.** The group agreed to fund two bursary places for early-career researchers at a workshop in Leicester celebrating Peter Fisher's life.
 
 **2020–21.** Andrea Ballatore started the GIScience Webinar Series with Justin van Dijk and Stef De Sabbata. The series brought speakers from around the world to share their work with the group. [GIScience Webinar Series](giscience-webinar-series.qmd)
 
