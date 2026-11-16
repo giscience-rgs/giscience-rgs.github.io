@@ -26,10 +26,10 @@ The map shows institutional affiliations during committee service. Each person i
 | --- | --- |
 | Peter Fisher, inaugural chair | [2002](past-committees.qmd#inaugural-committee) to [August 2004](past-committees.qmd#agm-2004) |
 | Bob Abrahart | [August 2004](past-committees.qmd#agm-2004) to [April 2009](past-committees.qmd#agm-2009) |
-| Linda See and Alison Heppenstall, joint chairs | [Elected April 2009](past-committees.qmd#agm-2009) · [In post April 2010](past-committees.qmd#agm-2010) |
-| Seraphim Alvanides | [In post April 2011](past-committees.qmd#agm-2011) · [Outgoing April 2014](past-committees.qmd#agm-2014) |
+| Linda See and Alison Heppenstall, joint chairs | [April 2009](past-committees.qmd#agm-2009) to [April 2010](past-committees.qmd#agm-2010) |
+| Seraphim Alvanides | [April 2011](past-committees.qmd#agm-2011) to [April 2014](past-committees.qmd#agm-2014) |
 | Alex Singleton | [2014–15](past-committees.qmd#agm-2015) |
-| Nick Malleson | [Elected April 2015](past-committees.qmd#agm-2015) · [In post June 2018](past-committees.qmd#committee-2018-19) |
+| Nick Malleson | [April 2015](past-committees.qmd#agm-2015) to [June 2018](past-committees.qmd#committee-2018-19) |
 | Ed Manley | [2018–19](past-committees.qmd#committee-2018-19) to [2020–21](past-committees.qmd#committee-2020-21) |
 | Seraphim Alvanides | [2021–22](past-committees.qmd#committee-2021-22) |
 | Stef De Sabbata | [2022–23](past-committees.qmd#committee-2022-23) to [2025–26](past-committees.qmd#committee-2025-26) |
