@@ -53,7 +53,7 @@ The map shows institutional affiliations during committee service. Each person i
 
 {{< include _past-committee-rosters.qmd >}}
 
-## Acknowledgements
+## Acknowledgement
 
 This historical record has been reconstructed from committee membership returns, AGM minutes, annual reports and archival materials kindly provided by the Royal Geographical Society (with IBG), alongside records maintained by previous GIScRG committees. 
 
